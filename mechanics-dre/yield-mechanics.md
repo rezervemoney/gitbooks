@@ -1,23 +1,25 @@
 # Yield Mechanics
 
-Below is a step-by-step “token-flow ledger” that shows exactly where DRE's yields come from, where they go, and why they can more sustainable than OlympusDAO’s model. We'll start with a 60-second refresher on OHM mechanics, then layer-in the Harberger-tax twist.
+Below is a step-by-step “token-flow ledger” that shows exactly where DRE's yields come from, where they go, and why they can more sustainable than OlympusDAO’s model.&#x20;
 
-### OlympusDAO Recap
+## OlympusDAO Recap
 
-| Symbol            | What it is                   | Typical 2021 value                |
-| ----------------- | ---------------------------- | --------------------------------- |
-| PCV\_t            | Treasury assets at epoch t   | $500 M (stablecoins + LP)         |
-| S\_t              | Total OHM supply             | 17 M                              |
-| sS\_t             | Staked supply (≈ 97 %)       | 16.5 M                            |
-| B\_t              | New bond deposits this epoch | $3 M                              |
-| r\\\_\text{epoch} | Rebase reward rate           | 0.35 % per 8 h  →  20 K % APY     |
-| \Delta S\_t       | OHM minted to stakers        | sS\_{t-1}\times r\\\_\text{epoch} |
+We'll start with a 60-second refresher on OHM mechanics, then layer-in the Harberger-tax twist to undertand how the system is different.
+
+| Symbol              | What it is                   | Typical 2021 value                |
+| ------------------- | ---------------------------- | --------------------------------- |
+| $$PCV_t$$           | Treasury assets at epoch t   | $500 M (stablecoins + LP)         |
+| $$S_t$$             | Total OHM supply             | 17 M                              |
+| $$sS_t$$            | Staked supply (≈ 97 %)       | 16.5 M                            |
+| $$B_t$$             | New bond deposits this epoch | $3 M                              |
+| $$r\_\text{epoch}$$ | Rebase reward rate           | 0.35 % per 8 h  →  20 K % APY     |
+| $$\Delta S_t$$      | OHM minted to stakers        | sS\_{t-1}\times r\\\_\text{epoch} |
 
 When OHM trades at a fat premium to its backing, discounted bonds become ultra-profitable, so B\_t soars → Treasury swells → policy can maintain (or even raise) r\_\text{epoch} without breaching the 1 OHM ≥ $1 backing rule.
 
 In effect speculative inflows are alchemised into rebase yield.
 
-### DRE – adding a Harberger-tax fuel line
+## DRE – adding a Harberger-tax fuel line
 
 | Symbol             | What it is                        | Default                                   |
 | ------------------ | --------------------------------- | ----------------------------------------- |
@@ -26,30 +28,35 @@ In effect speculative inflows are alchemised into rebase yield.
 |  $$r_\text{min}$$  | Floor rate (1000 % APR)           | 0.092 % per epoch                         |
 | $$\tau$$           | Time since last bond sale (hours) |                                           |
 
-#### 2.2 Reward-rate formula
+### Reward-rate formula
+
+The reward rate formula is enabled as long as the token price trades higher than the protocol backing and linear increases until a new bond is cleared.
 
 #### $$r_t \;=\; \max\!\Bigl(r_\text{min},\; r_\text{max}-\tfrac{\tau}{12}\,(r_\text{max}-r_\text{min})\Bigr)$$
 
 _Resets to_ $$r_\text{max}$$ _whenever a bond clears._
 
-#### 2.3 Treasury growth
+### Treasury growth
+
+Treasury growth (Or PCV growth) is the sum of all the new bond sales and the taxes collected from the Harberger tax.
 
 $$\Delta PCV_t = B_t \;+\; H_t$$
 
-#### 2.4 Token emissions
+### Token emissions
 
 $$\Delta S_t = sS_{t-1} \times r_t \quad\text{distributed as:}\quad \begin{cases} 85\% &\text{→ stakers (sDRE)}\\ 10\% &\text{→ veDRE lockers (boost)}\\ 5\% &\text{→ referral payouts} \end{cases}$$
 
-#### 2.5 Keeping each HBA “over-collateralised” 
+### Keeping each DRE “over-collateralised”
 
-Policy enforces
+To keep every DRE token over-collateralized, the protocol continously checks a backing ratio and ensures that it is always above 1.
 
-\text{Backing ratio } \beta\_t = \frac{PCV\_t}{S\_t} \ge 1\
+$$\text{Backing ratio } \beta_t = \frac{PCV_t}{S_t} \ge 1$$
 
+If $$\beta_t$$ threatens to drop below 1 the protocol throttles $$r_t$$ toward $$r_\text{min}$$ (or pauses rebases) until fresh $$B_t + H_t$$ arrive.
 
-If \beta\_t threatens to drop below 1 the controller algorithm throttles r\_t toward r\_\text{min} (or pauses rebases) until fresh B\_t + H\_t arrive.
+## Worked example – one 8-hour epoch
 
-### Worked example – one 8-hour epoch
+To understand the mechanics better, we go through an 8 hour epoch to see how the variables play out.
 
 | Item                       | Value                           |
 | -------------------------- | ------------------------------- |
@@ -69,4 +76,6 @@ In this example,&#x20;
 * Only 3.6 k DRE are printed, boosting stakers yet barely denting the backing ratio.
 * If no new bonds land for 12 h, r\_t decays to 0.092 % (= 1000 % APR) — still sky-high, but four-times lower inflation.
 
-_Rebase rewards are printed out of thin air, but they live or die by whether the Treasury can keep up._  OHM relied purely on waves of speculative bonding to fund that backing. DRE adds a second hose (Harberger taxes) that keeps dollars flowing even when hype cools—letting it maintain high yields without blowing up the collateral ratio. &#x20;
+_Rebase rewards are printed out of thin air, but they live or die by whether the Treasury can keep up._  OHM relied purely on waves of speculative bonding to fund that backing.&#x20;
+
+DRE adds a second hose (Harberger taxes) that keeps dollars flowing even when hype cools—letting it maintain high yields without blowing up the collateral ratio. &#x20;

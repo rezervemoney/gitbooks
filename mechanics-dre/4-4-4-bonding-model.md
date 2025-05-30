@@ -6,7 +6,7 @@ description: This page goes through the (4,4,4) bond and how it works
 
 The (4,4,4) bond bundles bonding, vesting, and auto-compounding into a single user flow: users purchase a bond that vests over four days, and at each four-day interval the protocol automatically restakes the vested tokens twice, resulting in a total of three compounding cycles over twelve days.&#x20;
 
-This streamlined mechanism delivers superior capital efficiency, frictionless compounding, and stronger alignment between user incentives and protocol health compared to OlympusDAO’s five-day linear-vesting bonds, which require manual claiming and restaking. ￼ ￼
+This streamlined mechanism delivers superior capital efficiency, frictionless compounding, and stronger alignment between user incentives and protocol health compared to OlympusDAO’s five-day linear-vesting bonds, which require manual claiming and restaking.
 
 ## Structure of a (4,4,4) Bond
 
@@ -23,16 +23,16 @@ By embedding restaking logic in the bonding contract, the (4,4,4) model eliminat
 Suppose the protocol offers a 20 % APR bond (annualized) and an 8-hour epoch rebase rate of 0.22 %. A user deposits $1,000 of assets at a 15 % discount, so they are entitled to 1,176.47 tokens (1,000 / (1–0.15)).&#x20;
 
 1. **Day 0–4 (Epochs 0–12)**
-   * Vest tranche 1: 1,176.47 / 3 ≈ 392.16 tokens are released linearly over four days.
-   * These tokens are auto-staked, earning 0.22 % per epoch (3 epochs/day).
+   * Vest tranche 1: 1,176.47 / 3 ≈ 392.16 DRE are released linearly over four days.
+   * These tokens are auto-staked, earning 0.22% per epoch (3 epochs/day).
 2. **Day 4–8 (Epochs 13–24)**
    * Tranche 1 continues to earn rebases in staked form.
-   * Tranche 2 (another 392.16 tokens) vests and is immediately staked.
+   * Tranche 2 (another 392.16 DRE) vests and is immediately staked.
 3. **Day 8–12 (Epochs 25–36)**
    * All previously issued tokens (tranches 1 & 2) compound further.
    * Tranche 3 vests into staking, completing the three-cycle compounding.
 
-After twelve days, the user holds 1,176.47 × (1 + 0.22 %)³ ≈ 1,184.3 tokens, plus ongoing staking rewards thereafter.
+After twelve days, the user holds 1,176.47 × (1 + 0.22 %)³ ≈ 1,184.3 DREns, plus ongoing staking rewards thereafter.
 
 ## Why It Beats OlympusDAO’s Model
 
