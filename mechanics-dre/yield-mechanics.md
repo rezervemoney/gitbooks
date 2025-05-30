@@ -23,7 +23,7 @@ We'll start with a 60-second refresher on OHM mechanics, then layer-in the Harbe
 | $$r\_\text{epoch}$$ | Rebase reward rate           | 0.35 % per 8 h  →  20 K % APY     |
 | $$\Delta S_t$$      | OHM minted to stakers        | sS\_{t-1}\times r\\\_\text{epoch} |
 
-When OHM trades at a fat premium to its backing, discounted bonds become ultra-profitable, so B\_t soars → Treasury swells → policy can maintain (or even raise) r\_\text{epoch} without breaching the 1 OHM ≥ $1 backing rule.
+When OHM trades at a fat premium to its backing, discounted bonds become ultra-profitable, so $$B_t$$ soars → Treasury swells → policy can maintain (or even raise) $$r_\text{epoch}$$ without breaching the 1 OHM ≥ $1 backing rule.
 
 In effect speculative inflows are alchemised into rebase yield.
 
@@ -31,7 +31,7 @@ In effect speculative inflows are alchemised into rebase yield.
 
 | Symbol             | What it is                        | Default                                   |
 | ------------------ | --------------------------------- | ----------------------------------------- |
-| H\_t               | Harberger-tax inflow this epoch   | Declared-value × 5 % APR × (epoch length) |
+| $$H_t$$            | Harberger-tax inflow this epoch   | Declared-value × 5 % APR × (epoch length) |
 |  $$r_\text{max}$$  | Initial reward rate (5000 % APR)  | 0.359 % per epoch                         |
 |  $$r_\text{min}$$  | Floor rate (1000 % APR)           | 0.092 % per epoch                         |
 | $$\tau$$           | Time since last bond sale (hours) |                                           |
@@ -66,23 +66,23 @@ If $$\beta_t$$ threatens to drop below 1 the protocol throttles $$r_t$$ toward $
 
 To understand the mechanics better, we go through an 8 hour epoch to see how the variables play out.
 
-| Item                       | Value                           |
-| -------------------------- | ------------------------------- |
-| Starting PCV               | $10 000 000                     |
-| Starting supply            | 1 000 000 DRE                   |
-| Declared sDRE value        | $30 M                           |
-| Bond inflow B\_t           | $100 000 (4,4,4 bond)           |
-| Harberger tax H\_t         | $30 M × 5 % / (365×3) ≈ $12 330 |
-| Epoch reward rate r\_t     | 0.359 % (fresh bond just hit)   |
-| New HBA minted \Delta S\_t | 1 000 000 × 0.359 % = 3 590     |
-| PCV after epoch            | $10 112 330                     |
-| Backing per DRE            | $10.03 (↑ from $10.00)          |
+| Item                          | Value                           |
+| ----------------------------- | ------------------------------- |
+| Starting PCV                  | $10 000 000                     |
+| Starting supply               | 1 000 000 DRE                   |
+| Declared sDRE value           | $30 M                           |
+| Bond inflow $$B_t$$           | $100 000 (4,4,4 bond)           |
+| Harberger tax $$H_t$$         | $30 M × 5 % / (365×3) ≈ $12 330 |
+| Epoch reward rate $$r_t$$     | 0.359 % (fresh bond just hit)   |
+| New HBA minted $$\Delta S_t$$ | 1 000 000 × 0.359 % = 3 590     |
+| PCV after epoch               | $10 112 330                     |
+| Backing per DRE               | $10.03 (↑ from $10.00)          |
 
 In this example,&#x20;
 
 * The Treasury absorbs $112k without selling any DRE.
 * Only 3.6 k DRE are printed, boosting stakers yet barely denting the backing ratio.
-* If no new bonds land for 12 h, r\_t decays to 0.092 % (= 1000 % APR) — still sky-high, but four-times lower inflation.
+* If no new bonds land for 12 h, $$r_t$$ decays to 0.092 % (= 1000 % APR) — still sky-high, but four-times lower inflation.
 
 _Rebase rewards are printed out of thin air, but they live or die by whether the Treasury can keep up._  OHM relied purely on waves of speculative bonding to fund that backing.&#x20;
 

@@ -3,8 +3,8 @@ description: >-
   Below is a concise game‐theoretic breakdown of the DRE Protocol, showing each
   principal actor’s strategic options, their immediate effects, impacts on the
   protocol, and the incentives.
-cover: ../.gitbook/assets/fdec1b3b81774b9daaea7747e442a7d3.png
-coverY: -151
+cover: ../.gitbook/assets/ddre.png
+coverY: -105
 ---
 
 # Game Theory Mechanics
