@@ -1,7 +1,7 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/imaged.png
-coverY: 0
+cover: .gitbook/assets/image-der.png
+coverY: 121
 layout:
   cover:
     visible: true
