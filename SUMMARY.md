@@ -4,10 +4,12 @@
 
 ## Mechanics - DRE
 
-* [DRE vs OHM](mechanics-dre/dre-vs-ohm.md)
+* [What is the Harberger Tax?](mechanics-dre/what-is-the-harberger-tax.md)
+* [Staking DRE](mechanics-dre/staking-dre.md)
+* [Game Theory Mechanics](mechanics-dre/game-theory-mechanics.md)
 * [(4,4,4) Bonding Model](mechanics-dre/4-4-4-bonding-model.md)
 * [Yield Mechanics](mechanics-dre/yield-mechanics.md)
-* [What is the Harberger Tax?](mechanics-dre/what-is-the-harberger-tax.md)
+* [DRE vs OHM](mechanics-dre/dre-vs-ohm.md)
 
 ## Governance - DrDRE
 
