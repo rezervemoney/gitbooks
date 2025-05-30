@@ -6,8 +6,9 @@
 
 * [What is the Harberger Tax?](mechanics-dre/what-is-the-harberger-tax.md)
 * [Staking DRE](mechanics-dre/staking-dre.md)
-* [Game Theory Mechanics](mechanics-dre/game-theory-mechanics.md)
 * [(4,4,4) Bonding Model](mechanics-dre/4-4-4-bonding-model.md)
+* [Protocol Controlled Value (PCV)](mechanics-dre/protocol-controlled-value-pcv.md)
+* [Game Theory Mechanics](mechanics-dre/game-theory-mechanics.md)
 * [Yield Mechanics](mechanics-dre/yield-mechanics.md)
 * [DRE vs OHM](mechanics-dre/dre-vs-ohm.md)
 

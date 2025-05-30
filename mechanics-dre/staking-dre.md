@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/imageds.png
+coverY: -31
+---
+
 # Staking DRE
 
 Staking DRE is the foundational way for participants to align with the DRE Protocol’s mission of efficient asset allocation and continuous value growth. When you stake DRE, you lock your tokens into the protocol and receive sDRE in return, representing your share of both ongoing Harberger-tax revenue and bond-driven treasury growth.&#x20;
