@@ -1,7 +1,7 @@
 ---
 icon: hand-wave
 cover: .gitbook/assets/image-der.png
-coverY: 167.91989198919893
+coverY: 179.64986498649864
 layout:
   cover:
     visible: true

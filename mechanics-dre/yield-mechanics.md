@@ -1,3 +1,11 @@
+---
+description: >-
+  This section explains how the yield mechanics work for the DRE and how it's
+  different from the OHM model
+cover: ../.gitbook/assets/engine.png
+coverY: 0
+---
+
 # Yield Mechanics
 
 Below is a step-by-step “token-flow ledger” that shows exactly where DRE's yields come from, where they go, and why they can more sustainable than OlympusDAO’s model.&#x20;
