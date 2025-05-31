@@ -23,16 +23,18 @@ By embedding restaking logic in the bonding contract, the (4,4,4) model eliminat
 Suppose the protocol offers a 20 % APR bond (annualized) and an 8-hour epoch rebase rate of 0.22 %. A user deposits $1,000 of assets at a 15 % discount, so they are entitled to 1,176.47 tokens (1,000 / (1–0.15)).&#x20;
 
 1. **Day 0–4 (Epochs 0–12)**
-   * Vest tranche 1: 1,176.47 / 3 ≈ 392.16 DRE are released linearly over four days.
+   * Vest tranche 1: 1,176.47 / 3 ≈ 392.16 DRE are released linearly and staked into sDRE.
    * These tokens are auto-staked, earning 0.22% per epoch (3 epochs/day).
+   * If a user wants to retrieve the underlying DRE, then should trigger an unstake request which gives out liquid DRE in a 3 day period. (Which means if a user chooses to be aggressive and not go for staking, they'll get 33% of their yield upfront in a 3 day cliff).
 2. **Day 4–8 (Epochs 13–24)**
    * Tranche 1 continues to earn rebases in staked form.
    * Tranche 2 (another 392.16 DRE) vests and is immediately staked.
+   * Same logic for withdrawals applies as above.
 3. **Day 8–12 (Epochs 25–36)**
    * All previously issued tokens (tranches 1 & 2) compound further.
    * Tranche 3 vests into staking, completing the three-cycle compounding.
 
-After twelve days, the user holds 1,176.47 × (1 + 0.22 %)³ ≈ 1,184.3 DREns, plus ongoing staking rewards thereafter.
+After twelve days, the user holds 1,176.47 × (1 + 0.22 %)³ ≈ 1,184.3 DRE, plus ongoing staking rewards thereafter.
 
 ## Why It Beats OlympusDAO’s Model
 
