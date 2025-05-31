@@ -38,7 +38,7 @@ In effect speculative inflows are alchemised into rebase yield.
 
 ### Reward-rate formula
 
-The reward rate formula is enabled as long as the token price trades higher than the protocol backing and linear increases until a new bond is cleared.
+The reward rate formula is enabled as long as the token price trades higher than the protocol backing and linearly decreases until a new bond is cleared.
 
 #### $$r_t \;=\; \max\!\Bigl(r_\text{min},\; r_\text{max}-\tfrac{\tau}{12}\,(r_\text{max}-r_\text{min})\Bigr)$$
 

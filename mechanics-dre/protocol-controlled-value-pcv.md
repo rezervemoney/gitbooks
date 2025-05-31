@@ -7,13 +7,13 @@ description: >-
 
 # Protocol Controlled Value (PCV)
 
-In the DRE Protocol, PCV represents the on-chain assets the protocol itself owns and controls—distinct from user-supplied liquidity. PCV underwrites every DRE token, provides perpetually available liquidity, and funds yield-generating deployments.&#x20;
+In the DRE Protocol, PCV represents the on-chain assets the protocol itself owns and controls—distinct from user-supplied liquidity. PCV underwrites every DRE token, provides perpetually available liquidity, and funds yield-generating deployments.
 
 By sourcing PCV from both bond proceeds and Harberger-tax inflows, DRE ensures that staking rewards (rebases) and strategic treasury actions are always backed by real capital. Robust governance over PCV allocation and risk management safeguards DRE’s peg and amplifies long-term protocol health.
 
 ## What Is PCV in DRE?
 
-Protocol-Controlled Value in DRE is the sum of all stablecoins, LP tokens, and Harberger-tax receipts held in DRE’s treasury smart contracts. Unlike Total Value Locked (TVL), which includes assets users can withdraw, PCV is reserved exclusively for protocol objectives—backing DRE at a minimum $1-per-token ratio and seeding permanent liquidity on decentralized exchanges (POL) ￼.
+Protocol-Controlled Value in DRE is the sum of all stablecoins, LP tokens, and Harberger-tax receipts held in DRE’s treasury smart contracts. Unlike Total Value Locked (TVL), which includes assets users can withdraw, PCV is reserved exclusively for protocol objectives—backing DRE at a minimum $1-per-token ratio and seeding permanent liquidity on decentralized exchanges (POL).
 
 In DRE’s dual-token design, PCV fuels both:
 
@@ -40,6 +40,6 @@ In DRE’s dual-token design, PCV fuels both:
 
 ## Governance & Risk Management
 
-DRE’s DrDre token holders vote on all PCV-related parameters: bond discounts, Harberger-tax rate, surplus targets, and deployment strategies. In stress scenarios (e.g., asset de-pegging), the multi-tier defense ladder triggers sequential actions—rebase throttling, inverse bonds, surplus draws, and, if needed, DrDre insurance auctions—to restore $$\beta\ge1$$ without jeopardizing protocol integrity  .
+DRE’s DrDre token holders vote on all PCV-related parameters: bond discounts, Harberger-tax rate, surplus targets, and deployment strategies. In stress scenarios (e.g., asset de-pegging), the multi-tier defense ladder triggers sequential actions—rebase throttling, inverse bonds, surplus draws, and, if needed, DrDre insurance auctions—to restore $$\beta\ge1$$ without jeopardizing protocol integrity .
 
 By centralizing capital under on-chain governance and layering diverse revenue streams, DRE’s PCV model offers a resilient, transparent, and growth-oriented treasury—ensuring that every DRE token remains backed, liquid, and primed for sustainable yield.

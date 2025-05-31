@@ -9,17 +9,17 @@ coverY: -105
 
 # Game Theory Mechanics
 
-_Before diving into specifics, it’s helpful to recognize that the DRE Protocol is designed as a mechanism‐design game in which each participant’s best response aligns with overall protocol health. Stakers, bonders, asset owners (declaring Harberger prices), and governance token holders (DrDre) all face strategic trade‐offs—between immediate gains, future yield, and downside risk—that are carefully balanced by on‐chain rules and incentives ￼._
+_Before diving into specifics, it’s helpful to recognize that the DRE Protocol is designed as a mechanism‐design game in which each participant’s best response aligns with overall protocol health. Stakers, bonders, asset owners (declaring Harberger prices), and governance token holders (DrDre) all face strategic trade‐offs—between immediate gains, future yield, and downside risk—that are carefully balanced by on‐chain rules and incentives._
 
-At the heart of DRE’s game is the Harberger tax, which asks asset owners to self-assess a value and pay a continuous tax on it, knowing that anyone can buy the asset at that price. This creates a classic mechanism‐design scenario: if you undervalue your position, you risk someone sniping it; if you overvalue, you pay excessive tax—driving you to declare your true reservation price in equilibrium  .
+At the heart of DRE’s game is the Harberger tax, which asks asset owners to self-assess a value and pay a continuous tax on it, knowing that anyone can buy the asset at that price. This creates a classic mechanism‐design scenario: if you undervalue your position, you risk someone sniping it; if you overvalue, you pay excessive tax—driving you to declare your true reservation price in equilibrium.
 
-Because every declared valuation directly funds the common treasury (PCV), rational actors internalize the externality: their tax payments bolster everyone’s future rebases, creating a public‐goods funding game where collective payoff increases as declarations stabilize near true values  .
+Because every declared valuation directly funds the common treasury (PCV), rational actors internalize the externality: their tax payments bolster everyone’s future rebases, creating a public‐goods funding game where collective payoff increases as declarations stabilize near true values.
 
 ## Staking and the (3,3) Dynamics
 
-DRE staking mirrors OlympusDAO’s (3,3) game theory meme, where the most profitable joint strategy is for all players to stake rather than sell or bond ￼.&#x20;
+DRE staking mirrors OlympusDAO’s (3,3) game theory meme, where the most profitable joint strategy is for all players to stake rather than sell or bond.
 
-In DRE’s variant, choosing to stake DRE (becoming sDRE) not only earns rebases but also strengthens PCV via Harberger taxes—so staking yields a payoff of +4, while selling or refusing to declare an honest value is strictly dominated, reinforcing a cooperative equilibrium .
+In DRE’s variant, choosing to stake DRE (becoming sDRE) not only earns rebases but also strengthens PCV via Harberger taxes—so staking yields a payoff of +4, while selling or refusing to declare an honest value is strictly dominated, reinforcing a cooperative equilibrium.
 
 ## Bonding as a Commitment Game: The (4-4-4) Model
 

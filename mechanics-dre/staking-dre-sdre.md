@@ -3,13 +3,13 @@ cover: ../.gitbook/assets/imageds.png
 coverY: -31
 ---
 
-# Staking DRE
+# Staking DRE - sDRE
 
-Staking DRE is the foundational way for participants to align with the DRE Protocol’s mission of efficient asset allocation and continuous value growth. When you stake DRE, you lock your tokens into the protocol and receive sDRE in return, representing your share of both ongoing Harberger-tax revenue and bond-driven treasury growth.&#x20;
+Staking DRE is the foundational way for participants to align with the DRE Protocol’s mission of efficient asset allocation and continuous value growth. When you stake DRE, you lock your tokens into the protocol and receive sDRE in return, representing your share of both ongoing Harberger-tax revenue and bond-driven treasury growth.
 
 Unlike simply holding DRE, staking transforms passive balances into an active yield-bearing position—and grants you governance influence via your sDRE balance.
 
-OlympusDAO pioneered the idea of rebasing tokens—automatically minting new tokens for stakers when the treasury grows through bond sales—to convert speculative inflows into yield. ￼ DRE Protocol augments that by adding Harberger-tax receipts as a second, steady revenue stream into PCV, ensuring rebases persist even if bond demand cools. ￼
+OlympusDAO pioneered the idea of rebasing tokens—automatically minting new tokens for stakers when the treasury grows through bond sales—to convert speculative inflows into yield. ￼ DRE Protocol augments that by adding Harberger-tax receipts as a second, steady revenue stream into PCV, ensuring rebases persist even if bond demand cools.
 
 Here are a few benefits of staking DRE
 
