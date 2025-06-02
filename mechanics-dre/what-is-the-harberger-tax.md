@@ -26,7 +26,7 @@ A quick numerical example; Suppose you own an NFT you value at 10 ETH.
 
 ## **Origins & Evolution**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Arnold Harberger in 2016 (born July 27, 1924)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Arnold Harberger in 2016 (born July 27, 1924)</p></figcaption></figure>
 
 Arnold C. Harberger is an American economist (b. 1924) long associated with the University of Chicago. He is best known in public-finance circles for the “Harberger triangle” (a textbook diagram of dead-weight loss) and for early work on cost-benefit analysis and tax policy.
 
