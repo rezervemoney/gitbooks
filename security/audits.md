@@ -13,7 +13,10 @@ Outside these inserts the staking contract’s math, access modifiers, and check
 
 ## Audit History
 
-Because most of the logic is inherited, DRE benefits from the three full-scope audits OlympusDAO commissioned in 2021-22 (PeckShield, Quantstamp, and OpenZeppelin).  To cover new surface area we commissioned an incremental review focusing solely on the added functions:
+Because most of the logic is inherited, DRE benefits from the three full-scope audits OlympusDAO commissioned in 2021-22 (PeckShield, Quantstamp, and OpenZeppelin). &#x20;
+
+* [PeckShield - 2021](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-OlympusDAO-v1.0.pdf)
+* [Omniscia - 2021](https://omniscia.io/reports/olympus-dao-protocol-v2/)
 
 ## Timelock & Multisig Ownership
 
