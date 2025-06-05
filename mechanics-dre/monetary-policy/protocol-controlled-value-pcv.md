@@ -28,15 +28,9 @@ In DRE’s dual-token design, PCV fuels both:
 
 ### Uses of PCV in DRE
 
-*   Backing DRE Supply
-
-    The controller enforces a minimum backing ratio $$\beta = \tfrac{PCV}{\text{DRE supply}} \ge 1$$, ensuring every DRE token has tangible collateral. If \beta dips, rebase rates are throttled or paused to protect solvency.
-*   Protocol-Owned Liquidity (POL)
-
-    A portion of PCV is locked in DRE/ETH and DRE/stablecoin pools, guaranteeing continuous market depth and reducing vulnerability to external liquidity churn.
-*   Surplus Buffer & DrDre Buy-Backs
-
-    Excess PCV above a governance-set target (e.g., 5% of PCV) is earmarked for DrDre buy-backs: assets are used to purchase DrDre on the open market and burn it, rewarding long-term governance participants.
+* **Backing DRE Supply -** The controller enforces a minimum backing ratio $$\beta = \tfrac{PCV}{\text{DRE supply}} \ge 1$$, ensuring every DRE token has tangible collateral. If \beta dips, rebase rates are throttled or paused to protect solvency.
+* **Protocol-Owned Liquidity (POL) -** A portion of PCV is locked in DRE/ETH and DRE/stablecoin pools, guaranteeing continuous market depth and reducing vulnerability to external liquidity churn.
+* **Surplus Buffer & DrDre Buy-Backs -** Excess PCV above a governance-set target (e.g., 5% of PCV) is earmarked for DrDre buy-backs: assets are used to purchase DrDre on the open market and burn it, rewarding long-term governance participants.
 
 ## Governance & Risk Management
 

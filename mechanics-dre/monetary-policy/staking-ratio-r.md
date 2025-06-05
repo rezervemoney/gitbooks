@@ -45,8 +45,8 @@ We start with 1,000,000 DRE, a floor-oracle price $$F_0 = \$1.00$$, and let one 
 Each day the controller
 
 1. Allocates the inflow according to the rule
-   1. $$f(\rho)=\min(15\%+50\%\rho,\;50\%) → floor-oracle$$
-   2. $$s(\rho)=0.90-f(\rho) → staker mint$$
+   1. $$f(\rho)=\min(15\%+50\%\rho,\;50\%)$$ → how much DRE the floor should increase by
+   2. $$s(\rho)=0.90-f(\rho)$$ → how much DRE stakers mint
 2. Rebases the base supply at ≈ 500 % APR (≈ 1.37 % day),
 3. Mints $$s(\rho)\times\text{inflow}\,/\,F_t$$ straight to stakers,
 4. Lifts the internal floor by $$(\text{floor slice})/\text{supply}.$$
@@ -73,7 +73,7 @@ In this section we analyze two stablecoin ecosystems and compare how they've gro
 
 ### OlympusDAO
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>99% of OHM is currently staked, making holding unstaked OHM unattractive - <a href="https://defillama.com/protocol/olympus-dao?treasury=false">https://defillama.com/protocol/olympus-dao?treasury=false</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>99% of OHM is currently staked, making holding unstaked OHM unattractive and OHM lifespan short - <a href="https://defillama.com/protocol/olympus-dao?treasury=false">https://defillama.com/protocol/olympus-dao?treasury=false</a></p></figcaption></figure>
 
 From late-2021 onward Olympus’ “(3, 3)” meme convinced almost every holder to lock up tokens for rebasing yield.  Analytic snapshots put the staking ratio above 90 % and at times above 91 % of the circulating supply—one of the highest in crypto.  With scarcely 8-10 % of OHM liquid, most real-world uses—DEX collateral, payment rails, governance delegation—were starved of inventory. &#x20;
 
