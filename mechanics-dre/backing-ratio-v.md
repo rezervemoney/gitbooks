@@ -2,9 +2,9 @@
 description: The Compass of DRE Monetary Policy
 ---
 
-# Bonding Ratio - β
+# Backing Ratio - β
 
-The bonding (or backing) ratio β measures how many non-native assets sit in the treasury for each DRE token in circulation:
+The backing (or bonding) ratio β measures how many non-native assets sit in the treasury for each DRE token in circulation:
 
 $$
 \beta \;=\; \frac{\text{Protocol-Controlled Value (stable assets only)}}{\text{Circulating DRE}}

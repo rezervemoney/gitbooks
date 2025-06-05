@@ -35,7 +35,7 @@ If at any time the terminologies used in the documentation aren't clear or confu
 
 * **Continuous Price Discovery**: Every asset on DRE is always for sale at its self-assessed price, ensuring trading opportunities whenever valuation shifts.
 * **Harberger Tax Revenue:** A predictable, ongoing tax on declared asset values that builds protocol-controlled value without selling tokens.
-* **Seamless Compounding Bonds:** Our “4-4-4” bond integrates vesting and auto-restaking over three 4-day cycles, capturing every epoch’s yield without manual steps.
+* **Seamless Compounding Bonds:** Our DRE bond integrates vesting and auto-restaking over three 4-day cycles, capturing every epoch’s yield without manual steps.
 * **Dual-Token Architecture:** DRE drives day-to-day liquidity and yield; DrDre aligns governance incentives and serves as a pre-funded insurance layer.
 * **Flexible Governance:** Proposals cover tax rates, bond discounts, surplus thresholds and emergency pause controls, all enacted via on-chain votes.
 * **Robust Safeguards:** A multi-tier defense ladder—from reward throttling to inverse bonds, surplus-buffer draws, stake slashing and insurance auctions—keeps the protocol solvent under stress.
