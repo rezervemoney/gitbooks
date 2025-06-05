@@ -24,6 +24,12 @@
 
 * [Tokenomics](tokenomics.md)
 
+## Security
+
+* [Audits](security/audits.md)
+* [Deployed Addresses](security/deployed-addresses.md)
+* [Timelocked Multisig Admin](security/timelocked-multisig-admin.md)
+
 ## Other
 
 * [Glossary](other/glossary.md)
