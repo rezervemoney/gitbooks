@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/imageds.png
+cover: ../../.gitbook/assets/imageds.png
 coverY: -31
 ---
 

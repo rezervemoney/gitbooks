@@ -1,8 +1,8 @@
 ---
-description: This page goes through the (4,4,4) bond and how it works
+description: This page goes through bond and how it works
 ---
 
-# (4,4,4) Bonding Model
+# Bonding Model
 
 The (4,4,4) bond bundles bonding, vesting, and auto-compounding into a single user flow: users purchase a bond that vests over four days, and at each four-day interval the protocol automatically restakes the vested tokens twice, resulting in a total of three compounding cycles over twelve days.&#x20;
 
