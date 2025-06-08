@@ -26,6 +26,7 @@
 
 ## Security
 
+* [Oracles](security/oracles.md)
 * [Audits](security/audits.md)
 * [Deployed Addresses](security/deployed-addresses.md)
 * [Timelocked Multisig Admin](security/timelocked-multisig-admin.md)
