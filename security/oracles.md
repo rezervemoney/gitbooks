@@ -8,7 +8,7 @@ description: >-
 
 DRE adopts [eOracle (EO)](https://eo.app/) as its primary data layer. At its core, EO is an open infrastructure platform that empowers developers to build secure blockchain oracles backed by Ethereum's battle-tested security model. EO creates a foundation for specialized data services that combine deep domain expertise with unmatched cryptoeconomic security.
 
-[eOracle](https://eo.app/) is a hybrid pull-and-push network that combines Chainlink-style signed data feeds with on-chain medianisers and an automatic reference to Layer-0’s ultra-low-latency proof network. We integrate it at three distinct tiers:
+We integrate EO at three distinct tiers:
 
 1. **Treasury Mark-to-Market:** Each epoch the Rebase Controller calls eOracle.latestUsdPrice(token) for USDC, BTC, and tokenised T-Bills; it also requests a _virtual price_ feed for Curve and Balancer LPs.  The sum sets the stable-asset numerator in the backing-ratio β.
 2. **LP Token Accounting:** For volatile-stable pairs (e.g., DRE/USDC Uni-v3 0.05 %), eOracle publishes a bound-checked TWAP with an adaptive window: 30 minutes by default, expanding to 2 h if intra-block variance is high.  This mitigates the sandwich vector that required custom keepers in Olympus.
