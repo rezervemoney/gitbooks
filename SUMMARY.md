@@ -1,37 +1,29 @@
 # Table of contents
 
-* [Welcome](README.md)
+- [Welcome](README.md)
 
-## Mechanics - DRE
+## Mechanics - RZR
 
-* [Protocol Controlled Value (PCV)](mechanics-dre/protocol-controlled-value-pcv.md)
-* [Backing Ratio - β](mechanics-dre/backing-ratio-v.md)
-* [Staking DRE - sDRE](mechanics-dre/staking-dre-sdre/README.md)
-  * [What is the Harberger Tax?](mechanics-dre/staking-dre-sdre/what-is-the-harberger-tax.md)
-  * [Staking Ratio - ρ](mechanics-dre/staking-dre-sdre/staking-ratio-r.md)
-* [Bonds](mechanics-dre/bonds.md)
-* [Capped Inflation Curve](mechanics-dre/capped-inflation-curve.md)
-* [Price Hard Floor](mechanics-dre/price-hard-floor.md)
-* [Game Theory Mechanics](mechanics-dre/game-theory-mechanics.md)
-* [Yield Mechanics](mechanics-dre/yield-mechanics.md)
-* [DRE vs OHM](mechanics-dre/dre-vs-ohm.md)
-
-## Governance - DrDRE
-
-* [Overview](governance-drdre/overview.md)
-
-***
-
-* [Tokenomics](tokenomics.md)
+- [Protocol Controlled Value (PCV)](mechanics-rzr/protocol-controlled-value-pcv.md)
+- [Backing Ratio - β](mechanics-rzr/backing-ratio-v.md)
+- [Staking RZR - sRZR](mechanics-rzr/staking-rzr-srzr/README.md)
+  - [What is the Harberger Tax?](mechanics-rzr/staking-rzr-srzr/what-is-the-harberger-tax.md)
+  - [Staking Ratio - ρ](mechanics-rzr/staking-rzr-srzr/staking-ratio-r.md)
+- [Bonds](mechanics-rzr/bonds.md)
+- [Capped Inflation Curve](mechanics-rzr/capped-inflation-curve.md)
+- [Price Hard Floor](mechanics-rzr/price-hard-floor.md)
+- [Game Theory Mechanics](mechanics-rzr/game-theory-mechanics.md)
+- [Yield Mechanics](mechanics-rzr/yield-mechanics.md)
+- [RZR vs OHM](mechanics-rzr/rzr-vs-ohm.md)
 
 ## Security
 
-* [Overview](security/overview.md)
-* [Oracles](security/oracles.md)
-* [Audits](security/audits.md)
-* [Deployed Addresses](security/deployed-addresses.md)
-* [Timelocked Multisig Admin](security/timelocked-multisig-admin.md)
+- [Overview](security/overview.md)
+- [Oracles](security/oracles.md)
+- [Audits](security/audits.md)
+- [Deployed Addresses](security/deployed-addresses.md)
+- [Timelocked Multisig Admin](security/timelocked-multisig-admin.md)
 
 ## Other
 
-* [Glossary](other/glossary.md)
+- [Glossary](other/glossary.md)
