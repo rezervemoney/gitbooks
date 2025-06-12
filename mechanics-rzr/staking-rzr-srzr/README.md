@@ -25,7 +25,7 @@ When you stake RZR:
 
 1. **Lock and Mint -** You deposit RZR into the staking contract, which instantly mints an equivalent amount of sRZR (your “stake receipt”). Your RZR remains protocol-owned until you choose to unstake.
 2. **Earning Rebases -** Every protocol epoch (e.g. 8 hours), the controller calculates a rebase rate based on new Harberger-tax inflows and bond sales. Your sRZR balance increases by this rate, compounding your position without any manual intervention.
-3. **Governance Power** - Your sRZR balance also determines your voting weight in DrDre governance. More sRZR means greater influence over proposals like tax rates, bond terms, and treasury allocations.
+3. **Governance Power** - Your sRZR balance also determines your voting weight in FED governance. More sRZR means greater influence over proposals like tax rates, bond terms, and treasury allocations.
 4. **Unstaking and Redemption** - When you decide to exit, you burn your sRZR to reclaim RZR at a 1:1 ratio plus any accrued rebases. Unstaking typically has a short cooldown (e.g. one epoch) to ensure treasury stability.
 
 ## Game Theory

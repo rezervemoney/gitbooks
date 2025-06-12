@@ -18,7 +18,7 @@ Protocol-Controlled Value in RZR is the sum of all stablecoins, LP tokens, and H
 In RZR’s dual-token design, PCV fuels both:
 
 - Rebase rewards paid to sRZR stakers, converting incoming capital into yield.
-- Surplus buy-backs of DrDre, creating a deflationary sink when reserves exceed target buffers.
+- Surplus buy-backs of RZR, creating a deflationary sink when reserves exceed target buffers.
 
 ## How PCV Accumulates in RZR
 
@@ -30,10 +30,10 @@ In RZR’s dual-token design, PCV fuels both:
 
 - **Backing RZR Supply -** The controller enforces a minimum backing ratio $$\beta = \tfrac{PCV}{\text{RZR supply}} \ge 1$$, ensuring every RZR token has tangible collateral. If \beta dips, rebase rates are throttled or paused to protect solvency.
 - **Protocol-Owned Liquidity (POL) -** A portion of PCV is locked in RZR/ETH and RZR/stablecoin pools, guaranteeing continuous market depth and reducing vulnerability to external liquidity churn.
-- **Surplus Buffer & DrDre Buy-Backs -** Excess PCV above a governance-set target (e.g., 5% of PCV) is earmarked for DrDre buy-backs: assets are used to purchase DrDre on the open market and burn it, rewarding long-term governance participants.
+- **Surplus Buffer & FED Buy-Backs -** Excess PCV above a governance-set target (e.g., 5% of PCV) is earmarked for FED buy-backs: assets are used to purchase FED on the open market and burn it, rewarding long-term governance participants.
 
 ## Governance & Risk Management
 
-RZR’s DrDre token holders vote on all PCV-related parameters: bond discounts, Harberger-tax rate, surplus targets, and deployment strategies. In stress scenarios (e.g., asset de-pegging), the multi-tier defense ladder triggers sequential actions—rebase throttling, inverse bonds, surplus draws, and, if needed, DrDre insurance auctions—to restore $$\beta\ge1$$ without jeopardizing protocol integrity .
+RZR’s FED token holders vote on all PCV-related parameters: bond discounts, Harberger-tax rate, surplus targets, and deployment strategies. In stress scenarios (e.g., asset de-pegging), the multi-tier defense ladder triggers sequential actions—rebase throttling, inverse bonds, surplus draws, and, if needed, FED insurance auctions—to restore $$\beta\ge1$$ without jeopardizing protocol integrity .
 
 By centralizing capital under on-chain governance and layering diverse revenue streams, RZR’s PCV model offers a resilient, transparent, and growth-oriented treasury—ensuring that every RZR token remains backed, liquid, and primed for sustainable yield.

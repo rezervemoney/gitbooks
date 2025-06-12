@@ -1,5 +1,5 @@
 ---
-description: This page goes through a quick summary of what makes Dre different from OHM
+description: This page goes through a quick summary of what makes RZR different from OHM
 ---
 
 # RZR vs OHM

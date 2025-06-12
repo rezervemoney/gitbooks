@@ -1,5 +1,5 @@
 ---
-description: This page talks about the various security practices takes up by Dre Finance.
+description: This page talks about the various security practices takes up by RZR Finance.
 ---
 
 # Overview
