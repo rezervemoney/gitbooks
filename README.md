@@ -18,7 +18,7 @@ layout:
 
 # Welcome
 
-Welcome to the RZR Protocol documentation. Here you’ll find everything you need to know about RZR, our dynamic currency, and DrDre, its governance and insurance token. Together, they form a two-token system designed to keep digital assets both liquid and efficiently allocated, while providing robust safeguards against treasury shortfalls.
+Welcome to the Rezerve Money documentation. Here you’ll find everything you need to know about RZR, our dynamic currency, and DrDre, its governance and insurance token. Together, they form a two-token system designed to keep digital assets both liquid and efficiently allocated, while providing robust safeguards against treasury shortfalls.
 
 By integrating continuous self-assessment and taxation mechanisms, RZR ensures that assets are held by those who value them most, promoting active participation and reducing speculative hoarding.
 

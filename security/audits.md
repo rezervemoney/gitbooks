@@ -13,7 +13,7 @@ Outside these inserts the staking contract’s math, access modifiers, and check
 
 ## Audit History
 
-Because most of the logic is inherited, RZR benefits from the three full-scope audits OlympusDAO commissioned in 2021-22 (PeckShield, Quantstamp, and OpenZeppelin). &#x20;
+Because most of the logic is inherited, RZR benefits from the three full-scope audits OlympusDAO commissioned in 2021-22 (PeckShield, Quantstamp, and OpenZeppelin).
 
 - [PeckShield - 2021](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-OlympusDAO-v1.0.pdf)
 - [Omniscia - 2021](https://omniscia.io/reports/olympus-dao-protocol-v2/)

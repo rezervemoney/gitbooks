@@ -34,7 +34,7 @@ The Harberger Tax gained renewed attention with the 2018 publication of _Radical
 
 ## An Example (Real Estate)
 
-Consider a scenario where Alice owns a parcel of land in a city implementing the Harberger Tax system. She assesses the value of her property at $500,000 and pays an annual tax of 5%, amounting to $25,000. This self-assessed value is publicly known, and at any time, another individual can purchase the property from Alice at this price.&#x20;
+Consider a scenario where Alice owns a parcel of land in a city implementing the Harberger Tax system. She assesses the value of her property at $500,000 and pays an annual tax of 5%, amounting to $25,000. This self-assessed value is publicly known, and at any time, another individual can purchase the property from Alice at this price.
 
 If Bob believes the land is worth more, perhaps due to planned developments in the area, he can buy it from Alice for $500,000. After acquiring the property, Bob must then set his own self-assessed value and continue paying the corresponding tax. ￼
 

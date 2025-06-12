@@ -1,13 +1,13 @@
 ---
 description: >-
-  Below is a concise game‐theoretic breakdown of the RZR Protocol, showing each
+  Below is a concise game‐theoretic breakdown of the Rezerve Money, showing each
   principal actor’s strategic options, their immediate effects, impacts on the
   protocol, and the incentives.
 ---
 
 # Game Theory Mechanics
 
-_Before diving into specifics, it’s helpful to recognize that the RZR Protocol is designed as a mechanism‐design game in which each participant’s best response aligns with overall protocol health. Stakers, bonders, asset owners (declaring Harberger prices), and governance token holders (DrDre) all face strategic trade‐offs—between immediate gains, future yield, and downside risk—that are carefully balanced by on‐chain rules and incentives._
+_Before diving into specifics, it’s helpful to recognize that the Rezerve Money is designed as a mechanism‐design game in which each participant’s best response aligns with overall protocol health. Stakers, bonders, asset owners (declaring Harberger prices), and governance token holders (DrDre) all face strategic trade‐offs—between immediate gains, future yield, and downside risk—that are carefully balanced by on‐chain rules and incentives._
 
 At the heart of RZR’s game is the Harberger tax, which asks asset owners to self-assess a value and pay a continuous tax on it, knowing that anyone can buy the asset at that price. This creates a classic mechanism‐design scenario: if you undervalue your position, you risk someone sniping it; if you overvalue, you pay excessive tax—driving you to declare your true reservation price in equilibrium.
 
@@ -21,7 +21,7 @@ In RZR’s variant, choosing to stake RZR (becoming sRZR) not only earns rebases
 
 ## Bonding as a Commitment Game: The (4-4-4) Model
 
-Bonding in RZR is framed as a time-commitment game: users lock assets to mint discounted RZR, but only receive them over three auto-restaked four-day cycles, aligning long-term commitment with yield capture.&#x20;
+Bonding in RZR is framed as a time-commitment game: users lock assets to mint discounted RZR, but only receive them over three auto-restaked four-day cycles, aligning long-term commitment with yield capture.
 
 By automating restaking, the protocol removes strategic timing frictions (when to claim and restake), ensuring that the dominant strategy is to bond early for maximal compounding rather than waiting or free-riding on others’ actions.
 
@@ -49,4 +49,4 @@ The confluence of these games produces a Nash equilibrium in which rational part
 3. Bond early under the 4-4-4 model for compounded yield.
 4. Hold or buy DrDre for governance upside, but sell when facing excessive dilution risk.
 
-This equilibrium sustains high on‐chain participation, robust treasury growth, and resilient defense against bad debt—making the RZR Protocol a self‐enforcing, game-theoretic system.
+This equilibrium sustains high on‐chain participation, robust treasury growth, and resilient defense against bad debt—making the Rezerve Money a self‐enforcing, game-theoretic system.

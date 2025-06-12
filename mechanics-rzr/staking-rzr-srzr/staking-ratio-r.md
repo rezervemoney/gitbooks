@@ -38,7 +38,7 @@ Every dollar that enters the protocol (bonds, Harberger taxes, swap fees) is spl
 
 In short, the diagram visualises how the protocol automatically tilts more revenue toward hard collateral when most holders are already committed (high ρ), and tilts more toward juicy staking rewards when participation lags (low ρ). The Floor-Escrow is the orange engine behind every future “Floor raised to $1.23” banner.
 
-## An Example Simulation&#x20;
+## An Example Simulation
 
 We start with 1,000,000 RZR, a floor-oracle price $$F_0 = \$1.00$$, and let one dollar of new value flow into the protocol every block (≈ $10 000 day for illustration).
 
@@ -75,19 +75,19 @@ In this section we analyze two stablecoin ecosystems and compare how they've gro
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>99% of OHM is currently staked, making holding unstaked OHM unattractive and OHM lifespan short - <a href="https://defillama.com/protocol/olympus-dao?treasury=false">https://defillama.com/protocol/olympus-dao?treasury=false</a></p></figcaption></figure>
 
-From late-2021 onward Olympus’ “(3, 3)” meme convinced almost every holder to lock up tokens for rebasing yield. Analytic snapshots put the staking ratio above 90 % and at times above 91 % of the circulating supply—one of the highest in crypto. With scarcely 8-10 % of OHM liquid, most real-world uses—DEX collateral, payment rails, governance delegation—were starved of inventory. &#x20;
+From late-2021 onward Olympus’ “(3, 3)” meme convinced almost every holder to lock up tokens for rebasing yield. Analytic snapshots put the staking ratio above 90 % and at times above 91 % of the circulating supply—one of the highest in crypto. With scarcely 8-10 % of OHM liquid, most real-world uses—DEX collateral, payment rails, governance delegation—were starved of inventory.
 
 The token’s only visible purpose became _staking to protect oneself from dilution_, so fresh demand hinged on new buyers repeating the same behaviour. Even after Olympus slashed its APY to a single-digit 7.35 % in 2023, the sticky staking reflex lingered, leaving the liquid OHM market thin and volatile. The protocol achieved its goal of deep “commitment,” but at the cost of everyday utility: merchants, LPs and lenders could not source enough unstaked OHM to build services.
 
 ### Ethena (USDe / sUSDe)
 
-Ethena’s synthetic dollar tells a similar but softer story. By February 2025 USDe’s supply rocketed past $6 billion, with “over 60 %” immediately restaked as sUSDe to farm funding-rate yield ￼. Activity graphs on DefiLlama show most swaps, bridges and lending pools centre on the yield-bearing sUSDe wrapper, while vanilla USDe turnover is modest.&#x20;
+Ethena’s synthetic dollar tells a similar but softer story. By February 2025 USDe’s supply rocketed past $6 billion, with “over 60 %” immediately restaked as sUSDe to farm funding-rate yield ￼. Activity graphs on DefiLlama show most swaps, bridges and lending pools centre on the yield-bearing sUSDe wrapper, while vanilla USDe turnover is modest.
 
 The bias is less extreme than Olympus—roughly a 40 : 60 liquid-to-staked split—so USDe still circulates on CEXes and as collateral on perp platforms, but every uptick in yield pushes more holders to convert to sUSDe, gradually hollowing out the free-floating float.
 
 ### Why RZR Outshines the “All-Stake” Models
 
-OlympusDAO proves that a ­>90 % staking ratio can starve a token of real-world utility, while Ethena shows that drifting above \~60 % shifts nearly all activity into its yield-bearing wrapper. RZR solves this crowding-out effect with a dynamic split that uses the staking ratio ρ as a throttle: when ρ is low, 65 % of every inbound dollar is paid out as yield to entice deposits;&#x20;
+OlympusDAO proves that a ­>90 % staking ratio can starve a token of real-world utility, while Ethena shows that drifting above \~60 % shifts nearly all activity into its yield-bearing wrapper. RZR solves this crowding-out effect with a dynamic split that uses the staking ratio ρ as a throttle: when ρ is low, 65 % of every inbound dollar is paid out as yield to entice deposits;
 
 When ρ is high, up to 50 % is siphoned into the Floor-Escrow, pushing the risk-free floor upward and throttling emissions. This self-balancing engine keeps a healthy liquid float, lets RFV per token and supply grow in tandem, and leaves a constant 10 % ops budget for bribes and integrations—creating a token that is simultaneously yield-rich and widely usable as collateral or medium of exchange.
 

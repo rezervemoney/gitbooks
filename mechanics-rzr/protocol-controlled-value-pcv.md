@@ -1,13 +1,13 @@
 ---
 description: >-
   Below is a one-page deep dive into Protocol-Controlled Value (PCV) as it will
-  operate within the RZR Protocol, including how it accumulates, what it backs,
+  operate within the Rezerve Money, including how it accumulates, what it backs,
   and why it’s critical for RZR’s stability
 ---
 
 # Protocol Controlled Value (PCV)
 
-In the RZR Protocol, PCV represents the on-chain assets the protocol itself owns and controls—distinct from user-supplied liquidity. PCV underwrites every RZR token, provides perpetually available liquidity, and funds yield-generating deployments.
+In the Rezerve Money, PCV represents the on-chain assets the protocol itself owns and controls—distinct from user-supplied liquidity. PCV underwrites every RZR token, provides perpetually available liquidity, and funds yield-generating deployments.
 
 By sourcing PCV from both bond proceeds and Harberger-tax inflows, RZR ensures that staking rewards (rebases) and strategic treasury actions are always backed by real capital. Robust governance over PCV allocation and risk management safeguards RZR’s peg and amplifies long-term protocol health.
 
@@ -23,7 +23,7 @@ In RZR’s dual-token design, PCV fuels both:
 ## How PCV Accumulates in RZR
 
 1. **Bond Sales -** Users purchase RZR at a discount by depositing assets (e.g., USDC, DAI, LP tokens). These assets flow directly into PCV, strengthening the protocol’s collateral backing. (Read [PCV by Sherpies](https://medium.com/sherpa-library/in-pcv-we-trust-e07ed4c5051))
-2. **Harberger-Tax Inflows -** Every sRZR holder self-assesses their position’s value and pays a continuous tax (e.g., 5% APR) on that valuation. These recurring payments accrue in PCV as a stable revenue stream, even when bond demand wanes.&#x20;
+2. **Harberger-Tax Inflows -** Every sRZR holder self-assesses their position’s value and pays a continuous tax (e.g., 5% APR) on that valuation. These recurring payments accrue in PCV as a stable revenue stream, even when bond demand wanes.
 3. **Yield Deployments -** PCV assets may be strategically deployed—such as providing liquidity to new pools or farming yield—then harvested and returned to PCV, compounding the treasury over time
 
 ### Uses of PCV in RZR

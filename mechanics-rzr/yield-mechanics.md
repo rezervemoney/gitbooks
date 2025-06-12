@@ -6,7 +6,7 @@ description: >-
 
 # Yield Mechanics
 
-Below is a step-by-step “token-flow ledger” that shows exactly where RZR's yields come from, where they go, and why they can more sustainable than OlympusDAO’s model.&#x20;
+Below is a step-by-step “token-flow ledger” that shows exactly where RZR's yields come from, where they go, and why they can more sustainable than OlympusDAO’s model.
 
 ## OlympusDAO Recap
 
@@ -76,12 +76,12 @@ To understand the mechanics better, we go through an 8 hour epoch to see how the
 | PCV after epoch               | $10 112 330                     |
 | Backing per RZR               | $10.03 (↑ from $10.00)          |
 
-In this example,&#x20;
+In this example,
 
 - The Treasury absorbs $112k without selling any RZR.
 - Only 3.6 k RZR are printed, boosting stakers yet barely denting the backing ratio.
 - If no new bonds land for 12 h, $$r_t$$ decays to 0.092 % (= 1000 % APR) — still sky-high, but four-times lower inflation.
 
-_Rebase rewards are printed out of thin air, but they live or die by whether the Treasury can keep up._ OHM relied purely on waves of speculative bonding to fund that backing.&#x20;
+_Rebase rewards are printed out of thin air, but they live or die by whether the Treasury can keep up._ OHM relied purely on waves of speculative bonding to fund that backing.
 
-RZR adds a second hose (Harberger taxes) that keeps dollars flowing even when hype cools—letting it maintain high yields without blowing up the collateral ratio. &#x20;
+RZR adds a second hose (Harberger taxes) that keeps dollars flowing even when hype cools—letting it maintain high yields without blowing up the collateral ratio.
