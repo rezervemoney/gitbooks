@@ -18,9 +18,9 @@ layout:
     visible: true
 ---
 
-# Welcome
+# Welcome to Rezerve
 
-Welcome to the Rezerve Money docs. Here you’ll find everything you need to know about RZR, our dynamic currency, and FED, its governance and insurance token. Together, they form a two-token system designed to keep digital assets both liquid and efficiently allocated, while providing robust safeguards against treasury shortfalls.
+Welcome to the Rezerve Money docs. Here you’ll find everything you need to know about RZR. Together, they form a two-token system designed to keep digital assets both liquid and efficiently allocated, while providing robust safeguards against treasury shortfalls.
 
 By integrating continuous self-assessment and taxation mechanisms, RZR ensures that assets are held by those who value them most, promoting active participation and reducing speculative hoarding.
 
