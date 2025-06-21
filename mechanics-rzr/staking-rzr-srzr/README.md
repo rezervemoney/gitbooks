@@ -8,10 +8,10 @@ OlympusDAO pioneered the idea of rebasing tokens—automatically minting new tok
 
 Here are a few benefits of staking RZR
 
-- **Predictable Yield** - You earn a share of every Harberger-tax dollar and every bond-sale dollar entering the treasury, creating a baseline APY that persists even if speculative bond demand cools.
-- **Auto-Compounding** - Rebases are applied directly to your balance each epoch—no claim or restake steps required—so you capture every increment of yield effortlessly.
-- **Governance Alignment** - By converting RZR into sRZR, you lock tokens into active protocol use, ensuring that those with the greatest stake also have the strongest voice in steering the system.
-- **Capital Efficiency** - Staked RZR backs new bond emissions, reinforcing the protocol-controlled value (PCV) per token and helping maintain the 1 RZR ≥ $1 backing rule.
+* **Predictable Yield** - You earn a share of every Harberger-tax dollar and every bond-sale dollar entering the treasury, creating a baseline APY that persists even if speculative bond demand cools.
+* **Auto-Compounding** - Rebases are applied directly to your balance each epoch—no claim or restake steps required—so you capture every increment of yield effortlessly.
+* **Governance Alignment** - By converting RZR into sRZR, you lock tokens into active protocol use, ensuring that those with the greatest stake also have the strongest voice in steering the system.
+* **Capital Efficiency** - Staked RZR backs new bond emissions, reinforcing the protocol-controlled value (PCV) per token and helping maintain the 1 RZR ≥ $1 backing rule.
 
 Consider a simplified example:
 
@@ -21,11 +21,13 @@ Consider a simplified example:
 
 ## How Staking Works?
 
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>The staking page which shows users how they can stake their RZR tokens.</p></figcaption></figure>
+
 When you stake RZR:
 
 1. **Lock and Mint -** You deposit RZR into the staking contract, which instantly mints an equivalent amount of sRZR (your “stake receipt”). Your RZR remains protocol-owned until you choose to unstake.
 2. **Earning Rebases -** Every protocol epoch (e.g. 8 hours), the controller calculates a rebase rate based on new Harberger-tax inflows and bond sales. Your sRZR balance increases by this rate, compounding your position without any manual intervention.
-3. **Governance Power** - Your sRZR balance also determines your voting weight in FED governance. More sRZR means greater influence over proposals like tax rates, bond terms, and treasury allocations.
+3. **Governance Power** - Your sRZR balance also determines your voting weight in governance. More sRZR means greater influence over proposals like tax rates, bond terms, and treasury allocations.
 4. **Unstaking and Redemption** - When you decide to exit, you burn your sRZR to reclaim RZR at a 1:1 ratio plus any accrued rebases. Unstaking typically has a short cooldown (e.g. one epoch) to ensure treasury stability.
 
 ## Game Theory
