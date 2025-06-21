@@ -1,7 +1,7 @@
 ---
 description: >-
   This page explains how one can trade yield with yield trading platforms like
-  Specta/Pendle
+  Spectra/Pendle
 ---
 
 # Yield Trading with Spectra
@@ -12,7 +12,7 @@ This design allows lstRZR holders to access DeFi yield trading protocols like Sp
 
 ## How Yield Trading Works?
 
-Platforms like Specta/Pendle tokenize yield-bearing assets (like lstRZR) into two components:
+Platforms like Spectra/Pendle tokenize yield-bearing assets (like lstRZR) into two components:
 
 1. **Principal Token (PT):** Represents the principal amount of lstRZR, redeemable at maturity or via buyout.
 2. **Yield Token (YT):** Represents the right to claim all the future yield from the principal until maturity.
@@ -23,7 +23,9 @@ This separation unlocks new financial strategies:
 * **Trade YTs:** Gain leveraged exposure to yield or hedge against yield fluctuations.
 * **Provide liquidity:** Earn LP fees and incentives on PT/YT pools.
 
-To learn more about how yield trading works, see [https://www.youtube.com/watch?v=RHuqNScvrnw](https://www.youtube.com/watch?v=RHuqNScvrnw)
+To learn more about how yield trading works, see
+
+{% embed url="https://www.youtube.com/watch?v=RHuqNScvrnw" %}
 
 ## Why trade RZR yield?
 
