@@ -4,9 +4,9 @@ description: This page goes through a bond and how it works
 
 # Bonds
 
-Bond sales are the protocol’s primary “asset on-ramp.” When users hand over stablecoins, BTC-RZR LP, or other whitelisted collateral, those dollars flow directly into the treasury, raising the [backing ratio β ](backing-ratio-v.md)and, ultimately, the oracle floor price.
+Bond sales are the protocol’s primary “asset on-ramp.” When users hand over stablecoins, BTC-RZR LP, or other whitelisted collateral, those dollars flow directly into the treasury, raising the [backing ratio β ](yield-mechanics/backing-ratio-v.md)and, ultimately, the oracle floor price.
 
-This mechanism converts speculative demand into hard reserves without relying on secondary-market buying pressure. In doing so, bonds anchor every other monetary lever: higher β unlocks richer APR bands for stakers, fills the war-chest that defends [price hard floor](price-hard-floor.md) during draw-downs, and supplies the stable liquidity that fuels inverse-bond buy-backs.
+This mechanism converts speculative demand into hard reserves without relying on secondary-market buying pressure. In doing so, bonds anchor every other monetary lever: higher β unlocks richer APR bands for stakers, fills the war-chest that defends [price hard floor](yield-mechanics/price-hard-floor.md) during draw-downs, and supplies the stable liquidity that fuels inverse-bond buy-backs.
 
 ## Purchase and Vesting Flow
 
@@ -18,11 +18,11 @@ At the moment of claiming the user chooses between two paths. If they want liqui
 
 Take the following scenario of RZR and the
 
-- **Circulating supply:** 1,000,000 RZR
-- **Oracle floor (FloorUSD):** $1.00
-- **Spot price:** $1.20
-- **Treasury stable assets (PCV):** $1 000 000 → backing ratio β = 1.00
-- **Staking ratio ρ:** 70 % (the protocol’s target)
+* **Circulating supply:** 1,000,000 RZR
+* **Oracle floor (FloorUSD):** $1.00
+* **Spot price:** $1.20
+* **Treasury stable assets (PCV):** $1 000 000 → backing ratio β = 1.00
+* **Staking ratio ρ:** 70 % (the protocol’s target)
 
 A user now deposits $25 000 USDC to buy a bond quoted at a 12 % discount to the $1.20 spot price of RZR.
 
@@ -39,9 +39,9 @@ A user now deposits $25 000 USDC to buy a bond quoted at a 12 % discount to the 
 
 OlympusDAO bonds vest linearly over five days and require users to manually claim and restake their OHM to capture rebases, introducing friction and the risk of missed compounding opportunities. In contrast, the RZR bond:
 
-- **Automates Compounding**: Eliminates manual steps, ensuring every token tranche is staked immediately.
-- **Aligns Incentives:** Longer effective lockup (12 days vs. 5 days) fosters deeper commitment and reduces sell-pressure.
-- **Enhances Capital Efficiency**: By synchronizing vesting with the protocol’s epoch cycle, it maximizes rebase capture per unit of time.
+* **Automates Compounding**: Eliminates manual steps, ensuring every token tranche is staked immediately.
+* **Aligns Incentives:** Longer effective lockup (12 days vs. 5 days) fosters deeper commitment and reduces sell-pressure.
+* **Enhances Capital Efficiency**: By synchronizing vesting with the protocol’s epoch cycle, it maximizes rebase capture per unit of time.
 
 ## Conclusion
 

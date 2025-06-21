@@ -24,7 +24,7 @@ Every dollar that enters the protocol (bonds, Harberger taxes, swap fees) is spl
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>How the staking ratio influences the yield allocation between stakers and raising the floor price</p></figcaption></figure>
 
-**Orange curve – Floor-Escrow % -** _Starts at 15 % when almost nobody is staked, then rises linearly as ρ climbs, but caps at 50% once staking exceeds 70%._ This slice is wired straight to increase the price hard floor for RZR (see [Price Hard Floor](../price-hard-floor.md))
+**Orange curve – Floor-Escrow % -** _Starts at 15 % when almost nobody is staked, then rises linearly as ρ climbs, but caps at 50% once staking exceeds 70%._ This slice is wired straight to increase the price hard floor for RZR (see [Price Hard Floor](../yield-mechanics/price-hard-floor.md))
 
 **Red curve – Staker-Rewards % -** Because the ops bucket is fixed at 10 %, whatever isn’t orange (Floor-Escrow) becomes red. _When ρ is low the red band is widest (≈ 75 %), showering more yield on stakers; as ρ rises the red band narrows, bottoming at ≈ 40 % once Floor-Escrow hits its cap._
 
@@ -32,9 +32,9 @@ Every dollar that enters the protocol (bonds, Harberger taxes, swap fees) is spl
 
 ## Why this matters
 
-- **Self-balancing -** If staking participation dries up, yields spike automatically, drawing tokens back into the vault.
-- **Exponential floor growth -** When almost everyone is staked, half of every dollar races straight to the stable-escrow, letting the hard floor climb as fast as supply.
-- **Predictable runway -** A constant 10 % ops slice guarantees treasury fuel for veDEX bribes and audits no matter where ρ sits.
+* **Self-balancing -** If staking participation dries up, yields spike automatically, drawing tokens back into the vault.
+* **Exponential floor growth -** When almost everyone is staked, half of every dollar races straight to the stable-escrow, letting the hard floor climb as fast as supply.
+* **Predictable runway -** A constant 10 % ops slice guarantees treasury fuel for veDEX bribes and audits no matter where ρ sits.
 
 In short, the diagram visualises how the protocol automatically tilts more revenue toward hard collateral when most holders are already committed (high ρ), and tilts more toward juicy staking rewards when participation lags (low ρ). The Floor-Escrow is the orange engine behind every future “Floor raised to $1.23” banner.
 
@@ -61,9 +61,9 @@ The table shows end-of-year results for three fixed staking-ratios ρ.
 
 Reading the outcome
 
-- When ρ is low the system throws most dollars at stakers, so supply explodes while the floor inches up only \~15 %.
-- At the target 80 % ratio the floor price climbs by a third in a year even though the base rebase keeps churning; supply still grows 180× but not the 200×-plus seen at lower ρ.
-- Thus the allocation rule self-balances: as more holders stake, extra dollars shift to the oracle floor, letting both intrinsic value and circulating supply rise exponentially—without one outrunning the other.
+* When ρ is low the system throws most dollars at stakers, so supply explodes while the floor inches up only \~15 %.
+* At the target 80 % ratio the floor price climbs by a third in a year even though the base rebase keeps churning; supply still grows 180× but not the 200×-plus seen at lower ρ.
+* Thus the allocation rule self-balances: as more holders stake, extra dollars shift to the oracle floor, letting both intrinsic value and circulating supply rise exponentially—without one outrunning the other.
 
 This illustrates how RZR can pursue aggressive yield yet still push its guaranteed price floor upward simply by modulating the split with the staking ratio ρ, no USDC escrow required
 
