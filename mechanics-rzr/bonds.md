@@ -10,9 +10,29 @@ This mechanism converts speculative demand into hard reserves without relying on
 
 ## Purchase and Vesting Flow
 
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>A screenshot of the bond page where a user can choose a bond and see the discount it is trading at.</p></figcaption></figure>
+
 A bond is bought in a single transaction. The contract quotes the payout by applying a fixed discount to the live spot price of RZR; the entire discounted amount is minted immediately but placed under a twelve-day linear vest. Each day one-twelfth of the tokens becomes claimable.
 
-At the moment of claiming the user chooses between two paths. If they want liquidity, they withdraw the tranche as raw RZR. If they are yield-oriented, they press “Stake & Lock”; the tranche is swept into the staking vault, begins earning the current rebase rate from that block onward, and is non-transferable until the 30 day lock (which includes the vesting period) expires. Either way, the treasury has already banked the collateral, so PCV climbs the second the bond is opened.
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>A screenshot showing the different bond positions a user has. Users can optionally stake their bond immediately to start earning staking rewards.</p></figcaption></figure>
+
+At the moment of claiming the user chooses between two paths. If they want liquidity, they withdraw the tranche as raw RZR. If they are yield-oriented, they press “Stake & Lock”; the tranche is swept into the staking vault, begins earning the current rebase rate from that block onward, and is non-transferable until the 30 day lock (which includes the vesting period) expires.&#x20;
+
+Either way, the treasury has already banked the collateral, so PCV climbs the second the bond is opened.
+
+## When is the right time to Bond?
+
+{% hint style="success" %}
+Issuing bonds when the RZR is overvalued is a key factor to ensure that every bond sale keeps the treasury fully over-collateralized.
+{% endhint %}
+
+The protocol should open a bond window only when the spot price of RZR trades meaningfully above its floor (e.g., ≥ 10 % premium) because that is the moment new bonds can be sold at a discount that is attractive to buyers yet still accretive to the treasury.&#x20;
+
+By accepting reserve assets (USDC, stables, blue-chip tokens, etc.) in exchange for time-locked RZR at, say, a 10 % discount to market, the system converts external value into permanently owned backing, raising the intrinsic value per circulating token.&#x20;
+
+The added backing allows the protocol to mint fresh RZR that is streamed to stakers as yield, aligning incentives between bond purchasers (who capture the discount), existing holders (who benefit from stronger collateralization), and the treasury (which deepens its reserves).&#x20;
+
+Conversely, bonds should not be issued when the spot price is near or below the floor, because that would dilute backing without attracting sufficient premium, undermining the peg-enforcement mechanism. In short, bonds are a pro-cyclical tool: deploy them only in premium conditions to harvest demand, strengthen reserves, and sustainably fund staking rewards.
 
 ## Worked Example & Math
 

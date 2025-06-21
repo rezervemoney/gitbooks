@@ -9,12 +9,12 @@
   * [What is the Harberger Tax?](mechanics-rzr/staking-rzr-srzr/what-is-the-harberger-tax.md)
   * [Staking Ratio - ρ](mechanics-rzr/staking-rzr-srzr/staking-ratio-r.md)
 * [Bonds](mechanics-rzr/bonds.md)
-* [Game Theory Mechanics](mechanics-rzr/game-theory-mechanics.md)
 * [Yield Mechanics](mechanics-rzr/yield-mechanics/README.md)
   * [Protocol Controlled Value (PCV)](mechanics-rzr/yield-mechanics/protocol-controlled-value-pcv.md)
   * [Backing Ratio - β](mechanics-rzr/yield-mechanics/backing-ratio-v.md)
   * [Price Hard Floor](mechanics-rzr/yield-mechanics/price-hard-floor.md)
   * [Capped Inflation Curve](mechanics-rzr/yield-mechanics/capped-inflation-curve.md)
+* [Game Theory Mechanics](mechanics-rzr/game-theory-mechanics.md)
 * [RZR vs OHM](mechanics-rzr/rzr-vs-ohm.md)
 
 ## Security
