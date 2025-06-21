@@ -4,7 +4,7 @@ description: >-
   Spectra/Pendle
 ---
 
-# Yield Trading with Spectra
+# Yield Trading with Pendle/Spectra
 
 lstRZR is a liquid staking wrapper around the native RZR staking system, offering a 130% buyout value for early exits. lstRZR represents a claim on staked RZR and accrues yield over time from validator rewards.&#x20;
 
@@ -39,7 +39,7 @@ Based on the above information, we can create various strategies on trading yiel
 
 ### 1. Sell Yield Upfront
 
-This strategy allows users to unlock future staking rewards today. Upon depositing lstRZR into a yield trading platform like Pendle or Spectra, it is split into PT-lstRZR (principal) and YT-lstRZR (yield).&#x20;
+This strategy allows users to unlock future staking rewards today. Upon depositing lstRZR into a yield trading platform like Pendle/Spectra, it is split into PT-lstRZR (principal) and YT-lstRZR (yield).&#x20;
 
 Users can immediately sell their YT tokens to obtain upfront yield while retaining PT tokens to be redeemed at full value at maturity. This is useful for users who seek immediate liquidity or expect future yields to decline.
 
@@ -49,7 +49,7 @@ Example: If a user deposits 100 lstRZR and sells YT for 10 tokens, they effectiv
 
 Imagine you hold 100 lstRZR tokens and want to monetize your future staking rewards today without fully exiting your staking position.
 
-You deposit your 100 lstRZR into a platform like Pendle or Spectra, which splits it into:
+You deposit your 100 lstRZR into a platform like Pendle/Spectra, which splits it into:
 
 * PT-lstRZR (100 tokens) — representing the principal value redeemable at maturity (e.g., in 6 months)
 * YT-lstRZR (100 tokens) — representing the right to receive all yield generated over the next 6 months
@@ -73,7 +73,7 @@ By acquiring YT at a discount and holding it, users can profit from the actual a
 
 #### An Example
 
-Let’s say you’re analyzing the YT-lstRZR market on Pendle and notice that a YT representing yield over the next 6 months is trading at 5 RZR. You expect staking rewards from lstRZR over this period to generate at least 12 RZR in yield.
+Let’s say you’re analyzing the YT-lstRZR market on Pendle/Spectra and notice that a YT representing yield over the next 6 months is trading at 5 RZR. You expect staking rewards from lstRZR over this period to generate at least 12 RZR in yield.
 
 This creates a clear arbitrage opportunity:
 
