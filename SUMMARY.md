@@ -18,6 +18,10 @@
 * [Game Theory Mechanics](mechanics-rzr/game-theory-mechanics.md)
 * [RZR vs OHM](mechanics-rzr/rzr-vs-ohm.md)
 
+## Strategies
+
+* [Yield Trading with Spectra](strategies/yield-trading-with-spectra.md)
+
 ## Security
 
 * [Overview](security/overview.md)
