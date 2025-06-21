@@ -8,6 +8,7 @@
 * [Staking RZR - sRZR](mechanics-rzr/staking-rzr-srzr/README.md)
   * [What is the Harberger Tax?](mechanics-rzr/staking-rzr-srzr/what-is-the-harberger-tax.md)
   * [Staking Ratio - ρ](mechanics-rzr/staking-rzr-srzr/staking-ratio-r.md)
+  * [Liquid Staking - lstRZR](mechanics-rzr/staking-rzr-srzr/liquid-staking-lstrzr.md)
 * [Bonds](mechanics-rzr/bonds.md)
 * [Yield Mechanics](mechanics-rzr/yield-mechanics/README.md)
   * [Protocol Controlled Value (PCV)](mechanics-rzr/yield-mechanics/protocol-controlled-value-pcv.md)
