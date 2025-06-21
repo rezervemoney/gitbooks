@@ -20,7 +20,7 @@
 
 ## Strategies
 
-* [Yield Trading with Spectra](strategies/yield-trading-with-spectra.md)
+* [Yield Trading with Pendle/Spectra](strategies/yield-trading-with-pendle-spectra.md)
 
 ## Security
 
