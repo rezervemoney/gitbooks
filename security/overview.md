@@ -28,4 +28,4 @@ Read [Audits](audits.md)
 
 All solidity, deployment scripts and ABI hashes live in the public repo: github.com/rzr-protocol/core. Deployed addresses, constructor args and timelock queue logs are published the moment they hit mainnet. Front-end dashboards surface real-time β, ρ and Floor Price so anyone can cross-check monetary policy against on-chain reality.
 
-Read [Deployed Addresses](deployed-addresses.md) and view our [Github](https://github.com/dredotfinance/code)
+Read [Deployed Addresses](deployed-addresses.md) and view our [Github](https://github.com/rezervemoney/code)

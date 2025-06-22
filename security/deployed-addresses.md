@@ -4,7 +4,7 @@ description: This page contains the list of deployed addresses
 
 # Deployed Addresses
 
-Source code: [https://github.com/dredotfinance/code](https://github.com/dredotfinance/code)
+Source code: [https://github.com/rezervemoney/code](https://github.com/rezervemoney/code)
 
 ## Sonic Mainnet
 
