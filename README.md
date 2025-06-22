@@ -20,7 +20,9 @@ layout:
 
 # Welcome to Rezerve
 
-Welcome to the Rezerve Money docs. Here you’ll find everything you need to know about RZR, a decentralized community-driven reserve currency that redestributes all of it's revenue back to stakers. Rezerve was 100% fair launched with no VCs, no insiders and 100% community owned.
+Welcome to the Rezerve Money docs. Here you’ll find everything you need to know about RZR, a decentralized community-driven reserve currency that redestributes all of it's revenue back to stakers.&#x20;
+
+Rezerve was 100% fair launched with no VCs, no insiders and 100% community owned.
 
 By integrating continuous self-assessment and taxation mechanisms, RZR ensures that assets are held by those who value them most, promoting active participation and reducing speculative hoarding.
 
