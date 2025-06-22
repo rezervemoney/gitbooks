@@ -12,7 +12,7 @@ The Timelock Admin contract is the safety buffer between RZR’s on-chain govern
 
 The pause gives the community time to audit proposed changes, exit positions if necessary, or mobilise emergency governance to cancel malicious transactions.
 
-- 1 day Timelock (Sonic) - [0x481de207e04c32cbe5968baa7f438b57e46f22c2](https://sonicscan.org/address/0x481de207e04c32cbe5968baa7f438b57e46f22c2)
+- 1 day Timelock - [0x616634e975dbcf4c3bdf25a5e0f8f37c4fff0fc7](https://sonicscan.org/address/0x616634e975dbcf4c3bdf25a5e0f8f37c4fff0fc7)
 
 - Safe Gnosis - [0x0E43DF9F40Cc6eEd3eC70ea41D6F34329fE75986](https://app.safe.global/home?safe=sonic:0x0E43DF9F40Cc6eEd3eC70ea41D6F34329fE75986)
 

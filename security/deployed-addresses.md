@@ -6,8 +6,6 @@ description: This page contains the list of deployed addresses
 
 Source code: [https://github.com/dredotfinance/code](https://github.com/dredotfinance/code)
 
----
-
 ## Sonic Mainnet
 
 - RZR - [0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5](https://sonicscan.org/address/0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5)
