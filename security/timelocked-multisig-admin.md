@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page talks about how RZR finance keeps the entire protocol ownership
+  This page talks about how Rezerve keeps the entire protocol ownership
   behind a timelock and a multisig
 ---
 

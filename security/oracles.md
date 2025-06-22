@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page talks about how RZR finance uses oracles to get pricefeeds of
+  This page talks about how Rezerve uses oracles to get pricefeeds of
   various assets
 ---
 
