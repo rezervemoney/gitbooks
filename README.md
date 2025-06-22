@@ -20,11 +20,9 @@ layout:
 
 # Welcome to Rezerve
 
-Welcome to the Rezerve Money docs. Here you’ll find everything you need to know about RZR, a decentralized community-driven reserve currency that redestributes all of it's revenue back to stakers.&#x20;
+Rezerve is a fair-launched reserve currency that captures every cent of protocol revenue and sends it straight back to the people who stake it—no VCs, no insiders, no backstage market-makers. With every epoch the protocol buys up floor assets, so the price you can fall to keeps rising, giving you a steadier store of value than Bitcoin’s boom-and-bust cycle
 
-Rezerve was 100% fair launched with no VCs, no insiders and 100% community owned.
-
-By integrating continuous self-assessment and taxation mechanisms, RZR ensures that assets are held by those who value them most, promoting active participation and reducing speculative hoarding.
+Here you’ll find everything you need to know about RZR, a decentralized community-driven reserve currency that redestributes all of it's revenue back to stakers.&#x20;
 
 If at any time the terminologies used in the documentation aren't clear or confusing, feel free to head over to the [Glossary section](other/glossary.md) for term definitions or join our [Discord](http://discord.rzr.finance/) for more information.
 

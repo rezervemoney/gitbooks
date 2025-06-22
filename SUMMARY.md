@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to Rezerve](README.md)
+* [The Vision](the-vision.md)
 
 ## Mechanics - RZR
 
