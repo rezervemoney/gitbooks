@@ -2,6 +2,7 @@
 
 * [Welcome to Rezerve](README.md)
 * [The Vision](the-vision.md)
+* [Community First Tokenomics](community-first-tokenomics.md)
 
 ## Mechanics - RZR
 

@@ -17,7 +17,18 @@ Rezerve is engineered from the ground up as a community-driven reserve currency:
 
 All protocol revenue—from trading fees to yield on reserve assets—flows 100 % back to those same stakers, creating a transparent dividend loop that rewards active participation instead of passive rent seeking. By fusing fair distribution with real cash-flow and on-chain voting, Rezerve turns its holders into the true stewards of monetary policy, proving that sustainable value can—and should—be built and owned by the many, not the few.
 
-## 2. Fair Launched - No VCs & Insiders
+## 2. Think Big, Play Bigger
+
+Rezerve isn’t just a protocol—it’s an invitation to co-author something monumental. Together we’re aiming for moon-shot milestones:&#x20;
+
+* Stacking a treasury that ranks among Bitcoin’s biggest holders,
+* Growing into DeFi’s largest self-funded ecosystem&#x20;
+* Becoming the cult you actually want to be part of, and&#x20;
+* Flying the loudest bull flag for Sonic Chain and the wider crypto universe.&#x20;
+
+But the route there is unapologetically fun—memes over memos, on-chain experiments over committee meetings, and community raids that feel more like parties than marketing campaigns. By pairing serious, audacious targets with an ethos of collective play, we keep momentum high, creativity unchained, and every win a shared celebration.
+
+## 3. Fair Launched - No VCs & Insiders
 
 Rezerve began life as a true fair-launch: no seed rounds, no venture carve-outs, no insider allocations, and no shadow market-making deals behind closed doors. Every single token in circulation was minted transparently on-chain at go-time, available to anyone—whales and first-time wallet holders alike—on exactly the same terms.
 
@@ -25,7 +36,9 @@ That radical neutrality means there are zero unlock cliffs or discounted bags wa
 
 By removing privileged entry points and letting supply start at block zero in the open, Rezerve aligns incentives from day one and proves that a reserve currency can be built for the many, not the few.
 
-## 3. Bear & Bull market aligned
+See [community first tokenomics](community-first-tokenomics.md).
+
+## 4. Bear & Bull market aligned
 
 Rezerve is architected to breathe with the market instead of fighting it.&#x20;
 
