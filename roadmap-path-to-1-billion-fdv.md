@@ -24,7 +24,7 @@ Governance, staking and bonding all go live on day one, so the community is writ
 The earliest “listings” are intentionally local: Sonic’s flagship DEXs, where fast block-times and near-zero fees let the community experiment without friction.
 
 {% hint style="success" %}
-Rezerve completed this phase with it's launch on July 12th 2025 and it's acquisition of over $1mn in TVL in less than 2 weeks.
+Rezerve completed this phase with it's launch on June 12th 2025 and it's acquisition of over $1mn in TVL in less than 2 weeks.
 {% endhint %}
 
 ## Phase 1 — Sonic Domination
