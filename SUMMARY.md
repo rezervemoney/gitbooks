@@ -3,6 +3,7 @@
 * [Welcome to Rezerve](README.md)
 * [The Vision](the-vision.md)
 * [Community First Tokenomics](community-first-tokenomics.md)
+* [Roadmap: Path to 1 Billion FDV](roadmap-path-to-1-billion-fdv.md)
 
 ## Mechanics - RZR
 
