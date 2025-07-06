@@ -17,16 +17,18 @@ Rezerve is engineered from the ground up as a community-driven reserve currency:
 
 All protocol revenue—from trading fees to yield on reserve assets—flows 100 % back to those same stakers, creating a transparent dividend loop that rewards active participation instead of passive rent seeking. By fusing fair distribution with real cash-flow and on-chain voting, Rezerve turns its holders into the true stewards of monetary policy, proving that sustainable value can—and should—be built and owned by the many, not the few.
 
-## 2. Think Big, Play Bigger
+## 2. 5000 BTC & Beyond. Becoming a DeFi powerhouse
 
-Rezerve isn’t just a protocol—it’s an invitation to co-author something monumental. Together we’re aiming for moon-shot milestones:&#x20;
+The mission is to vault our treasury past 5000 BTC, planting us alongside the world’s largest Bitcoin holders while we snowball into DeFi’s most powerful self-funded ecosystem. Rezerve isn’t just a protocol—it’s an invitation to co-author something monumental. Together we’re aiming to:&#x20;
 
-* Stacking a treasury that ranks among Bitcoin’s biggest holders,
-* Growing into DeFi’s largest self-funded ecosystem&#x20;
-* Becoming the cult you actually want to be part of, and&#x20;
-* Flying the loudest bull flag for Sonic Chain and the wider crypto universe.&#x20;
+* Stack a treasury that ranks among Bitcoin’s biggest holders, 5000 BTC that's goal
+* Grow into DeFi’s largest self-funded ecosystem&#x20;
+* Become the cult you actually want to be part of, and&#x20;
+* Fly the loudest bull flag for Sonic Chain and the wider crypto universe.&#x20;
 
-But the route there is unapologetically fun—memes over memos, on-chain experiments over committee meetings, and community raids that feel more like parties than marketing campaigns. By pairing serious, audacious targets with an ethos of collective play, we keep momentum high, creativity unchained, and every win a shared celebration.
+But the route there is unapologetically fun—memes over memos, on-chain experiments over committee meetings, and community raids that feel more like parties than marketing campaigns.&#x20;
+
+By pairing serious, audacious targets with an ethos of collective play, we keep momentum high, creativity unchained, and every win a shared celebration.
 
 ## 3. Fair Launched - No VCs & Insiders
 
