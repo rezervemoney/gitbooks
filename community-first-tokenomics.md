@@ -37,8 +37,14 @@ Most launches allocate huge chunks of supply to private-round investors or team 
 Audit fees, infrastructure and initial liquidity were paid out-of-pocket by the founders. They received zero bonus tokens and had to mint/buy on-chain like everyone else. The usual “founder allocation” overhang simply doesn’t exist.
 
 {% embed url="https://x.com/zachxbt/status/1410356530956980226" %}
-d
+An investigate thread on Moonrock captial by zachxbt on how they extracted millions by backing pump & dump projects.
 {% endembed %}
+
+Hyperliquid offers a living proof-point that you don’t have to sell a slice of the cap table to build something huge. [Its founders bank-rolled the entire L1](https://www.coinlive.com/news/hyperliquid-the-path-to-financial-aggregation) and order-book DEX out of their own pockets after the 2022 FTX implosion, “refusing to accept any outside funding from venture capitalists” so that ownership could flow straight to users ￼. In less than two years that self-funded stance has snowballed into a top-three on-chain venue.&#x20;
+
+Analysts credit this “VC-free hyper-growth” model—bootstrapped capital, real fee revenue, and broad community ownership—as a template [for sustainable scale](https://getblock.io/blog/cn/what-is-hyperliquid-full-guide/).&#x20;
+
+**Rezerve follows the very same playbook**: founder-funded, community-driven, and structurally immune to the dump dynamics that plague VC-backed launches.
 
 ## No Airdrops — Real Demand Only
 
