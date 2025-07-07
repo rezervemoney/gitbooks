@@ -47,3 +47,14 @@ See [staking RZR](staking-rzr-srzr/) and [Harberger taxes](revenue-sources.md#ha
 Every eight-hour epoch the controller tallies new US-dollar value from _all_ four sources, feeds it to the ρ-splitter (50 % to floor at 80 % staking, 40 % to stakers, 10 % ops) and then reassesses the backing ratio β.
 
 If inflows beat the previous epoch’s inflation cost, the oracle floor ticks one percent higher. Over time this design lets the floor, the staking yield and the treasury balance climb in lock-step—trading fees and emissions cover the bear market, bond sales capture the bull, and lending yield smooths the cycle in between.
+
+## Team Performance Fee
+
+Unlike many protocols, Rezerve has no founder-minted tokens. Instead, the core team is compensated through a performance-based model tied directly to protocol revenue and success:
+
+* The team receives 10% of all bond sales.
+* The team also earns 10% of all staking emissions.
+
+This model ensures the team is incentivized to grow real protocol revenue, as their compensation is linked to actual economic activity rather than pre-mined allocations. Notably, this fee structure is significantly lower than the industry standard where hedge fund managers typically take a 20% performance fee.
+
+By maintaining a leaner reward structure, Rezerve prioritizes protocol sustainability, user alignment, and fair upside distribution, while still ensuring long-term incentives for contributors.
