@@ -16,7 +16,7 @@ A bond is bought in a single transaction. The contract quotes the payout by appl
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>A screenshot showing the different bond positions a user has. Users can optionally stake their bond immediately to start earning staking rewards.</p></figcaption></figure>
 
-At the moment of claiming the user chooses between two paths. If they want liquidity, they withdraw the tranche as raw RZR. If they are yield-oriented, they press “Stake & Lock”; the tranche is swept into the staking vault, begins earning the current rebase rate from that block onward, and is non-transferable until the 30 day lock (which includes the vesting period) expires.&#x20;
+At the moment of claiming the user chooses between two paths. If they want liquidity, they withdraw the tranche as raw RZR. If they are yield-oriented, they press “Stake & Lock”; the tranche is swept into the staking vault, begins earning the current rebase rate from that block onward, and is non-transferable until the 30 day lock (which includes the vesting period) expires.
 
 Either way, the treasury has already banked the collateral, so PCV climbs the second the bond is opened.
 
@@ -26,11 +26,11 @@ Either way, the treasury has already banked the collateral, so PCV climbs the se
 Issuing bonds when the RZR is overvalued is a key factor to ensure that every bond sale keeps the treasury fully over-collateralized.
 {% endhint %}
 
-The protocol should open a bond window only when the spot price of RZR trades meaningfully above its floor (e.g., ≥ 10 % premium) because that is the moment new bonds can be sold at a discount that is attractive to buyers yet still accretive to the treasury.&#x20;
+The protocol should open a bond window only when the spot price of RZR trades meaningfully above its floor (e.g., ≥ 10 % premium) because that is the moment new bonds can be sold at a discount that is attractive to buyers yet still accretive to the treasury.
 
-By accepting reserve assets (USDC, stables, blue-chip tokens, etc.) in exchange for time-locked RZR at, say, a 10 % discount to market, the system converts external value into permanently owned backing, raising the intrinsic value per circulating token.&#x20;
+By accepting reserve assets (USDC, stables, blue-chip tokens, etc.) in exchange for time-locked RZR at, say, a 10 % discount to market, the system converts external value into permanently owned backing, raising the intrinsic value per circulating token.
 
-The added backing allows the protocol to mint fresh RZR that is streamed to stakers as yield, aligning incentives between bond purchasers (who capture the discount), existing holders (who benefit from stronger collateralization), and the treasury (which deepens its reserves).&#x20;
+The added backing allows the protocol to mint fresh RZR that is streamed to stakers as yield, aligning incentives between bond purchasers (who capture the discount), existing holders (who benefit from stronger collateralization), and the treasury (which deepens its reserves).
 
 Conversely, bonds should not be issued when the spot price is near or below the floor, because that would dilute backing without attracting sufficient premium, undermining the peg-enforcement mechanism. In short, bonds are a pro-cyclical tool: deploy them only in premium conditions to harvest demand, strengthen reserves, and sustainably fund staking rewards.
 
@@ -38,11 +38,11 @@ Conversely, bonds should not be issued when the spot price is near or below the 
 
 Take the following scenario of RZR and the
 
-* **Circulating supply:** 1,000,000 RZR
-* **Oracle floor (FloorUSD):** $1.00
-* **Spot price:** $1.20
-* **Treasury stable assets (PCV):** $1 000 000 → backing ratio β = 1.00
-* **Staking ratio ρ:** 70 % (the protocol’s target)
+- **Circulating supply:** 1,000,000 RZR
+- **Oracle floor (FloorUSD):** $1.00
+- **Spot price:** $1.20
+- **Treasury stable assets (PCV):** $1 000 000 → backing ratio β = 1.00
+- **Staking ratio ρ:** 70 % (the protocol’s target)
 
 A user now deposits $25 000 USDC to buy a bond quoted at a 12 % discount to the $1.20 spot price of RZR.
 
@@ -59,9 +59,9 @@ A user now deposits $25 000 USDC to buy a bond quoted at a 12 % discount to the 
 
 OlympusDAO bonds vest linearly over five days and require users to manually claim and restake their OHM to capture rebases, introducing friction and the risk of missed compounding opportunities. In contrast, the RZR bond:
 
-* **Automates Compounding**: Eliminates manual steps, ensuring every token tranche is staked immediately.
-* **Aligns Incentives:** Longer effective lockup (12 days vs. 5 days) fosters deeper commitment and reduces sell-pressure.
-* **Enhances Capital Efficiency**: By synchronizing vesting with the protocol’s epoch cycle, it maximizes rebase capture per unit of time.
+- **Automates Compounding**: Eliminates manual steps, ensuring every token tranche is staked immediately.
+- **Aligns Incentives:** Longer effective lockup (12 days vs. 5 days) fosters deeper commitment and reduces sell-pressure.
+- **Enhances Capital Efficiency**: By synchronizing vesting with the protocol’s epoch cycle, it maximizes rebase capture per unit of time.
 
 ## Conclusion
 

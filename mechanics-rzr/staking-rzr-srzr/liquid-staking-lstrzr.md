@@ -14,10 +14,10 @@ All rewards accumulate back into the LST's staked position, which means over tim
 
 ### Key Features
 
-* **ERC-4626 Compliance**: Standard vault interface for deposits, withdrawals, and share calculations
-* **Automatic Reward Compounding**: Harvests and compounds staking rewards automatically
-* **Harberger Tax System**: Implements a self-declared value system with buyout premiums
-* **Liquid Staking**: Users can trade their lstRZR tokens while maintaining exposure to RZR staking rewards
+- **ERC-4626 Compliance**: Standard vault interface for deposits, withdrawals, and share calculations
+- **Automatic Reward Compounding**: Harvests and compounds staking rewards automatically
+- **Harberger Tax System**: Implements a self-declared value system with buyout premiums
+- **Liquid Staking**: Users can trade their lstRZR tokens while maintaining exposure to RZR staking rewards
 
 By being compliant to the 4626 standard, this allows multiple other protocols (yield marketplaces, vaults, lending protocols etc...) to easily integrate with the protocol's staking token.
 
@@ -25,8 +25,8 @@ By being compliant to the 4626 standard, this allows multiple other protocols (y
 
 Since any token that stakes into the protocol has to pay a 5% harberger tax on it's declared value, the vault is pre-configured to treat all deposits at a **130% buyout premium.** This means that:
 
-* When you stake RZR into the LST, you declare a value that is 130% of your staked amount
-* This creates a buyout price that others must pay to acquire your position
+- When you stake RZR into the LST, you declare a value that is 130% of your staked amount
+- This creates a buyout price that others must pay to acquire your position
 
 Example Calculation: If you stake **100 RZR**
 
@@ -44,7 +44,7 @@ The follow sections below describe technically how the 4626 vaults handles depos
 
 ### Deposit Process
 
-During the deposit flow, the protocol will charge a 6.5% tax (which is part of the [staking harberger tax](./)) automatically from the user's position.&#x20;
+During the deposit flow, the protocol will charge a 6.5% tax (which is part of the [staking harberger tax](./)) automatically from the user's position.
 
 A sample deposit transaction can be found over [here](https://sonicscan.org/tx/0x0b3726bbdaeffb815f6c27241493330fdec271036e81bb362c1b9ee5c92a56b2).
 
@@ -55,9 +55,9 @@ function deposit(uint256 assets, address receiver) public returns (uint256 share
 1. User calls `deposit(100 RZR)`
 2. Vault calculates net assets after tax: `_netStakeAfterTax(100)`
 3. For 100 RZR with 130% premium and 5% tax:
-   * Declared value = 100 × 130% = 130 RZR
-   * Tax = 130 × 5% = 6.5 RZR
-   * Net staked = 100 - 6.5 = 93.5 RZR
+   - Declared value = 100 × 130% = 130 RZR
+   - Tax = 130 × 5% = 6.5 RZR
+   - Net staked = 100 - 6.5 = 93.5 RZR
 4. Vault mints shares based on net staked amount
 5. RZR tokens are transferred to the vault and staked
 

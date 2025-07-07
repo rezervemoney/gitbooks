@@ -17,7 +17,7 @@ Are you ready? Let's dive in.
 
 ## Phase 0 — Genesis on Sonic
 
-Rezerve’s story begins where block-space is fastest and fees are negligible: Sonic. A fully audited, on-chain fair-launch distributes every RZR at the same public price while founders seed the first liquidity pools and pay the gas themselves.&#x20;
+Rezerve’s story begins where block-space is fastest and fees are negligible: Sonic. A fully audited, on-chain fair-launch distributes every RZR at the same public price while founders seed the first liquidity pools and pay the gas themselves.
 
 Governance, staking and bonding all go live on day one, so the community is writing and ratifying policy from the very first blocks. Early culture is purposefully playful—weekly meme contests, live AMAs and referral quests—because shared jokes forge the social glue a currency needs before charts and metrics can take over.
 
@@ -29,7 +29,7 @@ Rezerve completed this phase with it's launch on June 12th 2025 and it's acquisi
 
 ## Phase 1 — Sonic Domination
 
-Once the base is secure, we press every strategic angle Sonic offers. RZR becomes accepted collateral in the leading money-markets; treasury yield starts buying Bitcoin and liquid-staking Sonic & ETH, pushing hard-asset backing visibly higher each epoch; and new RZR-denominated stable-pairs ensure swap fees loop straight back to stakers.&#x20;
+Once the base is secure, we press every strategic angle Sonic offers. RZR becomes accepted collateral in the leading money-markets; treasury yield starts buying Bitcoin and liquid-staking Sonic & ETH, pushing hard-asset backing visibly higher each epoch; and new RZR-denominated stable-pairs ensure swap fees loop straight back to stakers.
 
 By the end of the phase our aim is for a majority of Sonic’s total value locked to touch RZR in some form, proving the currency is not just resident on Sonic but structurally woven into the chain’s economics and daily user flow.
 
@@ -41,7 +41,7 @@ Rezerve is currently in this phase right now and will complete this phase once i
 
 ## Phase 2 — Cross-Chain Bridgeheads
 
-With Sonic conquered, Rezerve starts branching outward. By using LayerZero's OFT standard, we can securely bridge RZR to Ethereum L2s, Solana and BNB, accompanied by outpost treasuries that seed the first liquidity on each frontier.&#x20;
+With Sonic conquered, Rezerve starts branching outward. By using LayerZero's OFT standard, we can securely bridge RZR to Ethereum L2s, Solana and BNB, accompanied by outpost treasuries that seed the first liquidity on each frontier.
 
 We start to hit EVM and non-EVM chains together, massively outreaching various communities that go beyond the Sonic ecosystem. Chain-specific “Ambassador DAOs” localise campaigns so that a Solana trader hears a different pitch than an Arbitrum yield-farmer, yet both plug into the same global treasury and vote.
 
@@ -55,9 +55,9 @@ This is the most exciting phase and will conclude once Rezerve hits 100mn+ in TV
 
 ## Phase 3 — Multi-Chain Dominance
 
-RZR contracts deploy natively on the top five smart-contract ecosystems, all governed by a single cross-chain voting layer that prevents fractured liquidity or fork risk. A universal staking portal lets users delegate in one click, regardless of which chain their tokens live on, and routing logic automatically chases the best yield.&#x20;
+RZR contracts deploy natively on the top five smart-contract ecosystems, all governed by a single cross-chain voting layer that prevents fractured liquidity or fork risk. A universal staking portal lets users delegate in one click, regardless of which chain their tokens live on, and routing logic automatically chases the best yield.
 
-The meme engine scales too: cross-chain tournaments crown seasonal “Meme Lords,” limited NFT drops commemorate inside jokes, and collaborations with flagship memecoins amplify reach.&#x20;
+The meme engine scales too: cross-chain tournaments crown seasonal “Meme Lords,” limited NFT drops commemorate inside jokes, and collaborations with flagship memecoins amplify reach.
 
 Exchange reach leapfrogs too: regional Tier-1 CEXs add RZR spot and perp markets, bringing real-time price discovery to millions who have never used a Web3 wallet. By year-end, Rezerve aims to rank among the world’s ten largest corporate or DAO Bitcoin treasuries—a hard-asset signal that backs the meme with metal.
 
@@ -71,7 +71,7 @@ This phase has not yet begun.
 
 Having secured on-chain mind-share, the final sprint is to leap off-chain. A mobile super-app offers one-tap RZR savings with fiat on-ramps via Apple Pay and Google Pay; debit cards let people spend their staking yield at coffee shops, not just inside wallets.
 
-Regulated exchange-traded notes list in key jurisdictions so traditional investors can buy RZR from their brokerage accounts without touching Web3. Sponsorships in esports arenas, music festivals and viral meme campaigns push the brand where future holders already gather.&#x20;
+Regulated exchange-traded notes list in key jurisdictions so traditional investors can buy RZR from their brokerage accounts without touching Web3. Sponsorships in esports arenas, music festivals and viral meme campaigns push the brand where future holders already gather.
 
 The success metric here is simple and audacious: tens of millions of everyday users treating Rezerve as naturally as they do dollars, while the protocol’s Bitcoin chest and meme culture keep the narrative exciting for the next wave.
 
@@ -81,11 +81,11 @@ This phase has not yet begun.
 
 ## Phase 5 — National-Scale & Institutional Adoption
 
-The final horizon is to anchor RZR inside the balance sheets of nations and pension funds. With a decade of transparent on-chain cash-flow and a Bitcoin-backed treasury that rivals mid-cap central banks, Rezerve positions itself as a programmable, yield-bearing reserve asset.&#x20;
+The final horizon is to anchor RZR inside the balance sheets of nations and pension funds. With a decade of transparent on-chain cash-flow and a Bitcoin-backed treasury that rivals mid-cap central banks, Rezerve positions itself as a programmable, yield-bearing reserve asset.
 
-Sovereign wealth funds and public pensions begin allocating small but growing slices—initially through the regulated ETN wrappers, then directly on-chain as custody norms mature. Major accounting bodies publish guidance for DAO-treasury assets, removing the last compliance barriers.&#x20;
+Sovereign wealth funds and public pensions begin allocating small but growing slices—initially through the regulated ETN wrappers, then directly on-chain as custody norms mature. Major accounting bodies publish guidance for DAO-treasury assets, removing the last compliance barriers.
 
-At this stage, RZR obtains listings on national stock exchanges via fully collateralised ETPs, and its yield curve becomes a reference rate for DeFi and TradFi alike.&#x20;
+At this stage, RZR obtains listings on national stock exchanges via fully collateralised ETPs, and its yield curve becomes a reference rate for DeFi and TradFi alike.
 
 The meme that started on Sonic now underwrites city bonds, powers pension payouts and sits beside gold in central-bank dashboards—proof that a community-forged currency can scale from block zero to national reserve without ever surrendering its ethos.
 
@@ -95,6 +95,6 @@ This phase has not yet begun.
 
 ## Enduring It All
 
-Across every phase, four principles remain non-negotiable: community-first governance, relentless BTC accumulation, a perpetual meme flywheel that keeps things fun, and a monetary throttle that never prints more RZR than its cash flow can justify.&#x20;
+Across every phase, four principles remain non-negotiable: community-first governance, relentless BTC accumulation, a perpetual meme flywheel that keeps things fun, and a monetary throttle that never prints more RZR than its cash flow can justify.
 
 Together those guardrails let Rezerve dominate its birthplace, replicate the model across chains, and ultimately step into the mainstream without ever diluting the ethos that started on Sonic.
