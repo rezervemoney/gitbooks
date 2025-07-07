@@ -50,7 +50,7 @@ If inflows beat the previous epoch’s inflation cost, the oracle floor ticks on
 
 ## Performance Fees
 
-Unlike many protocols, Rezerve has no founder-minted tokens. Instead, the core team is compensated through a performance-based model tied directly to protocol revenue and success:
+Unlike many protocols, Rezerve has [no founder-minted tokens](../community-first-tokenomics.md#bootstrapped-and-founder-fair). Instead, the core team is compensated through a performance-based model tied directly to protocol revenue and success:
 
 The performance fee is set as 10% of all bond sales and staking emissions. Bond sales grow only if the protocol attracts new users and staking emissions become valuable only if the protocol backing grows. This fee can be waived off at any time either by the holders through a governance proposal or by the team themselves.
 
