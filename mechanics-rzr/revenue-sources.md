@@ -50,12 +50,10 @@ If inflows beat the previous epoch’s inflation cost, the oracle floor ticks on
 
 ## Performance Fees
 
-Unlike many protocols, Rezerve has no founder-minted tokens. Instead, the founding team is compensated through a performance-based model tied directly to protocol revenue and success:
+Unlike many protocols, Rezerve has no founder-minted tokens. Instead, the core team is compensated through a performance-based model tied directly to protocol revenue and success:
 
-The team receives 10% of all bond sales and staking emissions. Bond sales grow only if the protocol attracts new users and staking emissions become valuable only if the protocol backing grows.
+The performance fee is set as 10% of all bond sales and staking emissions. Bond sales grow only if the protocol attracts new users and staking emissions become valuable only if the protocol backing grows. This fee can be waived off at any time either by the holders through a governance proposal or by the team themselves.
 
-This fee can be waived off at any time when the team transitions full ownership of the protocol including key decisions made, to it's holders.
-
-This model ensures the leadership is incentivized to grow real protocol revenue, as their compensation is linked to actual economic activity rather than pre-mined allocations. Notably, this fee structure is significantly lower than the industry standard where hedge fund managers typically take a 20% performance fee.
+This model ensures that the core team is incentivized to grow real protocol revenue, as their compensation is linked to actual economic activity rather than pre-mined allocations. Notably, this fee structure is significantly lower than the industry standard where hedge fund managers typically take a 20% performance fee.
 
 By maintaining a leaner reward structure, Rezerve prioritizes protocol sustainability, user alignment, and fair upside distribution, while still ensuring long-term incentives for contributors.
