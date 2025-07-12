@@ -1,21 +1,7 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/image-derp.png
-coverY: 129
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+cover: .gitbook/assets/Screenshot 2025-07-09 at 8.49.35 PM.png
+coverY: -6.592818233944939
 ---
 
 # Welcome to Rezerve
