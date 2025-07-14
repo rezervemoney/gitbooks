@@ -1,7 +1,7 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/Screenshot 2025-07-09 at 8.49.35 PM.png
-coverY: -6.592818233944939
+cover: .gitbook/assets/New Project (7).png
+coverY: 0
 ---
 
 # Welcome to Rezerve
