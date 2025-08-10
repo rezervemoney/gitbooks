@@ -22,6 +22,8 @@ When capital is inexpensive, Rezerve utilizes on-chain bond sales and decentrali
 
 Because Rezerve is entirely on-chain and decentralized, its holdings are transparent and publicly verifiable at all times. There is no single point of failure—no entity, person, or government can seize control. The treasury belongs to the people.
 
+Rezerve also actively uses the ETH it has acquired to add liquidity to RZR allowing users and investors to get a more liquid ecosystem to trade RZR with.
+
 To understand more about how Rezerve does the same see [The Rezerve Approach](./#the-rezerve-approach).
 
 ## The Risk—and the Reward
