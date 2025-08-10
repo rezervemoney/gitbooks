@@ -25,4 +25,4 @@ The visual below makes the cycle easier to digest—it shows how each step feeds
 
 ## References
 
-* [https://blockdyor.com/microstrategy-bitcoin-strategy](https://blockdyor.com/microstrategy-bitcoin-strategy/?utm_source=chatgpt.com)
+- [https://blockdyor.com/microstrategy-bitcoin-strategy](https://blockdyor.com/microstrategy-bitcoin-strategy/)

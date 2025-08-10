@@ -26,9 +26,9 @@ With the summary above, we go into detail about each of the decisions we took wh
 
 Most launches allocate huge chunks of supply to private-round investors or team wallets, locked behind cliff/linear vesting. When those cliffs expire, the fresh coins slam into the order book:
 
-- [CryptoRank’s “Dump-Pressure”](https://cryptorank.io/token-unlock/pressure?utm_source=chatgpt.com) dashboard grades many upcoming unlocks High → Very High because VC wallets control double-digit percentages of supply.
-- [A 2024 Keyrock study of 237](https://crypto.news/token-unlocks-almost-always-negative-for-price-keyrocks-study-reveals/?utm_source=chatgpt.com) unlock events found that _“token unlocks are almost always negative for price,”_ with team/VC cliffs triggering the steepest drops.
-- [BeInCrypto](https://beincrypto.com/vcs-may-dump-these-altcoins/?utm_source=chatgpt.com) showed VCs up 1,100 % on several altcoins and preparing to exit into retail liquidity.
+- [CryptoRank’s “Dump-Pressure”](https://cryptorank.io/token-unlock/pressure) dashboard grades many upcoming unlocks High → Very High because VC wallets control double-digit percentages of supply.
+- [A 2024 Keyrock study of 237](https://crypto.news/token-unlocks-almost-always-negative-for-price-keyrocks-study-reveals/) unlock events found that _“token unlocks are almost always negative for price,”_ with team/VC cliffs triggering the steepest drops.
+- [BeInCrypto](https://beincrypto.com/vcs-may-dump-these-altcoins/) showed VCs up 1,100 % on several altcoins and preparing to exit into retail liquidity.
 
 **Rezerve’s stance:** there was no private / public sale and therefore no vesting cliff waiting to detonate. Every circulating token was minted with real capital under the exact same rules for founders and community.
 
