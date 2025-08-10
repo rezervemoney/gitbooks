@@ -13,6 +13,8 @@ This dual strategy mirrors successful accumulation models from traditional finan
 
 Rezerve then uses this newly acquired ETH to provide liquidity to the RZR token, allowing investors to get enough liquidity to enter/exit from the ecosystem further increasing the loop.
 
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
 ### 1. On-Chain Bonds
 
 Rezerve issues on-chain bonds—tokenized instruments that vest in 5 days and are sold at a discount to the current market value of RZR.

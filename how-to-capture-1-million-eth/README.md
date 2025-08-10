@@ -20,8 +20,6 @@ Rezerve applies a similar strategy—but with Ethereum, and without central gate
 
 When capital is inexpensive, Rezerve utilizes on-chain bond sales and decentralized lending markets to expand its ETH treasury. Unlike a corporation or billionaire-led strategy, Rezerve’s accumulation engine is fully community-driven. Participation is open to all, and benefits are distributed among all contributors.
 
-<figure><img src="../.gitbook/assets/Untitled Diagram.drawio (3).png" alt=""><figcaption></figcaption></figure>
-
 Because Rezerve is entirely on-chain and decentralized, its holdings are transparent and publicly verifiable at all times. There is no single point of failure—no entity, person, or government can seize control. The treasury belongs to the people.
 
 To understand more about how Rezerve does the same see [The Rezerve Approach](./#the-rezerve-approach).
