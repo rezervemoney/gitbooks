@@ -26,7 +26,7 @@ Because Rezerve is entirely on-chain and decentralized, its holdings are transpa
 
 Rezerve also actively uses the ETH it has acquired to add liquidity to RZR allowing users and investors to get a more liquid ecosystem to trade RZR with.
 
-To understand more about how Rezerve does the same see [The Rezerve Approach](./#the-rezerve-approach).
+To understand more about how Rezerve does the same see [The Rezerve Approach](the-rezerve-approach.md).
 
 ## The Risk—and the Reward
 
