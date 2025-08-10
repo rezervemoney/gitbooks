@@ -4,16 +4,12 @@ description: How Rezerve uses DeFi and smart contracts to reach it's goal of 1 m
 
 # The Rezerve Approach
 
-Rezerve’s mission to accumulate 1 million ETH relies on a capital-efficient, decentralized acquisition strategy. This is achieved through two core mechanisms:
+Similar to how MicroStrategy tapped into traditional markets and structured notes to raise capital, Rezerve relies on DeFi to do the same. This is achieved through two core mechanisms:
 
 1. On-Chain Bonds — short-term discounted ETH accumulation.
 2. Lending Protocols — leveraging assets to borrow capital for further growth.
 
-By combining these tools, Rezerve maximizes treasury expansion while maintaining transparency and decentralization.
-
 This dual strategy mirrors successful accumulation models from traditional finance—like MicroStrategy’s leveraged Bitcoin purchases—but adapts them to DeFi’s decentralized, transparent, and programmable environment.&#x20;
-
-By combining short-term discounted bond sales with prudent borrowing, Rezerve compounds ETH holdings while giving participants meaningful opportunities to benefit from its growth.
 
 ### 1. On-Chain Bonds
 

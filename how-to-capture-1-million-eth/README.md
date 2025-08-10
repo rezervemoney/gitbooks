@@ -12,9 +12,7 @@ MicroStrategy’s aggressive accumulation strategy has transformed the company i
 
 This leveraged approach created a feedback loop: higher BTC prices boosted market perception, which in turn increased MicroStrategy’s access to cheap capital for further accumulation.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
-
-To understand more about how MicroStrategy works see [The MicroStrategy Method](the-microstrategy-method.md).
+To understand more about how MicroStrategy works see [The MicroStrategy Method](the-microstrategy-approach.md).
 
 ## The Rezerve Approach
 
@@ -27,6 +25,8 @@ To understand more about how Rezerve does the same see [The Rezerve Approach](./
 ## The Risk—and the Reward
 
 MicroStrategy’s method delivered extraordinary results—but carried significant risks. The company took on debt, tied its fate to Bitcoin’s price, and accepted share dilution. When Bitcoin rallied, the outcome was striking: MSTR’s share price rose over 2,700% from its 2020 lows, far exceeding Bitcoin’s own gains. This aggressive accumulation transformed the company into a leveraged proxy for Bitcoin, and the market rewarded its conviction.
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Rezerve’s model follows a comparable high-risk, high-reward path. RZR’s performance depends on community trust, robust smart contract security, and Ethereum market cycles. As a token representing a claim on Rezerve’s growing ETH treasury—and one that can be staked, deployed in DeFi, or used in governance—RZR’s price movements could be amplified in the same way MSTR’s stock was.
 

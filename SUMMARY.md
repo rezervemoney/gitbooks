@@ -2,7 +2,7 @@
 
 * [Welcome to Rezerve](README.md)
 * [How To Capture 1 Million ETH?](how-to-capture-1-million-eth/README.md)
-  * [The MicroStrategy Method](how-to-capture-1-million-eth/the-microstrategy-method.md)
+  * [The MicroStrategy Approach](how-to-capture-1-million-eth/the-microstrategy-approach.md)
   * [The Rezerve Approach](how-to-capture-1-million-eth/the-rezerve-approach.md)
 * [The Vision](the-vision.md)
 * [Community First Tokenomics](community-first-tokenomics.md)

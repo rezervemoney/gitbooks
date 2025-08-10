@@ -24,9 +24,9 @@ layout:
 
 # Welcome to Rezerve
 
-Rezerve Money is a decentralized treasury accumulation protocol with one mission: **accumulate 1 million ETH**—powered entirely by community and DeFi. Rezerve does through collateralized lending, bond sales, and rebase yield.&#x20;
+Rezerve Money (RZR) is a decentralized treasury accumulation protocol with one mission: **accumulate 1 million ETH**—powered entirely by community and DeFi. Rezerve does this through collateralized lending, bond sales, and rebase yield.&#x20;
 
-Rezerve takes heavy inspiration from MicroStrategy, OlympusDAO & DeFi stablecoins to achieve this goal and was 100% fair-launched with—no pre-sales, no funding, no VCs, no insiders and no backstage market-makers.
+Rezerve takes heavy inspiration from MicroStrategy, OlympusDAO & DeFi stablecoins to achieve this goal and was 100% fair-launched with—no pre-sales, no funding, no VCs, no insiders and no backstage market-makers staying as close to the Ethereum ethos as possible.
 
 Here you’ll find everything you need to know about RZR and it's mechanics.
 

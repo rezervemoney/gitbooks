@@ -22,13 +22,13 @@ In this document we detail all the design decisions we took when trying to launc
 
 With the summary above, we go into detail about each of the decisions we took when trying to build Rezerve.
 
-## No ICO, No Vesting Schedules
+## No ICO, No Vesting Schedules, No Airdrops
 
 Most launches allocate huge chunks of supply to private-round investors or team wallets, locked behind cliff/linear vesting. When those cliffs expire, the fresh coins slam into the order book:
 
-- [CryptoRank’s “Dump-Pressure”](https://cryptorank.io/token-unlock/pressure?utm_source=chatgpt.com) dashboard grades many upcoming unlocks High → Very High because VC wallets control double-digit percentages of supply.
-- [A 2024 Keyrock study of 237](https://crypto.news/token-unlocks-almost-always-negative-for-price-keyrocks-study-reveals/?utm_source=chatgpt.com) unlock events found that _“token unlocks are almost always negative for price,”_ with team/VC cliffs triggering the steepest drops.
-- [BeInCrypto](https://beincrypto.com/vcs-may-dump-these-altcoins/?utm_source=chatgpt.com) showed VCs up 1,100 % on several altcoins and preparing to exit into retail liquidity.
+* [CryptoRank’s “Dump-Pressure”](https://cryptorank.io/token-unlock/pressure?utm_source=chatgpt.com) dashboard grades many upcoming unlocks High → Very High because VC wallets control double-digit percentages of supply.
+* [A 2024 Keyrock study of 237](https://crypto.news/token-unlocks-almost-always-negative-for-price-keyrocks-study-reveals/?utm_source=chatgpt.com) unlock events found that _“token unlocks are almost always negative for price,”_ with team/VC cliffs triggering the steepest drops.
+* [BeInCrypto](https://beincrypto.com/vcs-may-dump-these-altcoins/?utm_source=chatgpt.com) showed VCs up 1,100 % on several altcoins and preparing to exit into retail liquidity.
 
 **Rezerve’s stance:** there was no private / public sale and therefore no vesting cliff waiting to detonate. Every circulating token was minted with real capital under the exact same rules for founders and community.
 
@@ -50,8 +50,8 @@ Analysts credit this “VC-free hyper-growth” model—bootstrapped capital, re
 
 Free-token giveaways create short-lived buzz but long-lived sell pressure:
 
-- [AirdropAlert’s volatility review: ](https://airdropalert.com/blogs/how-airdrops-influence-token-price-volatility)airdrops lead to “immediate sell pressure and price declines.”
-- [CryptoNews analysed 534 airdrops](https://cryptonews.com/exclusives/70-of-airdropped-tokens-fail-to-deliver-profits-heres-why) and found 70 % failed to deliver profits once the free coins hit exchanges.
+* [AirdropAlert’s volatility review: ](https://airdropalert.com/blogs/how-airdrops-influence-token-price-volatility)airdrops lead to “immediate sell pressure and price declines.”
+* [CryptoNews analysed 534 airdrops](https://cryptonews.com/exclusives/70-of-airdropped-tokens-fail-to-deliver-profits-heres-why) and found 70 % failed to deliver profits once the free coins hit exchanges.
 
 **Rezerve’s stance:** no airdrops. Growth is organic, fuelled by genuine demand rather than a one-off marketing splash.
 
@@ -59,9 +59,9 @@ Free-token giveaways create short-lived buzz but long-lived sell pressure:
 
 On-chain forensics show many meme launches are cornered from block zero:
 
-- [Cointelegraph details](https://cointelegraph.com/learn/articles/front-runs-sniper-bots-and-self-buys) how sniper bots front-run liquidity adds, letting a handful of wallets capture outsized positions.
-- [BDC Consulting counted](https://bdc.consulting/insights/MarketResearch/memecoins) 14 000 sniper-bot buys across just 28 open-source scripts in 2024.
-- [The “HAWK” influencer coin](https://nypost.com/2024/12/05/business/hawk-tuah-girl-haliey-welch-launches-cryptocurrency-which-crashes-shortly-after-launch) crashed -91 % in three hours; blockchain data showed “a few wallets controlled most of the supply.”
+* [Cointelegraph details](https://cointelegraph.com/learn/articles/front-runs-sniper-bots-and-self-buys) how sniper bots front-run liquidity adds, letting a handful of wallets capture outsized positions.
+* [BDC Consulting counted](https://bdc.consulting/insights/MarketResearch/memecoins) 14 000 sniper-bot buys across just 28 open-source scripts in 2024.
+* [The “HAWK” influencer coin](https://nypost.com/2024/12/05/business/hawk-tuah-girl-haliey-welch-launches-cryptocurrency-which-crashes-shortly-after-launch) crashed -91 % in three hours; blockchain data showed “a few wallets controlled most of the supply.”
 
 {% embed url="https://www.youtube.com/watch?v=619oKirSiCM" %}
 
