@@ -6,6 +6,8 @@ icon: wand-magic-sparkles
 
 In traditional finance, MicroStrategy has demonstrated how a single entity can build a massive position on a scarce asset—in their case, Bitcoin—by using excess cash and low-cost debt to relentlessly acquire and hold it as a primary reserve asset.
 
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>A timeline of MicroStrategy's BTC acquisition that overtime positioned it as one of the largest holders of BTC in less than 5 years.</p></figcaption></figure>
+
 As Bitcoin’s value increases, the company’s debt becomes cheaper to repay, and bondholders gain the option to take yield or convert bonds into MicroStrategy stock for potentially greater upside.
 
 MicroStrategy’s aggressive accumulation strategy has transformed the company into a de facto Bitcoin investment vehicle. As Bitcoin rallied, the firm’s market capitalization surged, and MSTR’s share price climbed over 2,700% from its 2020 lows, vastly outperforming Bitcoin itself.&#x20;
