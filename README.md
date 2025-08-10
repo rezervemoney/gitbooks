@@ -1,12 +1,32 @@
 ---
+description: The People’s Reserve. Built on Ethereum.
 icon: hand-wave
 cover: .gitbook/assets/New Project (7).png
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Welcome to Rezerve
 
-Rezerve is a fair-launched reserve currency that captures every cent of protocol revenue and sends it straight back to the people who stake it—no VCs, no insiders, no backstage market-makers. With every epoch the protocol buys up floor assets, so the price you can fall to keeps rising, giving you a steadier store of value than Bitcoin’s boom-and-bust cycle
+Rezerve Money is a decentralized treasury accumulation protocol with one mission: **accumulate 1 million ETH**—powered entirely by community and DeFi. Rezerve does through collateralized lending, bond sales, and rebase yield.&#x20;
+
+Rezerve takes heavy inspiration from MicroStrategy, OlympusDAO & DeFi stablecoins to achieve this goal and was 100% fair-launched with—no pre-sales, no funding, no VCs, no insiders and no backstage market-makers.
 
 Here you’ll find everything you need to know about RZR and it's mechanics.
 
@@ -14,8 +34,8 @@ If at any time the terminologies used in the documentation aren't clear or confu
 
 ## Key Features
 
-* **Continuous Price Discovery**: Every asset on RZR is always for sale at its self-assessed price, ensuring trading opportunities whenever valuation shifts.
-* **Harberger Tax Revenue:** A predictable, ongoing tax on declared asset values that builds protocol-controlled value without selling tokens.
-* **Seamless Compounding Bonds:** Our RZR bond integrates vesting and auto-restaking over three 4-day cycles, capturing every epoch’s yield without manual steps.
-* **Flexible Governance:** Proposals cover tax rates, bond discounts, surplus thresholds and emergency pause controls, all enacted via on-chain votes.
-* **Robust Safeguards:** A multi-tier defense ladder—from reward throttling to inverse bonds, surplus-buffer draws, stake slashing and insurance auctions—keeps the protocol solvent under stress.
+* **Aggressive ETH Accumulation:** With access to capital from bond sales and lending markets, Rezerve aggressively borrows/raises debt to acquire more ETH. Acquired ETH is either kept in the treasury or deployed as liquidity to the RZR/ETH token pair.&#x20;
+* **Staking**: RZR token holders can additionally stake their tokens to earn rebase rewards.
+* **DeFi Integrations:** Besides having an exposure to ETH, RZR also further integrates with DeFi protocols like DEXes and Lending markets, allowing RZR holders to either speculate or capture more yield.
+* **Decentralized Governance:** Right from day 0, RZR is decentralized with an on-chain governance that allows token holders to make changes to the protocol.
+* **Transparent & Decentralized:** No single entity can take down the protocol and all asset holdings are publicly verifiable on the Ethereum blockchain.

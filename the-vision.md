@@ -11,24 +11,23 @@ When designing Rezerve, we took a lot of points into consideration. We looked at
 
 With this in mind, we kept the following principles for Rezerve.
 
-## 1. 100% Community Driven
+## 1. 1,000,000 ETH & Beyond. Becoming a DeFi powerhouse
 
-Rezerve is engineered from the ground up as a community-driven reserve currency: every token in circulation was minted through an open, fair-launch process, so there are no venture allocations or insider discounts lurking in the background. Governance isn’t outsourced to a corporate board—it lives directly in the wallets of stakers, who propose and ratify every policy change on-chain.
+The mission is to vault our treasury past 1 million ETH, planting us alongside the world’s largest Bitcoin holders while we snowball into DeFi’s most powerful self-funded ecosystem. Rezerve isn’t just a protocol—it’s an invitation to co-author something monumental. Together we’re aiming to:
 
-All protocol revenue—from trading fees to yield on reserve assets—flows 100 % back to those same stakers, creating a transparent dividend loop that rewards active participation instead of passive rent seeking. By fusing fair distribution with real cash-flow and on-chain voting, Rezerve turns its holders into the true stewards of monetary policy, proving that sustainable value can—and should—be built and owned by the many, not the few.
-
-## 2. 5000 BTC & Beyond. Becoming a DeFi powerhouse
-
-The mission is to vault our treasury past 5000 BTC, planting us alongside the world’s largest Bitcoin holders while we snowball into DeFi’s most powerful self-funded ecosystem. Rezerve isn’t just a protocol—it’s an invitation to co-author something monumental. Together we’re aiming to:
-
-- Stack a treasury that ranks among Bitcoin’s biggest holders, 5000 BTC that's goal
-- Grow into DeFi’s largest self-funded ecosystem
-- Become the cult you actually want to be part of, and
-- Fly the loudest bull flag for Sonic Chain and the wider crypto universe.
+* Stack a treasury that ranks among ETH's biggest holders, 1 million ETH that's goal
+* Grow into DeFi’s largest self-funded ecosystem
+* Become the cult you actually want to be part of, and
 
 But the route there is unapologetically fun—memes over memos, on-chain experiments over committee meetings, and community raids that feel more like parties than marketing campaigns.
 
 By pairing serious, audacious targets with an ethos of collective play, we keep momentum high, creativity unchained, and every win a shared celebration.
+
+## 2. 100% Community Driven
+
+Rezerve is engineered from the ground up as a community-driven reserve currency: every token in circulation was minted through an open, fair-launch process, so there are no venture allocations or insider discounts lurking in the background. Governance isn’t outsourced to a corporate board—it lives directly in the wallets of stakers, who propose and ratify every policy change on-chain.
+
+All protocol revenue—from trading fees to yield on reserve assets—flows 100 % back to those same stakers, creating a transparent dividend loop that rewards active participation instead of passive rent seeking. By fusing fair distribution with real cash-flow and on-chain voting, Rezerve turns its holders into the true stewards of monetary policy, proving that sustainable value can—and should—be built and owned by the many, not the few.
 
 ## 3. Fair Launched - No VCs & Insiders
 
