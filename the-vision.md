@@ -17,9 +17,7 @@ The mission is to vault our treasury past 1 million ETH, planting us alongside t
 
 * Stack a treasury that ranks among ETH's biggest holders, 1 million ETH that's goal
 * Grow into DeFi’s largest self-funded ecosystem
-* Become the cult you actually want to be part of, and
-
-But the route there is unapologetically fun—memes over memos, on-chain experiments over committee meetings, and community raids that feel more like parties than marketing campaigns.
+* Become the cult you actually want to be part of.
 
 By pairing serious, audacious targets with an ethos of collective play, we keep momentum high, creativity unchained, and every win a shared celebration.
 
