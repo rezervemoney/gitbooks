@@ -22,7 +22,7 @@ In this document we detail all the design decisions we took when trying to launc
 
 With the summary above, we go into detail about each of the decisions we took when trying to build Rezerve.
 
-## No ICO, No Vesting Schedules
+## No ICO, No Vesting Schedules, No Airdrops
 
 Most launches allocate huge chunks of supply to private-round investors or team wallets, locked behind cliff/linear vesting. When those cliffs expire, the fresh coins slam into the order book:
 
