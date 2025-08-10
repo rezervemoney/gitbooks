@@ -32,6 +32,8 @@ Here you’ll find everything you need to know about RZR and it's mechanics.
 
 If at any time the terminologies used in the documentation aren't clear or confusing, feel free to head over to the [Glossary section](other/glossary.md) for term definitions or join our [Discord](http://discord.rezerve.money/) for more information.
 
+To understand how Rezerve can perform better than MicroStrategy or OlympusDAO, see [Rezerve vs MicroStrategy](competitor-analysis/rezerve-vs-microstrategy.md) and [Rezerve vs OlympusDAO](competitor-analysis/rzr-vs-ohm.md).&#x20;
+
 ## Key Features
 
 * **Aggressive ETH Accumulation:** With access to capital from bond sales and lending markets, Rezerve aggressively borrows/raises debt to acquire more ETH. Acquired ETH is either kept in the treasury or deployed as liquidity to the RZR/ETH token pair.&#x20;

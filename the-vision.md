@@ -11,7 +11,7 @@ When designing Rezerve, we took a lot of points into consideration. We looked at
 
 With this in mind, we kept the following principles for Rezerve.
 
-## 1. 1,000,000 ETH & Beyond. Becoming a DeFi powerhouse
+## 1,000,000 ETH & Beyond. Becoming a DeFi powerhouse
 
 The mission is to vault our treasury past 1 million ETH, planting us alongside the world’s largest Bitcoin holders while we snowball into DeFi’s most powerful self-funded ecosystem. Rezerve isn’t just a protocol—it’s an invitation to co-author something monumental. Together we’re aiming to:
 
@@ -21,13 +21,13 @@ The mission is to vault our treasury past 1 million ETH, planting us alongside t
 
 By pairing serious, audacious targets with an ethos of collective play, we keep momentum high, creativity unchained, and every win a shared celebration.
 
-## 2. 100% Community Driven
+## Be 100% Community Driven
 
 Rezerve is engineered from the ground up as a community-driven reserve currency: every token in circulation was minted through an open, fair-launch process, so there are no venture allocations or insider discounts lurking in the background. Governance isn’t outsourced to a corporate board—it lives directly in the wallets of stakers, who propose and ratify every policy change on-chain.
 
 All protocol revenue—from trading fees to yield on reserve assets—flows 100 % back to those same stakers, creating a transparent dividend loop that rewards active participation instead of passive rent seeking. By fusing fair distribution with real cash-flow and on-chain voting, Rezerve turns its holders into the true stewards of monetary policy, proving that sustainable value can—and should—be built and owned by the many, not the few.
 
-## 3. Fair Launched - No VCs & Insiders
+## Fair Launched - No VCs & Insiders
 
 Rezerve began life as a true fair-launch: no seed rounds, no venture carve-outs, no insider allocations, and no shadow market-making deals behind closed doors. Every single token in circulation was minted transparently on-chain at go-time, available to anyone—whales and first-time wallet holders alike—on exactly the same terms.
 
@@ -37,7 +37,7 @@ By removing privileged entry points and letting supply start at block zero in th
 
 See [community first tokenomics](community-first-tokenomics.md).
 
-## 4. Bear & Bull market aligned
+## Bear & Bull market aligned
 
 Rezerve is architected to breathe with the market instead of fighting it.
 

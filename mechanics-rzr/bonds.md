@@ -14,7 +14,7 @@ This mechanism converts speculative demand into hard reserves without relying on
 
 A bond is bought in a single transaction. The contract quotes the payout by applying a fixed discount to the live spot price of RZR; the entire discounted amount is minted immediately but placed under a twelve-day linear vest. Each day one-twelfth of the tokens becomes claimable.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>A screenshot showing the different bond positions a user has. Users can optionally stake their bond immediately to start earning staking rewards.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>A screenshot showing the different bond positions a user has. Users can optionally stake their bond immediately to start earning staking rewards.</p></figcaption></figure>
 
 At the moment of claiming the user chooses between two paths. If they want liquidity, they withdraw the tranche as raw RZR. If they are yield-oriented, they press “Stake & Lock”; the tranche is swept into the staking vault, begins earning the current rebase rate from that block onward, and is non-transferable until the 30 day lock (which includes the vesting period) expires.
 
@@ -38,11 +38,11 @@ Conversely, bonds should not be issued when the spot price is near or below the 
 
 Take the following scenario of RZR and the
 
-- **Circulating supply:** 1,000,000 RZR
-- **Oracle floor (FloorUSD):** $1.00
-- **Spot price:** $1.20
-- **Treasury stable assets (PCV):** $1 000 000 → backing ratio β = 1.00
-- **Staking ratio ρ:** 70 % (the protocol’s target)
+* **Circulating supply:** 1,000,000 RZR
+* **Oracle floor (FloorUSD):** $1.00
+* **Spot price:** $1.20
+* **Treasury stable assets (PCV):** $1 000 000 → backing ratio β = 1.00
+* **Staking ratio ρ:** 70 % (the protocol’s target)
 
 A user now deposits $25 000 USDC to buy a bond quoted at a 12 % discount to the $1.20 spot price of RZR.
 
@@ -59,9 +59,9 @@ A user now deposits $25 000 USDC to buy a bond quoted at a 12 % discount to the 
 
 OlympusDAO bonds vest linearly over five days and require users to manually claim and restake their OHM to capture rebases, introducing friction and the risk of missed compounding opportunities. In contrast, the RZR bond:
 
-- **Automates Compounding**: Eliminates manual steps, ensuring every token tranche is staked immediately.
-- **Aligns Incentives:** Longer effective lockup (12 days vs. 5 days) fosters deeper commitment and reduces sell-pressure.
-- **Enhances Capital Efficiency**: By synchronizing vesting with the protocol’s epoch cycle, it maximizes rebase capture per unit of time.
+* **Automates Compounding**: Eliminates manual steps, ensuring every token tranche is staked immediately.
+* **Aligns Incentives:** Longer effective lockup (12 days vs. 5 days) fosters deeper commitment and reduces sell-pressure.
+* **Enhances Capital Efficiency**: By synchronizing vesting with the protocol’s epoch cycle, it maximizes rebase capture per unit of time.
 
 ## Conclusion
 

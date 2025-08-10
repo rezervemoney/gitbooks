@@ -33,10 +33,8 @@ Once the base is secure, we press every strategic angle Sonic offers. RZR become
 
 By the end of the phase our aim is for a majority of Sonic’s total value locked to touch RZR in some form, proving the currency is not just resident on Sonic but structurally woven into the chain’s economics and daily user flow.
 
-The first Tier-2 centralised exchanges list RZR during this phase, giving mobile-first users an on-ramp that doesn’t require bridge know-how.
-
-{% hint style="warning" %}
-Rezerve is currently in this phase right now and will complete this phase once it becomes the top 5 revenue generating protocol on Sonic and has 10mn in TVL
+{% hint style="success" %}
+Rezerve completed this phase in July 2025 when it became the top 25 defi protocols on Sonic and captured over 4mn$ in TVL.
 {% endhint %}
 
 ## Phase 2 — Cross-Chain Bridgeheads
@@ -45,12 +43,12 @@ With Sonic conquered, Rezerve starts branching outward. By using LayerZero's OFT
 
 We start to hit EVM and non-EVM chains together, massively outreaching various communities that go beyond the Sonic ecosystem. Chain-specific “Ambassador DAOs” localise campaigns so that a Solana trader hears a different pitch than an Arbitrum yield-farmer, yet both plug into the same global treasury and vote.
 
-In this phase we will also start to actively push RZR across T1 exchanges and aim to get more users involved in the trading and speculation of Rezerve.
+The first Tier-2 centralised exchanges list RZR during this phase, giving mobile-first users an on-ramp that doesn’t require bridge know-how.
 
 At the same time, the protocol starts it goal of acquiring BTC and auto-converts a portion of it's treasury into BTC until a 5000-coin target is reached, vaulting Rezerve into the ranks of the world’s largest Bitcoin treasuries while giving every holder exposure to crypto’s hardest asset.
 
-{% hint style="info" %}
-This is the most exciting phase and will conclude once Rezerve hits 100mn+ in TVL and has become a top protocol in at least three chains (Ethereum, Solana and any other promising chain). This phase has not yet begun.
+{% hint style="warning" %}
+This is the most exciting phase and will conclude once Rezerve hits 100mn+ in TVL and has become a top protocol in at least three chains (Ethereum, Solana and any other promising chain). Rezerve is currently in this phase.
 {% endhint %}
 
 ## Phase 3 — Multi-Chain Dominance
@@ -59,7 +57,7 @@ RZR contracts deploy natively on the top five smart-contract ecosystems, all gov
 
 The meme engine scales too: cross-chain tournaments crown seasonal “Meme Lords,” limited NFT drops commemorate inside jokes, and collaborations with flagship memecoins amplify reach.
 
-Exchange reach leapfrogs too: regional Tier-1 CEXs add RZR spot and perp markets, bringing real-time price discovery to millions who have never used a Web3 wallet. By year-end, Rezerve aims to rank among the world’s ten largest corporate or DAO Bitcoin treasuries—a hard-asset signal that backs the meme with metal.
+Exchange reach leapfrogs too:  Tier-1 CEXs add RZR spot and perp markets, bringing real-time price discovery to millions who have never used a Web3 wallet. By year-end, Rezerve aims to rank among the world’s ten largest corporate or DAO Bitcoin treasuries—a hard-asset signal that backs the meme with metal.
 
 By the close of the year, Rezerve’s treasury aspires to sit among the top-ten global corporate or DAO Bitcoin holders, while its cultural footprint spans every major crypto timeline.
 

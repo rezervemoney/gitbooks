@@ -1,10 +1,10 @@
 ---
-icon: dollar-sign
+icon: wand-magic-sparkles
 ---
 
 # How To Capture 1 Million ETH?
 
-In traditional finance, MicroStrategy has demonstrated how a single entity can build a massive position on an asset—in their case, Bitcoin—by using excess cash and low-cost debt to relentlessly acquire and hold it as a primary reserve asset.
+In traditional finance, MicroStrategy has demonstrated how a single entity can build a massive position on a scarce asset—in their case, Bitcoin—by using excess cash and low-cost debt to relentlessly acquire and hold it as a primary reserve asset.
 
 As Bitcoin’s value increases, the company’s debt becomes cheaper to repay, and bondholders gain the option to take yield or convert bonds into MicroStrategy stock for potentially greater upside.
 
@@ -16,9 +16,11 @@ To understand more about how MicroStrategy works see [The MicroStrategy Method](
 
 ## The Rezerve Approach
 
-<figure><img src="../.gitbook/assets/Untitled Diagram.drawio (3).png" alt=""><figcaption></figcaption></figure>
+Rezerve applies a similar strategy—but with Ethereum, and without central gatekeepers.&#x20;
 
-Rezerve applies a similar strategy—but with Ethereum, and without central gatekeepers. When capital is inexpensive, Rezerve utilizes on-chain bond sales and decentralized lending markets to expand its ETH treasury. Unlike a corporation or billionaire-led strategy, Rezerve’s accumulation engine is fully community-driven. Participation is open to all, and benefits are distributed among all contributors.
+When capital is inexpensive, Rezerve utilizes on-chain bond sales and decentralized lending markets to expand its ETH treasury. Unlike a corporation or billionaire-led strategy, Rezerve’s accumulation engine is fully community-driven. Participation is open to all, and benefits are distributed among all contributors.
+
+<figure><img src="../.gitbook/assets/Untitled Diagram.drawio (3).png" alt=""><figcaption></figcaption></figure>
 
 Because Rezerve is entirely on-chain and decentralized, its holdings are transparent and publicly verifiable at all times. There is no single point of failure—no entity, person, or government can seize control. The treasury belongs to the people.
 
@@ -28,8 +30,10 @@ To understand more about how Rezerve does the same see [The Rezerve Approach](./
 
 MicroStrategy’s method delivered extraordinary results—but carried significant risks. The company took on debt, tied its fate to Bitcoin’s price, and accepted share dilution. When Bitcoin rallied, the outcome was striking: MSTR’s share price rose over 2,700% from its 2020 lows, far exceeding Bitcoin’s own gains. This aggressive accumulation transformed the company into a leveraged proxy for Bitcoin, and the market rewarded its conviction.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>MicroStrategy's stock performance against Bitcoin showcasing that MSTR has outperformed BTC in terms of gains.</p></figcaption></figure>
 
 Rezerve’s model follows a comparable high-risk, high-reward path. RZR’s performance depends on community trust, robust smart contract security, and Ethereum market cycles. As a token representing a claim on Rezerve’s growing ETH treasury—and one that can be staked, deployed in DeFi, or used in governance—RZR’s price movements could be amplified in the same way MSTR’s stock was.
 
-If Ethereum’s value rises and the treasury continues to grow, RZR could outperform simply holding ETH, delivering gains through asset appreciation, staking yield, liquidity rewards, and network effects.
+When Ethereum’s value rises and the treasury continues to grow, RZR could outperform simply holding ETH, delivering gains through asset appreciation, staking yield, liquidity rewards, and network effects.
+
+For a more detailed breakdown about the risks of adopting this strategy, see [Risks](risks.md).

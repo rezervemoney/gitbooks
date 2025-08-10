@@ -4,9 +4,13 @@
 * [How To Capture 1 Million ETH?](how-to-capture-1-million-eth/README.md)
   * [The MicroStrategy Approach](how-to-capture-1-million-eth/the-microstrategy-approach.md)
   * [The Rezerve Approach](how-to-capture-1-million-eth/the-rezerve-approach.md)
+  * [Risks](how-to-capture-1-million-eth/risks.md)
 * [The Vision](the-vision.md)
 * [Community First Tokenomics](community-first-tokenomics.md)
 * [Roadmap: Path to 1 Billion FDV](roadmap-path-to-1-billion-fdv.md)
+* [Competitor Analysis](competitor-analysis/README.md)
+  * [Rezerve vs MicroStrategy](competitor-analysis/rezerve-vs-microstrategy.md)
+  * [Rezerve vs OlympusDAO](competitor-analysis/rzr-vs-ohm.md)
 
 ## Mechanics - RZR
 
@@ -22,7 +26,6 @@
   * [Price Hard Floor](mechanics-rzr/yield-mechanics/price-hard-floor.md)
   * [Capped Inflation Curve](mechanics-rzr/yield-mechanics/capped-inflation-curve.md)
 * [Game Theory Mechanics](mechanics-rzr/game-theory-mechanics.md)
-* [RZR vs OHM](mechanics-rzr/rzr-vs-ohm.md)
 
 ## Strategies
 

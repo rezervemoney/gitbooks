@@ -11,6 +11,8 @@ Similar to how MicroStrategy tapped into traditional markets and structured note
 
 This dual strategy mirrors successful accumulation models from traditional finance—like MicroStrategy’s leveraged Bitcoin purchases—but adapts them to DeFi’s decentralized, transparent, and programmable environment.&#x20;
 
+Rezerve then uses this newly acquired ETH to provide liquidity to the RZR token, allowing investors to get enough liquidity to enter/exit from the ecosystem further increasing the loop.
+
 ### 1. On-Chain Bonds
 
 Rezerve issues on-chain bonds—tokenized instruments that vest in 5 days and are sold at a discount to the current market value of RZR.
