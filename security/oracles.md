@@ -8,7 +8,7 @@ description: >-
 
 RZR adopts [Dia Data](http://diadata.org/) as its primary data layer.&#x20;
 
-We integrate DIAO at three distinct tiers:
+We integrate DIA at three distinct tiers:
 
 1. **Treasury Mark-to-Market:** Each epoch the Rebase Controller calls DIA's price feeds for USDC, BTC, and tokenised T-Bills; it also requests a _virtual price_ feed for Curve and Balancer LPs. The sum sets the stable-asset numerator in the backing-ratio β.
 2. **LP Token Accounting:** For volatile-stable pairs (e.g., RZR/USDC Uni-v3 0.05 %), DIA publishes a bound-checked TWAP with an adaptive window: 30 minutes by default, expanding to 2 h if intra-block variance is high. This mitigates the sandwich vector that required custom keepers in Olympus.
