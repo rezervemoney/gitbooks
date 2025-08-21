@@ -14,6 +14,20 @@ These are the various address for the RZR and lstRZR token across various chains
 
 ## Core Protocol Addresses
 
+{% tabs %}
+{% tab title="ETH Mainnet" %}
+| header |   |   |
+| ------ | - | - |
+|        |   |   |
+|        |   |   |
+|        |   |   |
+{% endtab %}
+
+{% tab title="Sonic" %}
+
+{% endtab %}
+{% endtabs %}
+
 These are the core protocol addresses that contain all the protocol logic.
 
 * RZR - [0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5](https://sonicscan.org/address/0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5)
