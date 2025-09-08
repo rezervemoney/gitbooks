@@ -16,18 +16,18 @@ If lenders believe their funds could face losses, they may rush to withdraw simu
 
 {% embed url="https://www.youtube.com/watch?v=xa75BfmXQH4" %}
 
-## Scenarios that Could Trigger a Bank Run
+## Scenarios That Could Trigger a Bank Run
 
 1. **Short-Term ETH Volatility**: If ETH experiences a sudden price crash, the value of ETH collateral declines. Since RZR liquidity is paired with ETH, its price tends to follow, leading lenders to doubt the protocol’s solvency.
 2. **Sell Pressure on RZR**: Large sell-offs of RZR (whether from profit-taking, short-sellers, or external shocks) can extract liquidity and depress the token price. This reduces the collateral buffer, heightening the risk of under-collateralization.
 3. **Sudden Liquidity Withdrawals:** If lenders collectively withdraw capital in a short period, the protocol may be forced to pay abnormally high interest rates to attract replacement capital. This further stresses reserves and increases the risk of insolvency.
 
-## Lessons from Past Bank Runs
+## Lessons From Past Bank Runs
 
 The most infamous bank runs that have happened in the crypto-sphere have been the following.
 
-- **FTX Collapse (2022):** Once one of the largest crypto exchanges, FTX imploded after revelations of misused customer deposits and overexposure to illiquid assets like FTT. When confidence evaporated, mass withdrawals overwhelmed the exchange’s reserves, triggering insolvency ([FTX timeline, CoinDesk](https://www.coindesk.com/learn/ftx-collapse-a-timeline-of-the-exchanges-fall/?)). Also see the [FTX case study](the-ftx-case-study.md).
-- **Celsius Network Collapse (2022):** Celsius promised outsized yields on deposits but was overexposed to risky loans and leveraged strategies. When markets turned bearish, users rushed to withdraw, only to find withdrawals frozen. The imbalance between liquid liabilities and illiquid assets led to bankruptcy ([Celsius case summary, Reuters](https://www.reuters.com/technology/crypto-lender-celsius-files-bankruptcy-protection-us-2022-07-13/?)). Also see the [Celsius Network case study](celcius-network-case-study.md).
+* **FTX Collapse (2022):** Once one of the largest crypto exchanges, FTX imploded after revelations of misused customer deposits and overexposure to illiquid assets like FTT. When confidence evaporated, mass withdrawals overwhelmed the exchange’s reserves, triggering insolvency ([FTX timeline, CoinDesk](https://www.coindesk.com/learn/ftx-collapse-a-timeline-of-the-exchanges-fall/?)). Also see the [FTX case study](the-ftx-case-study.md).
+* **Celsius Network Collapse (2022):** Celsius promised outsized yields on deposits but was overexposed to risky loans and leveraged strategies. When markets turned bearish, users rushed to withdraw, only to find withdrawals frozen. The imbalance between liquid liabilities and illiquid assets led to bankruptcy ([Celsius case summary, Reuters](https://www.reuters.com/technology/crypto-lender-celsius-files-bankruptcy-protection-us-2022-07-13/?)). Also see the [Celsius Network case study](celcius-network-case-study.md).
 
 These examples highlight how fragile systems can become when liquidity mismatches meet collapsing confidence.
 
@@ -41,27 +41,31 @@ Incentives are designed to encourage lenders to lock their capital into long-dur
 
 Convertible notes also open a channel for accessing cheap, stable debt in both bull and bear conditions.
 
-See [Convertible Notes](../convertible-notes.md).
+See [Convertible Notes](../convertible-notes.md) for more information.
 
 ### 2/ Continuous and Open Source Risk Simulations
 
-The protocol continuous risk simulations taking into account worst-case scenarios and doomsday mechanics. The risk simulations can be found over [https://github.com/rezervemoney/risk](https://github.com/rezervemoney/risk)
+The protocol continuous risk simulations taking into account worst-case scenarios and doomsday mechanics.&#x20;
 
 Based on the risk simulations the protocol effectively makes decisions on how much leverage it can take over. The risk simulation evaluate dooms day scenarios so that the protocol can make the least riskiest decision.
 
+The risk simulations can be found over [https://github.com/rezervemoney/risk](https://github.com/rezervemoney/risk)
+
 ### 3/ Transparency & Community Trust
 
-A live public dashboard at [rezerve.money/risk](https://rezerve.money/risk) provides full visibility into collateralization ratios, leverage levels, and system health. This transparency builds trust, allowing the community to monitor risks in real time.
+A live public dashboard provides full visibility into collateralization ratios, leverage levels, and system health. This transparency builds trust, allowing the community to monitor risks in real time.
+
+The dashboard can be found over [https://rezerve.money/risk](https://rezerve.money/risk)
 
 ### 4/ Sufficient Leverage Management
 
 The protocol carefully calibrates leverage to ensure that even in worst-case ETH crashes, collateral remains above debt obligations. This provides a buffer against sudden drawdowns.
 
+See [Leverage Logic](../leverage-logic.md) for more information.
+
 ### 5/ Protocol-Owned Liquidity (PoL) and Protocol-Owned Supply (PoS)
 
 By controlling significant amounts of RZR supply and liquidity, Rezerve reduces reliance on mercenary liquidity providers and minimizes vulnerability to external sell pressure. PoL and PoS data are made publicly available at [rezerve.money/risk](https://rezerve.money/risk).
-
-[https://rezerve.money/risk](https://rezerve.money/risk) showcases how much of the supply and liquidity that the protocol owns.
 
 See [Protocol Owned Supply](../../protocol-driven-buybacks-pds/protocol-owned-supply.md) and [Protocol Owned Liquidity](../../protocol-driven-buybacks-pds/protocol-controlled-value-pcv.md) for more information.
 
