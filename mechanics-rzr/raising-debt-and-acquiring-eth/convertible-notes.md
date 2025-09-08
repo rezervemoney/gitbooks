@@ -5,7 +5,7 @@ description: How the protocol uses convertible notes to raise debt to buy ETH
 # Convertible Notes
 
 {% hint style="success" %}
-[Convertible bonds](https://en.wikipedia.org/wiki/Convertible_bond?utm_source=chatgpt.com) is an improvement over the previously implemented [Discounted Bonds](../bonds.md) and is now the primary source of new liquidity for the protocol.&#x20;
+[Convertible bonds](https://en.wikipedia.org/wiki/Convertible_bond?) is an improvement over the previously implemented [Discounted Bonds](../bonds.md) and is now the primary source of new liquidity for the protocol.&#x20;
 {% endhint %}
 
 Rezerve’s convertible bonds are structured financial instruments that combine the stability of debt with the potential upside of equity. Investors purchasing these bonds are essentially lending to Rezerve, receiving periodic coupon payments like traditional bonds. However, what distinguishes them is the embedded option: holders can convert their bonds into Rezerve’s native token RZR under predefined conditions.
@@ -29,8 +29,8 @@ For mature corporations, convertible notes provide a more flexible financing str
 
 See:
 
-* [Convertible bond - Wikipedia](https://en.wikipedia.org/wiki/Convertible_bond?utm_source=chatgpt.com)
-* [Convertible note by Thomson Reuters](https://legal.thomsonreuters.com/blog/convertible-note-legal-glossary/)
+- [Convertible bond - Wikipedia](https://en.wikipedia.org/wiki/Convertible_bond?)
+- [Convertible note by Thomson Reuters](https://legal.thomsonreuters.com/blog/convertible-note-legal-glossary/)
 
 ### MicroStrategy’s Use of Convertible Notes
 
@@ -38,14 +38,14 @@ See:
 
 MicroStrategy provides a striking contemporary example of how these instruments can be deployed in non-traditional ways. Beginning in late 2020, the company issued several rounds of senior unsecured convertible notes, raising billions of dollars.&#x20;
 
-For example, [in December 2020](https://www.sec.gov/Archives/edgar/data/1050446/000119312521020760/d92691dex991.htm?utm_source=chatgpt.com) it issued $650 million of 0.75% convertible senior notes due 2025, followed by a $1.05 billion issuance of 0% convertible senior notes due 2027 in early 2021.&#x20;
+For example, [in December 2020](https://www.sec.gov/Archives/edgar/data/1050446/000119312521020760/d92691dex991.htm?) it issued $650 million of 0.75% convertible senior notes due 2025, followed by a $1.05 billion issuance of 0% convertible senior notes due 2027 in early 2021.&#x20;
 
 What truly distinguished this issuance was the use of proceeds: rather than reinvesting in its enterprise software business, MicroStrategy used nearly all of the raised capital to purchase Bitcoin. This aggressive strategy positioned MicroStrategy as a leveraged proxy for the cryptocurrency, with its stock price closely tracking Bitcoin’s performance.
 
 See:
 
-* [How MicroStrategy leverages debt to accumulate Bitcoin (BTC)](https://cointelegraph.com/learn/articles/how-microstrategy-leverages-debt-to-accumulate-bitcoin?utm_source=chatgpt.com)
-* [MicroStrategy proposes $500 million convertible note offering to acquire more bitcoin](https://www.theblock.co/post/299943/microstrategy-proposes-500-million-convertible-note-offering-to-acquire-more-bitcoin?utm_source=chatgpt.com)
+- [How MicroStrategy leverages debt to accumulate Bitcoin (BTC)](https://cointelegraph.com/learn/articles/how-microstrategy-leverages-debt-to-accumulate-bitcoin?)
+- [MicroStrategy proposes $500 million convertible note offering to acquire more bitcoin](https://www.theblock.co/post/299943/microstrategy-proposes-500-million-convertible-note-offering-to-acquire-more-bitcoin?)
 
 ## The Rezerve Method to Convertible Bonds
 
@@ -59,9 +59,9 @@ Visit [https://rezerve.money/lend](https://rezerve.money/lend) to see more infor
 
 When users deposit stablecoins into Rezerve, they gain access to three distinct tranches of yield.&#x20;
 
-* A fixed yield in stablecoins
-* A dynamic yield from lending markets paid in stablecoins.
-* A dynamic incentive yield paid in RZR
+- A fixed yield in stablecoins
+- A dynamic yield from lending markets paid in stablecoins.
+- A dynamic incentive yield paid in RZR
 
 The longer users choose to lock their stablecoins, the more favourable the yield becomes and the lower the conversion price becomes.
 

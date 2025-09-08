@@ -70,20 +70,20 @@ Together, these constraints allow the protocol to calculate how much ETH exposur
 
 When Bitcoin experienced a steep decline in 2021, MicroStrategy’s bold strategy of amassing BTC via convertible debt came under intense scrutiny. Here’s how the company navigated the downturn and what lessons can be drawn.
 
-Under CEO Michael Saylor, MicroStrategy transformed from a business intelligence company into a self-styled “Bitcoin Treasury Company,” accumulating a massive BTC position through convertible notes and equity financing. By late 2024, the firm held hundreds of thousands of BTC, financed via low-interest, convertible senior notes, some even carrying a 0% coupon  .
+Under CEO Michael Saylor, MicroStrategy transformed from a business intelligence company into a self-styled “Bitcoin Treasury Company,” accumulating a massive BTC position through convertible notes and equity financing. By late 2024, the firm held hundreds of thousands of BTC, financed via low-interest, convertible senior notes, some even carrying a 0% coupon .
 
 While this strategy delivered massive upside in bull markets, it exposed the company to significant risk during downturns. In mid-2021, Bitcoin’s value plunged, causing MicroStrategy to record major asset-impairment charges over $180 million in one quarter and additional potential losses forecasted in the follow-up.
 
 Despite these losses, MicroStrategy avoided insolvency. Here’s how:
 
-* **Comfortable Margin Levels:** Their debt was structured to avoid margin calls even if BTC dropped significantly. The company stated it would face a margin call only if Bitcoin fell to approximately $21,000. When prices briefly flirted with that zone in June 2022, no margin call occurred thanks to sufficient collateral and liquidity buffers.
-* **Convertible Debt Buffer:** Convertible notes provided financing flexibility and delayed dilution. As long as the stock didn’t collapse, investors holding these debt instruments didn’t force liquidity demands in the midst of volatility.
-* **Strategic Patience**: MicroStrategy did not panic-sell BTC to cover its debt obligations. The firm demonstrated confidence in its long-term thesis and held through the downturn.
+- **Comfortable Margin Levels:** Their debt was structured to avoid margin calls even if BTC dropped significantly. The company stated it would face a margin call only if Bitcoin fell to approximately $21,000. When prices briefly flirted with that zone in June 2022, no margin call occurred thanks to sufficient collateral and liquidity buffers.
+- **Convertible Debt Buffer:** Convertible notes provided financing flexibility and delayed dilution. As long as the stock didn’t collapse, investors holding these debt instruments didn’t force liquidity demands in the midst of volatility.
+- **Strategic Patience**: MicroStrategy did not panic-sell BTC to cover its debt obligations. The firm demonstrated confidence in its long-term thesis and held through the downturn.
 
 While the crash inflicted billion-dollar paper losses (reported at over $1.2 billion) ￼, MicroStrategy’s solid liquidity planning and strategic debt structure allowed it to remain solvent and positioned for recovery when market sentiment improved.
 
 Read More:
 
-* [Billionaire Saylor's MicroStrategy Loses over $1.2 Billion in the Bitcoin Crash](https://www.thestreet.com/crypto/investing/billionaire-saylors-microstrategy-loses-over-1-2-billion-in-the-bitcoin-crash?utm_source=chatgpt.com)
-* [Will MicroStrategy Go Bankrupt if Bitcoin Keeps Falling?](https://marketrealist.com/p/will-microstrategy-go-bankrupt/?utm_source=chatgpt.com)
-* [What Does Strategy (Formerly MicroStrategy) Do and Why Does It Hold So Much Bitcoin?](https://www.investopedia.com/what-does-strategy-formerly-microstrategy-do-11750239?utm_source=chatgpt.com)
+- [Billionaire Saylor's MicroStrategy Loses over $1.2 Billion in the Bitcoin Crash](https://www.thestreet.com/crypto/investing/billionaire-saylors-microstrategy-loses-over-1-2-billion-in-the-bitcoin-crash?)
+- [Will MicroStrategy Go Bankrupt if Bitcoin Keeps Falling?](https://marketrealist.com/p/will-microstrategy-go-bankrupt/?)
+- [What Does Strategy (Formerly MicroStrategy) Do and Why Does It Hold So Much Bitcoin?](https://www.investopedia.com/what-does-strategy-formerly-microstrategy-do-11750239?)
