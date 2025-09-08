@@ -10,7 +10,7 @@ In traditional finance, MicroStrategy has demonstrated how a single entity can b
 
 As Bitcoin’s value increases, the company’s debt becomes cheaper to repay, and bondholders gain the option to take yield or convert bonds into MicroStrategy stock for potentially greater upside.
 
-MicroStrategy’s aggressive accumulation strategy has transformed the company into a de facto Bitcoin investment vehicle. As Bitcoin rallied, the firm’s market capitalization surged, and MSTR’s share price climbed over 2,700% from its 2020 lows, vastly outperforming Bitcoin itself.&#x20;
+MicroStrategy’s aggressive accumulation strategy has transformed the company into a de facto Bitcoin investment vehicle. As Bitcoin rallied, the firm’s market capitalization surged, and MSTR’s share price climbed over 2,700% from its 2020 lows, vastly outperforming Bitcoin itself.
 
 This leveraged approach created a feedback loop: higher BTC prices boosted market perception, which in turn increased MicroStrategy’s access to cheap capital for further accumulation.
 
@@ -18,7 +18,7 @@ To understand more about how MicroStrategy works see [The MicroStrategy Method](
 
 ## The Rezerve Approach
 
-Rezerve applies a similar strategy—but with Ethereum, and without central gatekeepers.&#x20;
+Rezerve applies a similar strategy—but with Ethereum, and without central gatekeepers.
 
 When capital is inexpensive, Rezerve utilizes on-chain bond sales and decentralized lending markets to expand its ETH treasury. Unlike a corporation or billionaire-led strategy, Rezerve’s accumulation engine is fully community-driven. Participation is open to all, and benefits are distributed among all contributors.
 

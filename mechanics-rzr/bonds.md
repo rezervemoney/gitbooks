@@ -5,7 +5,7 @@ description: This page goes through a discounted bond and how it works
 # Discounted Bonds
 
 {% hint style="danger" %}
-Discounted Bonds have now been discountinued in favour for [Convertible Bonds.](raising-debt-and-acquiring-eth/convertible-notes.md) Convertible Bonds now remain as the primary source of liquidity growth for the protocol.&#x20;
+Discounted Bonds have now been discountinued in favour for [Convertible Bonds.](raising-debt-and-acquiring-eth/convertible-notes.md) Convertible Bonds now remain as the primary source of liquidity growth for the protocol.
 {% endhint %}
 
 Bond sales are the protocol’s primary “asset on-ramp.” When users hand over stablecoins, BTC-RZR LP, or other whitelisted collateral, those dollars flow directly into the treasury, raising the [backing ratio β ](staking-rzr-srzr/yield-mechanics/backing-ratio-v.md)and, ultimately, the oracle floor price.
@@ -42,11 +42,11 @@ Conversely, bonds should not be issued when the spot price is near or below the 
 
 Take the following scenario of RZR and the
 
-* **Circulating supply:** 1,000,000 RZR
-* **Oracle floor (FloorUSD):** $1.00
-* **Spot price:** $1.20
-* **Treasury stable assets (PCV):** $1 000 000 → backing ratio β = 1.00
-* **Staking ratio ρ:** 70 % (the protocol’s target)
+- **Circulating supply:** 1,000,000 RZR
+- **Oracle floor (FloorUSD):** $1.00
+- **Spot price:** $1.20
+- **Treasury stable assets (PCV):** $1 000 000 → backing ratio β = 1.00
+- **Staking ratio ρ:** 70 % (the protocol’s target)
 
 A user now deposits $25 000 USDC to buy a bond quoted at a 12 % discount to the $1.20 spot price of RZR.
 
@@ -63,9 +63,9 @@ A user now deposits $25 000 USDC to buy a bond quoted at a 12 % discount to the 
 
 OlympusDAO bonds vest linearly over five days and require users to manually claim and restake their OHM to capture rebases, introducing friction and the risk of missed compounding opportunities. In contrast, the RZR bond:
 
-* **Automates Compounding**: Eliminates manual steps, ensuring every token tranche is staked immediately.
-* **Aligns Incentives:** Longer effective lockup (12 days vs. 5 days) fosters deeper commitment and reduces sell-pressure.
-* **Enhances Capital Efficiency**: By synchronizing vesting with the protocol’s epoch cycle, it maximizes rebase capture per unit of time.
+- **Automates Compounding**: Eliminates manual steps, ensuring every token tranche is staked immediately.
+- **Aligns Incentives:** Longer effective lockup (12 days vs. 5 days) fosters deeper commitment and reduces sell-pressure.
+- **Enhances Capital Efficiency**: By synchronizing vesting with the protocol’s epoch cycle, it maximizes rebase capture per unit of time.
 
 ## Conclusion
 

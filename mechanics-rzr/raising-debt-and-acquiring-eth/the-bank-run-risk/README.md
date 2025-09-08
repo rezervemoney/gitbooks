@@ -10,7 +10,7 @@ coverY: -92.45393786127168
 
 Essentially, Rezerve is a protocol that is leveraged long on ETH with its own internal leverage design that allows it to maintain exposure to ETH while minimizing the effects of short-term volatility and liquidation risks. However, the most critical factor that determines the solvency of the protocol is the possibility of a [“Bank run.”](https://en.wikipedia.org/wiki/Bank_run)
 
-If at any point the total USD value of ETH held as collateral drops below the total outstanding debt of the protocol, it becomes under-collateralized. This can occur due to sharp declines in ETH price, cascading sell pressure on $RZR (which is paired with ETH liquidity), or sudden lender withdrawals.&#x20;
+If at any point the total USD value of ETH held as collateral drops below the total outstanding debt of the protocol, it becomes under-collateralized. This can occur due to sharp declines in ETH price, cascading sell pressure on $RZR (which is paired with ETH liquidity), or sudden lender withdrawals.
 
 If lenders believe their funds could face losses, they may rush to withdraw simultaneously—causing a self-reinforcing liquidity crisis known as a bank run.
 
@@ -35,7 +35,7 @@ Keeping all these various risks in mind, the protocol and it's designs have take
 
 ### 1/ A Focus on Convertible Notes
 
-Incentives are designed to encourage lenders to lock their capital into long-duration convertible notes (up to four years). This creates predictability in borrowing and ensures a base cushion of capital that cannot be withdrawn during short-term volatility.&#x20;
+Incentives are designed to encourage lenders to lock their capital into long-duration convertible notes (up to four years). This creates predictability in borrowing and ensures a base cushion of capital that cannot be withdrawn during short-term volatility.
 
 Convertible notes also open a channel for accessing cheap, stable debt in both bull and bear conditions.
 
@@ -69,7 +69,7 @@ See [Protocol Owned Supply](../../protocol-driven-buybacks-pds/protocol-owned-su
 
 Unlike FTX and Celsius, Rezerve is fully on-chain, transparent, and governed by open-source smart contracts. All positions and risks are visible in real time, preventing hidden leverage or off-balance-sheet liabilities.
 
-Furthermore FTX & Celsius took out loans but did not invest into scarce assets like Bitcoin/Ethereum.&#x20;
+Furthermore FTX & Celsius took out loans but did not invest into scarce assets like Bitcoin/Ethereum.
 
 The Rezerve model is very similar to MicroStrategy and uses borrowed funds to specifically buy ETH/BTC and enforces the transparency of the blockchain.
 

@@ -8,7 +8,7 @@ Source code: [https://github.com/rezervemoney/code](https://github.com/rezervemo
 
 ## Cross Chain Addresses
 
-These are the various address for the RZR and lstRZR token across various chains.&#x20;
+These are the various address for the RZR and lstRZR token across various chains.
 
 <table><thead><tr><th width="133.91015625">Network</th><th width="99.3828125">Token</th><th>Address</th></tr></thead><tbody><tr><td>Ethereum</td><td>RZR</td><td>0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5</td></tr><tr><td>Base</td><td>RZR</td><td>0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5</td></tr><tr><td>Arbitrum</td><td>RZR</td><td>0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5</td></tr><tr><td>Sonic</td><td>RZR</td><td>0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5</td></tr></tbody></table>
 

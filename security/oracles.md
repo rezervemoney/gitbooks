@@ -6,7 +6,7 @@ description: >-
 
 # Oracles
 
-RZR adopts [Dia Data](http://diadata.org/) as its primary data layer.&#x20;
+RZR adopts [Dia Data](http://diadata.org/) as its primary data layer.
 
 We integrate DIA at three distinct tiers:
 

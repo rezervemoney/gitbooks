@@ -4,7 +4,7 @@ description: This page goes
 
 # Protocol Driven Buybacks (PDS)
 
-Protocol Driven Buybacks (PDBs) are a mechanism within the RZR protocol that use the protocol’s ETH reserves to repurchase RZR tokens from the market.&#x20;
+Protocol Driven Buybacks (PDBs) are a mechanism within the RZR protocol that use the protocol’s ETH reserves to repurchase RZR tokens from the market.
 
 Unlike discretionary buybacks, PDBs are governed by transparent rules tied to protocol-level metrics such as [protocol-controlled supply (PCS),](protocol-owned-supply.md) ETH reserves, and liquidity depth.
 
@@ -16,7 +16,7 @@ The primary goals are to:
 
 ## Why buybacks vs diluting existing holders?
 
-When the protocol acquires ETH from the open market using debt, it has three options to persue.&#x20;
+When the protocol acquires ETH from the open market using debt, it has three options to persue.
 
 1. Introduce the new ETH
 

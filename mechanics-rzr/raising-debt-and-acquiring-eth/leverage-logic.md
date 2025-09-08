@@ -8,7 +8,7 @@ description: >-
 
 Traditional lending engines in DeFi are designed with immediate liquidation triggers. If collateral value drops below a healthy loan-to-value (LTV) ratio, the system liquidates positions on the spot market to protect lenders. While this works for short-term solvency, it makes protocols highly sensitive to volatility and forces them to sell off assets at the worst possible times.
 
-Rezerve’s leverage system is designed differently. Instead of relying on instant liquidation, it allows the protocol to remain under-collateralized for a fixed duration of time. This is made possible because lender liquidity is committed through convertible notes that cannot be withdrawn early.&#x20;
+Rezerve’s leverage system is designed differently. Instead of relying on instant liquidation, it allows the protocol to remain under-collateralized for a fixed duration of time. This is made possible because lender liquidity is committed through convertible notes that cannot be withdrawn early.
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
@@ -16,7 +16,7 @@ As a result, Rezerve can ride through short-term volatility without being forced
 
 ## An Example
 
-For example, suppose the protocol deposits $100,000 of ETH as collateral and borrows $80,000 of assets against it at 80% LTV. In addition, it has $50,000 in convertible notes, which act as locked USD-denominated reserves. In a traditional leverage system, only the ETH collateral is counted, so if ETH drops 10% (to $90,000), the LTV spikes dangerously close to liquidation (88%).&#x20;
+For example, suppose the protocol deposits $100,000 of ETH as collateral and borrows $80,000 of assets against it at 80% LTV. In addition, it has $50,000 in convertible notes, which act as locked USD-denominated reserves. In a traditional leverage system, only the ETH collateral is counted, so if ETH drops 10% (to $90,000), the LTV spikes dangerously close to liquidation (88%).
 
 | Parameter         | Value / Behavior                                                                    |
 | ----------------- | ----------------------------------------------------------------------------------- |
@@ -47,7 +47,7 @@ This approach allows the protocol to take on leverage more sustainably, since th
 
 ## Infinite Minting and Risk Controls
 
-Technically, Rezerve can mint infinite RZR and put it into lending protocols as collateral. This means that the protocol can never be force-liquidated in the way traditional DeFi lending positions can.&#x20;
+Technically, Rezerve can mint infinite RZR and put it into lending protocols as collateral. This means that the protocol can never be force-liquidated in the way traditional DeFi lending positions can.
 
 However, solvency is not about minting power alone—it depends on whether the protocol has enough real liquidity (ETH, USD reserves, and convertible note backing) to meet obligations without triggering a bank run.
 

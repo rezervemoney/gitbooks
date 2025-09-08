@@ -10,7 +10,7 @@ _(Note that almost risks outlined here are economical risks)_
 
 ### Concentration & Volatility Risks
 
-One of the most fundamental risks is **concentration and volatility**. Placing a significant portion of the treasury in ETH would mean that RZR’s balance-sheet health becomes directly tied to ETH’s market performance.&#x20;
+One of the most fundamental risks is **concentration and volatility**. Placing a significant portion of the treasury in ETH would mean that RZR’s balance-sheet health becomes directly tied to ETH’s market performance.
 
 In times of market stress, sharp ETH drawdowns could erode reserves, making it harder to meet obligations or honor redemptions without selling into a falling market. This is exactly the scenario MicroStrategy has faced when Bitcoin prices declined, forcing it to endure steep swings in reported equity and market capitalization.
 
@@ -18,7 +18,7 @@ In times of market stress, sharp ETH drawdowns could erode reserves, making it h
 
 ### **Financing and Refinancing Risks**
 
-Financing and refinancing risks are another critical consideration. MicroStrategy often funded purchases through convertible debt with low or zero coupons, betting that its stock price would stay high enough for conversion to equity.&#x20;
+Financing and refinancing risks are another critical consideration. MicroStrategy often funded purchases through convertible debt with low or zero coupons, betting that its stock price would stay high enough for conversion to equity.
 
 When market sentiment shifts, this option becomes less viable, and maturities or put dates can force large cash outlays at the worst possible moment. For RZR, any debt-funded ETH acquisition strategy would need careful maturity matching to avoid forced sales.
 
@@ -26,7 +26,7 @@ When market sentiment shifts, this option becomes less viable, and maturities or
 
 ### Dilution Risks
 
-This approach also creates **dilution risk**. If funding comes through equity issuance, existing holders see their share of the treasury diluted. MicroStrategy relied heavily on the market assigning a premium to its shares relative to the book value of BTC holdings.&#x20;
+This approach also creates **dilution risk**. If funding comes through equity issuance, existing holders see their share of the treasury diluted. MicroStrategy relied heavily on the market assigning a premium to its shares relative to the book value of BTC holdings.
 
 In a bear market, that premium often vanishes, making capital raises both more dilutive and less effective—an outcome that could equally affect RZR token holders.
 
@@ -46,6 +46,6 @@ There is also **liquidity and execution risk**. While ETH is one of the most liq
 
 ## Conclusion
 
-Adopting a MicroStrategy-style ETH accumulation strategy can amplify RZR’s exposure to ETH price performance and market sentiment. While such a strategy could deliver significant upside in bull markets, it inherently increases treasury volatility, redemption risk, and funding fragility.&#x20;
+Adopting a MicroStrategy-style ETH accumulation strategy can amplify RZR’s exposure to ETH price performance and market sentiment. While such a strategy could deliver significant upside in bull markets, it inherently increases treasury volatility, redemption risk, and funding fragility.
 
 Implementing strict allocation limits, diversified reserves, and robust governance over financing decisions is essential for long-term sustainability.

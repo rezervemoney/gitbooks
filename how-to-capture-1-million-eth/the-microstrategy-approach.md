@@ -8,7 +8,7 @@ description: >-
 
 MicroStrategy is a publicly traded business intelligence company that became globally known not for its software products, but for its bold treasury strategy. Instead of holding cash or traditional reserves, it transformed its balance sheet into one of the largest corporate Bitcoin holdings in the world. The core principle is straightforward: use the company’s ability to raise capital to acquire a scarce, appreciating asset—in this case, Bitcoin—without selling equity unnecessarily.
 
-The process begins with raising capital through debt instruments, most notably convertible notes. These are loans that carry a low interest rate because they give lenders the option to convert the debt into MicroStrategy stock at a predetermined price.&#x20;
+The process begins with raising capital through debt instruments, most notably convertible notes. These are loans that carry a low interest rate because they give lenders the option to convert the debt into MicroStrategy stock at a predetermined price.
 
 In effect, the company’s reputation, stock market liquidity, and expected future equity value act as collateral for this borrowing. This structure allows MicroStrategy to access large amounts of USD at favorable terms without diluting shareholders immediately.
 
