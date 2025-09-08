@@ -76,7 +76,7 @@ The table above illustrates the various benefits to users who stake their assets
 
 In Rezerve, user positions are not simply account balances inside a protocol contract; they are instead represented as non-fungible tokens (NFTs).
 
-Each NFT encapsulates the full details of a user’s allocation such as the lock duration, the amount of stablecoins deposited, the yield accrued, and the option to convert into $RZR at maturity or trigger events.
+Each NFT encapsulates the full details of a user’s allocation such as the lock duration, the amount of stablecoins deposited, the yield accrued, and the option to convert into RZR at maturity or trigger events.
 
 Meaning users now further trade their lock positions on secondary marketplaces like OpenSea.
 

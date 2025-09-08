@@ -62,7 +62,7 @@ That’s why leverage logic in Rezerve is built on two guiding constraints:
 
 By combining ETH collateral with USD-denominated convertible notes, Rezerve creates a blended collateral model that reduces sensitivity to short-term crashes. Where traditional systems would trigger mass liquidations at high volatility, Rezerve can “hold its breath” through drawdowns, giving the system breathing room to recover.
 
-This doesn’t mean risk is eliminated. If ETH enters a prolonged bear market or if sell pressure on $RZR overwhelms liquidity, the protocol still faces solvency challenges. But with structured notes, risk simulations, and transparent dashboards, the system is designed to keep leverage at sustainable levels.
+This doesn’t mean risk is eliminated. If ETH enters a prolonged bear market or if sell pressure on RZR overwhelms liquidity, the protocol still faces solvency challenges. But with structured notes, risk simulations, and transparent dashboards, the system is designed to keep leverage at sustainable levels.
 
 For more detail, you can review live risk dashboards at [rezerve.money/risk](https://rezerve.money/risk) and explore open-source risk simulations at [github.com/rezervemoney/risk](https://github.com/rezervemoney/risk). You can also see the risk measures the protocol takes to [prevent the bank run risk](the-bank-run-risk/).
 

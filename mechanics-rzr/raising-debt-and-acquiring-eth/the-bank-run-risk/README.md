@@ -10,7 +10,7 @@ coverY: -92.45393786127168
 
 Essentially, Rezerve is a protocol that is leveraged long on ETH with its own internal leverage design that allows it to maintain exposure to ETH while minimizing the effects of short-term volatility and liquidation risks. However, the most critical factor that determines the solvency of the protocol is the possibility of a [“Bank run.”](https://en.wikipedia.org/wiki/Bank_run)
 
-If at any point the total USD value of ETH held as collateral drops below the total outstanding debt of the protocol, it becomes under-collateralized. This can occur due to sharp declines in ETH price, cascading sell pressure on $RZR (which is paired with ETH liquidity), or sudden lender withdrawals.
+If at any point the total USD value of ETH held as collateral drops below the total outstanding debt of the protocol, it becomes under-collateralized. This can occur due to sharp declines in ETH price, cascading sell pressure on RZR (which is paired with ETH liquidity), or sudden lender withdrawals.
 
 If lenders believe their funds could face losses, they may rush to withdraw simultaneously—causing a self-reinforcing liquidity crisis known as a bank run.
 
@@ -18,7 +18,7 @@ If lenders believe their funds could face losses, they may rush to withdraw simu
 
 ## Scenarios that Could Trigger a Bank Run
 
-1. **Short-Term ETH Volatility**: If ETH experiences a sudden price crash, the value of ETH collateral declines. Since $RZR liquidity is paired with ETH, its price tends to follow, leading lenders to doubt the protocol’s solvency.
+1. **Short-Term ETH Volatility**: If ETH experiences a sudden price crash, the value of ETH collateral declines. Since RZR liquidity is paired with ETH, its price tends to follow, leading lenders to doubt the protocol’s solvency.
 2. **Sell Pressure on RZR**: Large sell-offs of RZR (whether from profit-taking, short-sellers, or external shocks) can extract liquidity and depress the token price. This reduces the collateral buffer, heightening the risk of under-collateralization.
 3. **Sudden Liquidity Withdrawals:** If lenders collectively withdraw capital in a short period, the protocol may be forced to pay abnormally high interest rates to attract replacement capital. This further stresses reserves and increases the risk of insolvency.
 

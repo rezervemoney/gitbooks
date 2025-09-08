@@ -6,7 +6,7 @@ description: >-
 
 # Revenue Sources
 
-Revenue is the lifeblood of any sustainable protocol, and in Rezerve, all revenue is funneled directly into buybacks and burns of $RZR. This creates continuous demand for the token, raises the effective floor price, and ensures that holders capture the upside of protocol growth.
+Revenue is the lifeblood of any sustainable protocol, and in Rezerve, all revenue is funneled directly into buybacks and burns of RZR. This creates continuous demand for the token, raises the effective floor price, and ensures that holders capture the upside of protocol growth.
 
 Rezerve’s revenues come from four primary sources:
 
@@ -49,7 +49,7 @@ This creates:
 - A rising floor price backed by real protocol earnings.
 - A direct and transparent link between protocol success and tokenholder value.
 
-By design, Rezerve avoids inflationary emissions or arbitrary dilution. Instead, it recycles genuine economic activity into demand for its native token, making $RZR one of the few DeFi assets with a real, protocol-driven value capture mechanism.
+By design, Rezerve avoids inflationary emissions or arbitrary dilution. Instead, it recycles genuine economic activity into demand for its native token, making RZR one of the few DeFi assets with a real, protocol-driven value capture mechanism.
 
 ## Performance Fees
 
