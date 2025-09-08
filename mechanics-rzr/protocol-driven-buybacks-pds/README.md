@@ -20,4 +20,4 @@ When the protocol acquires ETH from the open market using debt, it has three opt
 
 1. Introduce the new ETH
 
-PDBs balance short-term reflexivity (Ponzi-like growth dynamics) with a long-term ETH-backed foundation. In early phases, buybacks create scarcity and rapid PCS growth. In maturity, the protocol transitions into a sustainable reserve system with deep ETH liquidity and high PCS, positioning RZR as a robust reserve asset.
+PDBs balance short-term reflexivity with a long-term ETH-backed foundation. In early phases, buybacks create scarcity and rapid PCS growth. In maturity, the protocol transitions into a sustainable reserve system with deep ETH liquidity and high PCS, positioning RZR as a robust reserve asset.

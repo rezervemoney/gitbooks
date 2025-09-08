@@ -4,7 +4,6 @@
 * [How To Capture 1 Million ETH?](how-to-capture-1-million-eth/README.md)
   * [The MicroStrategy Approach](how-to-capture-1-million-eth/the-microstrategy-approach.md)
   * [The Rezerve Approach](how-to-capture-1-million-eth/the-rezerve-approach.md)
-  * [Risks](how-to-capture-1-million-eth/risks.md)
 * [The Vision](the-vision.md)
 * [Roadmap: Path to 1 Billion FDV](roadmap-path-to-1-billion-fdv.md)
 * [Competitor Analysis](competitor-analysis/README.md)

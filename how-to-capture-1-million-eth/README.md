@@ -38,4 +38,4 @@ Rezerve’s model follows a comparable high-risk, high-reward path. RZR’s perf
 
 When Ethereum’s value rises and the treasury continues to grow, RZR could outperform simply holding ETH, delivering gains through asset appreciation, staking yield, liquidity rewards, and network effects.
 
-For a more detailed breakdown about the risks of adopting this strategy, see [Risks](risks.md).
+For a more detailed breakdown about the risks of adopting this strategy, see [Risks](broken-reference).
