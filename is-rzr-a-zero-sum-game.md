@@ -3,6 +3,8 @@ description: >-
   Let’s be real, all of crypto is a zero-sum game. For every winner, there’s a
   loser. But the real question is: who’s winning, and who’s losing?
 icon: face-thinking
+cover: .gitbook/assets/2-chess-game-win-and-lose-michal-bednarek.jpg
+coverY: -72.94413836705202
 ---
 
 # Is RZR a Zero-Sum Game?

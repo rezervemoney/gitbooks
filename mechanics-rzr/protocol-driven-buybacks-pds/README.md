@@ -1,5 +1,7 @@
 ---
 description: This page goes into detail about the protocol aims to conducts buybacks of RZR
+cover: ../../.gitbook/assets/9cYn7sharebuyback01.png
+coverY: 0
 ---
 
 # Protocol Driven Buybacks (PDS)

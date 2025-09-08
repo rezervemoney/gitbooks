@@ -1,5 +1,7 @@
 ---
 description: Why raising debt in USD makes sense to buy ETH and why it benefits Rezerve?
+cover: ../../.gitbook/assets/960x0.webp
+coverY: 0
 ---
 
 # Raising Debt & Acquiring ETH
