@@ -18,7 +18,7 @@ Fees accrue in real time, are auto-compounded into the position, and then stream
 
 ### 2/ Lending Fees on USDC Reserves
 
-Idle reserves are deployed into reputable lending markets (e.g., Aave, Morpho, Spectra) where they earn organic yield. This converts otherwise unused treasury capital into a steady cash flow, which can then be directed into buybacks.&#x20;
+Idle reserves are deployed into reputable lending markets (e.g., Aave, Morpho, Spectra) where they earn organic yield. This converts otherwise unused treasury capital into a steady cash flow, which can then be directed into buybacks.
 
 For example, with billions in USDC under management, even low-risk lending at 3–6% APY provides a meaningful baseline revenue stream to cover operating costs and strengthen the protocol’s floor price.
 
