@@ -69,7 +69,9 @@ See [Protocol Owned Supply](../../protocol-driven-buybacks-pds/protocol-owned-su
 
 Unlike FTX and Celsius, Rezerve is fully on-chain, transparent, and governed by open-source smart contracts. All positions and risks are visible in real time, preventing hidden leverage or off-balance-sheet liabilities.
 
-The Rezerve model is very similar to MicroStrategy and enforces the transparency of the blockchain.
+Furthermore FTX & Celsius took out loans but did not invest into scarce assets like Bitcoin/Ethereum.&#x20;
+
+The Rezerve model is very similar to MicroStrategy and uses borrowed funds to specifically buy ETH/BTC and enforces the transparency of the blockchain.
 
 ### What happens if ETH price crashes by 80% overnight?
 
@@ -79,7 +81,7 @@ The protocol never takes on a position if it estimates it can be at risk of a do
 
 ### Can lenders withdraw at any time?
 
-Yes, for flexible lending products, withdrawals are possible, but most incentives encourage long-term locks via convertible notes. This reduces the risk of sudden mass withdrawals.
+In an ideal scenario yes; for flexible lending products, withdrawals are possible, but most incentives encourage long-term locks via convertible notes. This reduces the risk of sudden mass withdrawals.
 
 ### How is the protocol incentivized to remain solvent?
 

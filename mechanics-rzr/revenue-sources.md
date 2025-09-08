@@ -6,33 +6,29 @@ description: >-
 
 # Revenue Sources
 
-Revenue is a crucial component for any protocol. In Rezerve, revenue is directly translated to newly minted RZR towards stakers and a [rising floor price for RZR](staking-rzr-srzr/yield-mechanics/price-hard-floor.md).
+Revenue is the lifeblood of any sustainable protocol, and in Rezerve, all revenue is funneled directly into buybacks and burns of $RZR. This creates continuous demand for the token, raises the effective floor price, and ensures that holders capture the upside of protocol growth.
 
-To this note, there are five independent sources of revenue that the protocol genreates fees from.
+Rezerve’s revenues come from four primary sources:
 
-### **Trading fees on protocol-owned liquidity**
+### **1/ Trading fees on protocol-owned liquidity**
 
 The DAO owns the majority of its RZR-USDC and RZR-ETH liquidity positions on DEXes. Because the pools are deliberately concentrated around the prevailing price, they generate 2–10 bp per trade and capture most of the market’s swap volume.
 
 Fees accrue in real time, are auto-compounded into the position, and then streamed to the treasury at epoch boundaries as raw USDC/ETH. This “always-on market-making desk” provides depth for traders while paying the protocol for the service.
 
-### **Bond sales (discounted inflow)**
+### 2/ Lending Fees on USDC Reserves
 
-When the market price trades above the hard floor, users can deposit USDC, BTC-RZR LP or other whitelisted assets and receive RZR at a modest 5-20 % discount.
+Idle reserves are deployed into reputable lending markets (e.g., Aave, Morpho, Spectra) where they earn organic yield. This converts otherwise unused treasury capital into a steady cash flow, which can then be directed into buybacks. For example, with billions in USDC under management, even low-risk lending at 3–6% APY provides a meaningful baseline revenue stream to cover operating costs and strengthen the protocol’s floor price.
 
-The full deposit is credited to the treasury on day 0, while the discounted RZR vests over twelve days. In high-premium environments bond flow is the largest single influx of new collateral, driving the backing ratio β higher and unlocking richer staking APRs.
+### 3/ Staking Incentives from ETH
 
-### **Lending-market revenue**
+ETH is at the core of Rezerve’s strategy. By holding and staking ETH, the protocol earns validator rewards and staking yield.&#x20;
 
-A slice of idle stable reserves is supplied to low-risk money markets such as Aave, Morpho or Spectra vaults, earning organic lending yield (typically 3–6 % APY on stables).
+With scale, this becomes a major source of recurring income: for example, a treasury holding of $3 billion in ETH could generate $120 million annually at a 4% APR.&#x20;
 
-Allocation is capped at 25% of stable PCV and can be recalled within one block through flash-repay guardians. This “lazy cash” layer covers operational gas costs and cushions APR when bond demand is quiet.
+This ETH-denominated revenue is especially powerful, since it aligns with Rezerve’s long-term thesis of being structurally long ETH.
 
-### **DEX-partner emissions (“external bribes”)**
-
-By seeding POL on veToken DEXes, the DAO qualifies for weekly emissions of the venue’s native token (VELO, PENDLE, etc.). Two-thirds of the farmed tokens are market-sold for stables and routed into the floor-price ratchet; the remaining third is recycled as bribes to keep gauge weight pointed at the RZR pairs. This flywheel subsidises deeper liquidity without selling extra RZR.
-
-### **Harberger-tax stream**
+### **4/ Harberger-tax stream**
 
 All staked positions self-declare a valuation and prepay a 5 % annual “ownership tax.” The tax drips into the treasury block-by-block, giving the protocol a bond-independent income floor even when trading volumes are thin.
 
@@ -42,11 +38,16 @@ Furthermore bond purchases also charge a 1% trading fee which goes towards the r
 
 See [staking RZR](staking-rzr-srzr/) and [Harberger taxes](revenue-sources.md#harberger-tax-stream).
 
-## How the streams converge?
+## How Revenue Flows Back to Holders?
 
-Every eight-hour epoch the controller tallies new US-dollar value from _all_ four sources, feeds it to the ρ-splitter (50 % to floor at 80 % staking, 40 % to stakers, 10 % ops) and then reassesses the backing ratio β.
+Every unit of revenue is routed into RZR buybacks and burns. As trading fees, lending yield, and ETH staking income accumulate, the protocol systematically purchases RZR from the open market and removes it from circulation.&#x20;
 
-If inflows beat the previous epoch’s inflation cost, the oracle floor ticks one percent higher. Over time this design lets the floor, the staking yield and the treasury balance climb in lock-step—trading fees and emissions cover the bear market, bond sales capture the bull, and lending yield smooths the cycle in between.
+This creates:
+
+* A rising floor price backed by real protocol earnings.
+* A direct and transparent link between protocol success and tokenholder value.
+
+By design, Rezerve avoids inflationary emissions or arbitrary dilution. Instead, it recycles genuine economic activity into demand for its native token, making $RZR one of the few DeFi assets with a real, protocol-driven value capture mechanism.
 
 ## Performance Fees
 

@@ -2,13 +2,15 @@
 description: >-
   This page talks a bit about the Infinite Money Glitch and how Rezerve raises
   debt to capture as much as ETH as possible.
+cover: ../.gitbook/assets/fantasy-pepe-meme-1-e1746010371886.jpg
+coverY: 0
 ---
 
 # The Infinite Money Glitch
 
-Rezerve’s so-called Infinite Money Glitch has quickly become one of the core functionalities of the protocol. At its core, it is a clever repurposing of a time-tested TradFi instrument—the [convertible bond](raising-debt-and-acquiring-eth/convertible-notes.md)—reimagined in the language of stablecoins, on-chain liquidity, and protocol incentives.
+Rezerve’s so-called Infinite Money Glitch has quickly become one of the core functionalities of the protocol. At its core, it is a clever repurposing of a time-tested TradFi instrument, the [convertible bond](raising-debt-and-acquiring-eth/convertible-notes.md), reimagined in the language of stablecoins, on-chain liquidity, and protocol incentives.
 
-## How It Works
+## How It Works?
 
 When you stake USD assets on Rezerve, your capital immediately start earning yield for your deposit. The longer you stake your USD, the more yield you'll get it.
 
@@ -18,11 +20,15 @@ When you convert your position into RZR, the underlying assets you had initially
 
 To learn more about Rezerve's convertible bonds, see [Convertible Bonds](raising-debt-and-acquiring-eth/convertible-notes.md).
 
-## Why It’s Called the “Infinite Money Glitch”
+## Why It’s Called the “Infinite Money Glitch”?
 
 The reason this has been branded an “Infinite Money Glitch” is not because it defies economics, but because of the reflexive feedback loop it sets in motion. The protocol recycles staked USDC into ETH, which is then used to deepen liquidity for RZR pairs.&#x20;
 
-In a bullish market, ETH appreciates in value, increasing the effective liquidity backing RZR. This deeper liquidity attracts more trading, more stability, and more demand for RZR. As demand grows, so does the market price of RZR. Since stakers hold the right to convert USDC positions into RZR at a discount, their option becomes increasingly valuable.&#x20;
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+In a bullish market, ETH appreciates in value, increasing the effective liquidity backing RZR. This deeper liquidity attracts more trading, more stability, and more demand for RZR. As demand grows, so does the market price of RZR.&#x20;
+
+Since stakers hold the right to convert USDC positions into RZR at a discount, their option becomes increasingly valuable.&#x20;
 
 This creates a self-reinforcing cycle: ETH pumps → liquidity strengthens → RZR rallies → conversion upside increases → staker demand rises → more USDC flows in.
 
@@ -34,4 +40,4 @@ These positions, committed for months or even years, cannot be withdrawn prematu
 
 In practice, it means that while upside exposure may diminish in a downturn, the protocol’s core structure remains intact—anchored by predictable, stablecoin based commitments that smooth volatility and provide a foundation for eventual recovery when markets turn bullish again.
 
-See the ["bank run"](raising-debt-and-acquiring-eth/the-bank-run-risk/) risk for more information on how th protocol simulates these scenarios and prepares to raise enough convertible notes.
+See the ["bank run"](raising-debt-and-acquiring-eth/the-bank-run-risk/) risk page for more information on how the protocol simulates these scenarios and prepares to raise enough convertible notes.

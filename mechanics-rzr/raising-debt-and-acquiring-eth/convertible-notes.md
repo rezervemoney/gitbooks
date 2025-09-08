@@ -5,7 +5,7 @@ description: How the protocol uses convertible notes to raise debt to buy ETH
 # Convertible Notes
 
 {% hint style="success" %}
-[Convertible bonds](https://en.wikipedia.org/wiki/Convertible_bond?utm_source=chatgpt.com) is an improvement over the previously implemented [Discount Bonds](../bonds.md) and is now the primary source of new liquidity for the protocol.&#x20;
+[Convertible bonds](https://en.wikipedia.org/wiki/Convertible_bond?utm_source=chatgpt.com) is an improvement over the previously implemented [Discounted Bonds](../bonds.md) and is now the primary source of new liquidity for the protocol.&#x20;
 {% endhint %}
 
 Rezerve’s convertible bonds are structured financial instruments that combine the stability of debt with the potential upside of equity. Investors purchasing these bonds are essentially lending to Rezerve, receiving periodic coupon payments like traditional bonds. However, what distinguishes them is the embedded option: holders can convert their bonds into Rezerve’s native token RZR under predefined conditions.
@@ -55,7 +55,7 @@ While traditional convertible notes rely on equity conversion and MicroStrategy�
 
 Visit [https://rezerve.money/lend](https://rezerve.money/lend) to see more information about the convertible notes
 
-### Multiple Yield Sources
+### 1/ Multiple Yield Sources
 
 When users deposit stablecoins into Rezerve, they gain access to three distinct tranches of yield.&#x20;
 
@@ -72,7 +72,7 @@ The longer users choose to lock their stablecoins, the more favourable the yield
 
 The table above illustrates the various benefits to users who stake their assets for longer periods of time. The values above are for illustration purposes only.
 
-### NFT Positions
+### 2/ NFT Positions
 
 In Rezerve, user positions are not simply account balances inside a protocol contract; they are instead represented as non-fungible tokens (NFTs).&#x20;
 
@@ -80,7 +80,7 @@ Each NFT encapsulates the full details of a user’s allocation such as the lock
 
 Meaning users now further trade their lock positions on secondary marketplaces like OpenSea.
 
-### Dynamic Lock Durations
+### 3/ Dynamic Lock Durations
 
 Rezerve introduces dynamic lock durations as a mechanism for aligning user incentives with the stability of the protocol. Instead of imposing a single fixed lock-up period, users can choose to stake their assets for any duration ranging from 1 month to 48 months.&#x20;
 

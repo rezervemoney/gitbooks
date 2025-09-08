@@ -22,7 +22,7 @@ Every dollar that enters the protocol (bonds, Harberger taxes, swap fees) is spl
 | Staker Rewards | $$s(\rho)=1-f(\rho)-10\%$$                                 | Fuels headline APR           |
 | Ops Wallet     | 10% fixed                                                  | Bribes, audits, integrations |
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>How the staking ratio influences the yield allocation between stakers and raising the floor price</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>How the staking ratio influences the yield allocation between stakers and raising the floor price</p></figcaption></figure>
 
 **Orange curve – Floor-Escrow % -** _Starts at 15 % when almost nobody is staked, then rises linearly as ρ climbs, but caps at 50% once staking exceeds 70%._ This slice is wired straight to increase the price hard floor for RZR (see [Price Hard Floor](yield-mechanics/price-hard-floor.md))
 

@@ -10,11 +10,15 @@ While the dollar remains dominant in global trade, its purchasing power has been
 
 ## Why Raising Debt in Dollars Makes Sense?
 
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 In an environment where the dollar depreciates over time, raising debt denominated in USD is a strategic advantage. Borrowers effectively repay in “cheaper dollars” tomorrow, reducing the real cost of debt.&#x20;
 
 Corporations and governments alike have long exploited this, locking in low interest rates while inflation erodes their liabilities. If a borrower can access USD debt at favorable terms and allocate it into appreciating or scarce assets, they transform a liability into an asymmetric bet.
 
 ## Why Acquire ETH Instead of Holding USD?
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Ethereum Deflation Hits Record High Six Months After Merge from <a href="https://ultrasound.money/">ultrasound.money</a></p></figcaption></figure>
 
 Ethereum represents the opposite side of this trade: a scarce, programmable asset with increasing utility in decentralized finance (DeFi). With a fixed issuance schedule post-merge and structural deflationary pressures from EIP-1559’s fee burns, ETH is emerging as a store of value with productive yield properties.&#x20;
 
@@ -31,7 +35,9 @@ By doing so, the protocol is positioned to benefit from two structural trends:
 
 Through its [leverage design](leverage-logic.md) and [convertible note](convertible-notes.md) system, Rezerve ensures that borrowed capital is backed not only by ETH but also by USD-denominated locked positions.&#x20;
 
-This dual-layered structure cushions volatility while preserving the upside of the long ETH bet. The result is a system that mirrors what sophisticated corporates like MicroStrategy did with Bitcoin using cheap fiat debt to accumulate scarce digital assets but tailored for Ethereum’s unique monetary policy and liquidity ecosystem.
+This dual-layered structure cushions volatility while preserving the upside of the long ETH bet.&#x20;
+
+The result is a system that mirrors what sophisticated corporates like MicroStrategy did with Bitcoin using cheap fiat debt to accumulate scarce digital assets but tailored for Ethereum’s unique monetary policy and liquidity ecosystem.
 
 ## Conclusion
 

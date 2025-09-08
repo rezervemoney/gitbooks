@@ -11,7 +11,7 @@ RZR’s capped-inflation curve mints new tokens only when the treasury is safely
 
 If reserves thin, β falls and the APR auto-throttles—so supply can never outgrow collateral for long—while periods of strong inflow unlock higher yields for stakers without risking solvency.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 On the horizontal axis the diagram plots β, while the vertical axis shows the corresponding APR. Grey guide-lines mark the policy thresholds at β = 1.0, 1.5, 2.0, 2.5. The orange curve idles at zero until collateral safety is regained, accelerates through the warm-up zone, cruises at the mid-band, then finally slopes toward its crimson ceiling.
 

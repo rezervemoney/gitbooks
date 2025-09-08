@@ -18,7 +18,7 @@ This mechanism converts speculative demand into hard reserves without relying on
 
 A bond is bought in a single transaction. The contract quotes the payout by applying a fixed discount to the live spot price of RZR; the entire discounted amount is minted immediately but placed under a twelve-day linear vest. Each day one-twelfth of the tokens becomes claimable.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>A screenshot showing the different bond positions a user has. Users can optionally stake their bond immediately to start earning staking rewards.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>A screenshot showing the different bond positions a user has. Users can optionally stake their bond immediately to start earning staking rewards.</p></figcaption></figure>
 
 At the moment of claiming the user chooses between two paths. If they want liquidity, they withdraw the tranche as raw RZR. If they are yield-oriented, they press “Stake & Lock”; the tranche is swept into the staking vault, begins earning the current rebase rate from that block onward, and is non-transferable until the 30 day lock (which includes the vesting period) expires.
 
