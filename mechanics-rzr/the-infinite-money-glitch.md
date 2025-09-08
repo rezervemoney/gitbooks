@@ -10,21 +10,23 @@ coverY: 0
 
 Rezerve’s so-called Infinite Money Glitch has quickly become one of the core functionalities of the protocol. At its core, it is a clever repurposing of a time-tested TradFi instrument, the [convertible bond](raising-debt-and-acquiring-eth/convertible-notes.md), reimagined in the language of stablecoins, on-chain liquidity, and protocol incentives.
 
-## How It Works?
+## How Does It Work?
 
-When you stake USD assets on Rezerve, your capital immediately start earning yield for your deposit. The longer you stake your USD, the more yield you'll get it.
+When users stake stablecoins into Rezerve’s [convertible bonds](raising-debt-and-acquiring-eth/convertible-notes.md), they are effectively lending the protocol debt capital that can be deployed to acquire more ETH. The protocol, while taking into account various risk parameters, ensures that it borrows the stablecoins and buys ETH in a safe and measured way based on its [leverage profile](raising-debt-and-acquiring-eth/leverage-logic.md).
 
-But that’s not all. Each stake is effectively a convertible bond on-chain. If the price of RZR rallies, your staked USDC can be converted into RZR at a pre-set discount, giving you equity-like upside on top of your base yields.
+The bought out ETH is then added into RZR liquidity strengthening price and deepening RZR liquidity.
 
-When you convert your position into RZR, the underlying assets you had initially committed goes back to the protocol which is then used to write off it's debt.
+As ETH appreciates in value, the price of RZR also rises. This appreciation gives bond-holders the option to convert their bonds into RZR. When a conversion takes place, the stablecoins that were originally deposited by the user are transferred to the protocol. The protocol then uses these stablecoins to reduce or write off its outstanding debt.
 
-To learn more about Rezerve's convertible bonds, see [Convertible Bonds](raising-debt-and-acquiring-eth/convertible-notes.md).
+This mechanism creates a powerful cycle: the protocol maintains and grows its ETH exposure, users can exit the system seamlessly through conversion, and any debt on the protocol’s balance sheet gets cleared in the process.&#x20;
+
+In short, it’s a win-win structure that strengthens the protocol while rewarding participants.&#x20;
 
 ## Why It’s Called the “Infinite Money Glitch”?
 
-The reason this has been branded an “Infinite Money Glitch” is not because it defies economics, but because of the reflexive feedback loop it sets in motion. The protocol recycles staked USDC into ETH, which is then used to deepen liquidity for RZR pairs.
+The reason this has been branded an “Infinite Money Glitch” is not because it defies economics, but because of the reflexive feedback loop it sets in motion. The protocol recycles staked USD stablecoins into ETH, which is then used to deepen liquidity for RZR pairs.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 In a bullish market, ETH appreciates in value, increasing the effective liquidity backing RZR. This deeper liquidity attracts more trading, more stability, and more demand for RZR. As demand grows, so does the market price of RZR.
 

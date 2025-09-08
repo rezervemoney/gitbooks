@@ -18,13 +18,13 @@ Together, the pressure to keep taxes low (declare a small value) and the risk of
 
 A quick numerical example; Suppose you own an NFT you value at 10 ETH.
 
-- You list it at 10 ETH and the protocol charges a 5 % annual Harberger tax.
-- Your tax bill streams at 0.5 ETH / yr (≈ 0.00137 ETH per day).
-- Anyone willing to pay 10 ETH can take the NFT instantly; if you actually value it more, you can raise the declared price—but your daily tax rises proportionally.
+* You list it at 10 ETH and the protocol charges a 5 % annual Harberger tax.
+* Your tax bill streams at 0.5 ETH / yr (≈ 0.00137 ETH per day).
+* Anyone willing to pay 10 ETH can take the NFT instantly; if you actually value it more, you can raise the declared price—but your daily tax rises proportionally.
 
 ## **Origins & Evolution**
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Arnold Harberger in 2016 (born July 27, 1924)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Arnold Harberger in 2016 (born July 27, 1924)</p></figcaption></figure>
 
 Arnold C. Harberger is an American economist (b. 1924) long associated with the University of Chicago. He is best known in public-finance circles for the “Harberger triangle” (a textbook diagram of dead-weight loss) and for early work on cost-benefit analysis and tax policy.
 
@@ -46,6 +46,6 @@ Harberger-style licenses are being tested for digital land (e.g., Geo Web) and h
 
 Here are a few examples:
 
-- **Wildcards:** NFT Patronage for Conservation: Wildcards is a platform that tokenizes endangered animals as NFTs on Ethereum. Each NFT is always available for purchase at the owner’s self-assessed price, with owners paying a periodic tax on this valuation. Proceeds from taxes and sales support wildlife conservation efforts, ensuring that assets remain in the hands of those who value them most while funding public goods. ￼
-- **Hourglass Protocol:** Ephemeral Ownership via Harberger Tax - Hourglass Protocol introduces a standard for digital assets on Solana, emphasizing ephemeral ownership and perpetual auctions. Assets, termed “Hourglasses,” are always for sale at the owner’s declared price, with taxes paid on this valuation. This model ensures assets are utilized by those who value them most, discouraging speculation and promoting efficient use.
-- **Unihedge: Prediction Markets with Harberger Tax Dynamics** - Unihedge is a decentralized prediction market platform that incorporates Harberger Tax principles. Participants own prediction shares by self-assessing their value, paying taxes accordingly, and remaining open to selling at the declared price. This approach enhances liquidity and continuous price discovery in prediction markets.
+* **Wildcards:** NFT Patronage for Conservation: Wildcards is a platform that tokenizes endangered animals as NFTs on Ethereum. Each NFT is always available for purchase at the owner’s self-assessed price, with owners paying a periodic tax on this valuation. Proceeds from taxes and sales support wildlife conservation efforts, ensuring that assets remain in the hands of those who value them most while funding public goods. ￼
+* **Hourglass Protocol:** Ephemeral Ownership via Harberger Tax - Hourglass Protocol introduces a standard for digital assets on Solana, emphasizing ephemeral ownership and perpetual auctions. Assets, termed “Hourglasses,” are always for sale at the owner’s declared price, with taxes paid on this valuation. This model ensures assets are utilized by those who value them most, discouraging speculation and promoting efficient use.
+* **Unihedge: Prediction Markets with Harberger Tax Dynamics** - Unihedge is a decentralized prediction market platform that incorporates Harberger Tax principles. Participants own prediction shares by self-assessing their value, paying taxes accordingly, and remaining open to selling at the declared price. This approach enhances liquidity and continuous price discovery in prediction markets.

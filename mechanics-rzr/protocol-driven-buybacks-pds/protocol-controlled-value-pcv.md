@@ -1,20 +1,14 @@
 # Protocol Owned Liquidity
 
-In the Rezerve Money, PoL represents the on-chain assets the protocol itself owns and controls—distinct from user-supplied liquidity. PoL underwrites every RZR token, provides perpetually available liquidity, and funds yield-generating deployments.
+Protocol Owned Liquidity (POL) is all about the protocol taking control of its own liquidity instead of renting it from outsiders. In most DeFi systems, liquidity comes from external providers who chase incentives, but the moment rewards dry up, that liquidity can disappear overnight.&#x20;
 
-By sourcing PoL from both bond proceeds and Harberger-tax inflows, RZR ensures that staking rewards (rebases) and strategic treasury actions are always backed by real capital. Robust governance over PoL allocation and risk management safeguards RZR’s peg and amplifies long-term protocol health.
+With POL, the protocol itself owns the liquidity pools, meaning it doesn’t need to beg or bribe mercenary capital to stick around.
 
-## What Is PoL in RZR?
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://rezerve.money/risk">https://rezerve.money/risk</a> The liquidity tab in the risk page gives a full breakdown of the various assets and pools that the protocol owns liquidity with</p></figcaption></figure>
 
-Protocol Owned LIquidity in RZR is the sum of all stablecoins, LP tokens, and Harberger-tax receipts held in RZR’s treasury smart contracts. Unlike Total Value Locked (TVL), which includes assets users can withdraw, PoL is reserved exclusively for protocol objectives—backing RZR at a minimum $1-per-token ratio and seeding permanent liquidity on decentralized exchanges (POL).
+## Why Should the Protocol Own Liquidity?
 
-In RZR’s dual-token design, PoL fuels both:
+In short, when the protocol owns liquidity, it owns its future — building stability, sustainability, and resilience that benefit every holder.
 
-* Rebase rewards paid to sRZR stakers, converting incoming capital into yield.
-* Surplus buy-backs of RZR, creating a deflationary sink when reserves exceed target buffers.
-
-## How PoL Accumulates in RZR
-
-1. **Bond Sales -** Users purchase RZR at a discount by depositing assets (e.g., USDC, DAI, LP tokens). These assets flow directly into PoL, strengthening the protocol’s collateral backing. (Read [PCV by Sherpies](https://medium.com/sherpa-library/in-pcv-we-trust-e07ed4c5051))
-2. **Harberger-Tax Inflows -** Every sRZR holder self-assesses their position’s value and pays a continuous tax (e.g., 5% APR) on that valuation. These recurring payments accrue in PoL as a stable revenue stream, even when bond demand wanes.
-3. **Yield Deployments -** PoL assets may be strategically deployed—such as providing liquidity to new pools or farming yield—then harvested and returned to PoL, compounding the treasury over time
+1. **Long-term commitment:** When the protocol owns its own liquidity, it no longer has to rely on “rented” capital that disappears the moment incentives dry up. Instead, it creates permanent liquidity that users can always count on. This makes the system far more trustworthy, because markets stay liquid and functional regardless of external conditions.
+2. **Revenue**: On top of stability, protocol-owned liquidity is a source of revenue. By holding LP tokens directly, the protocol earns trading fees and yield instead of paying out unsustainable liquidity mining rewards. That income flows back into the treasury, creating a feedback loop that makes the protocol stronger over time.

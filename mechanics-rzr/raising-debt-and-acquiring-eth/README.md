@@ -10,7 +10,7 @@ While the dollar remains dominant in global trade, its purchasing power has been
 
 ## Why Raising Debt in Dollars Makes Sense?
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In an environment where the dollar depreciates over time, raising debt denominated in USD is a strategic advantage. Borrowers effectively repay in “cheaper dollars” tomorrow, reducing the real cost of debt.
 
@@ -18,7 +18,7 @@ Corporations and governments alike have long exploited this, locking in low inte
 
 ## Why Acquire ETH Instead of Holding USD?
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Ethereum Deflation Hits Record High Six Months After Merge from <a href="https://ultrasound.money/">ultrasound.money</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Ethereum Deflation Hits Record High Six Months After Merge from <a href="https://ultrasound.money/">ultrasound.money</a></p></figcaption></figure>
 
 Ethereum represents the opposite side of this trade: a scarce, programmable asset with increasing utility in decentralized finance (DeFi). With a fixed issuance schedule post-merge and structural deflationary pressures from EIP-1559’s fee burns, ETH is emerging as a store of value with productive yield properties.
 
@@ -30,8 +30,8 @@ Rezerve mirrors a classic macroeconomic play: issue debt in inflation-prone doll
 
 By doing so, the protocol is positioned to benefit from two structural trends:
 
-- **Dollar Depreciation**: Over time, debt obligations shrink in real terms.
-- **ETH Appreciation:** As ETH becomes scarcer and more valuable, the asset side of the balance sheet strengthens disproportionately.
+* **Dollar Depreciation**: Over time, debt obligations shrink in real terms.
+* **ETH Appreciation:** As ETH becomes scarcer and more valuable, the asset side of the balance sheet strengthens disproportionately.
 
 Through its [leverage design](leverage-logic.md) and [convertible note](convertible-notes.md) system, Rezerve ensures that borrowed capital is backed not only by ETH but also by USD-denominated locked positions.
 
