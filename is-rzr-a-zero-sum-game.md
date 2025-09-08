@@ -38,3 +38,9 @@ On the other side, the “losing” party isn’t individual users, but rather t
 When users stake stablecoins into Rezerve, those dollars are effectively converted into ETH exposure and absorbed into the protocol. Over time, this reduces reliance on fiat, shifting value from the traditional financial system into a decentralized, community-owned reserve.
 
 See: [Raising Debt & Acquiring ETH](mechanics-rzr/raising-debt-and-acquiring-eth/).
+
+## To Summarize
+
+RZR isn’t just another zero-sum game. It’s a reallocation engine moving value away from fiat and into a trustless, decentralized reserve owned by its community.
+
+It's a massive trade against the US dollar and inflation. For Rezerve and it's holders to win, the US dollar and it's system should fail in the long run. This is in essense a zero-sum-game at a Macro scale.
