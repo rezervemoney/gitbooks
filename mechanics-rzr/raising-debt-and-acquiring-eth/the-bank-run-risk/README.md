@@ -14,6 +14,8 @@ If at any point the total USD value of ETH held as collateral drops below the to
 
 If lenders believe their funds could face losses, they may rush to withdraw simultaneously—causing a self-reinforcing liquidity crisis known as a bank run.
 
+{% embed url="https://www.youtube.com/watch?v=xa75BfmXQH4" %}
+
 ## Scenarios that Could Trigger a Bank Run
 
 1. **Short-Term ETH Volatility**: If ETH experiences a sudden price crash, the value of ETH collateral declines. Since $RZR liquidity is paired with ETH, its price tends to follow, leading lenders to doubt the protocol’s solvency.

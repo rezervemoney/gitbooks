@@ -16,7 +16,9 @@ As a result, Rezerve can ride through short-term volatility without being forced
 
 ## An Example
 
-For example, suppose the protocol deposits $100,000 of ETH as collateral and borrows $80,000 of assets against it at 80% LTV. In addition, it has $50,000 in convertible notes, which act as locked USD-denominated reserves. In a traditional leverage system, only the ETH collateral is counted, so if ETH drops 10% (to $90,000), the LTV spikes dangerously close to liquidation (88%).&#x20;
+For example, suppose the protocol deposits $100,000 of ETH as collateral and borrows $80,000 of assets against it at 80% LTV. In addition, it has $50,000 in convertible notes, which act as locked USD-denominated reserves.&#x20;
+
+In a traditional leverage system, only the ETH collateral is counted, so if ETH drops 10% (to $90,000), the LTV spikes dangerously close to liquidation (88%).&#x20;
 
 | Parameter         | Value / Behavior                                                                    |
 | ----------------- | ----------------------------------------------------------------------------------- |
