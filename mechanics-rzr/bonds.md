@@ -1,12 +1,16 @@
 ---
-description: This page goes through a bond and how it works
+description: This page goes through a discounted bond and how it works
 ---
 
-# Bonds
+# Discounted Bonds
 
-Bond sales are the protocol’s primary “asset on-ramp.” When users hand over stablecoins, BTC-RZR LP, or other whitelisted collateral, those dollars flow directly into the treasury, raising the [backing ratio β ](yield-mechanics/backing-ratio-v.md)and, ultimately, the oracle floor price.
+{% hint style="danger" %}
+Discounted Bonds have now been discountinued in favour for [Convertible Bonds.](raising-debt-and-acquiring-eth/convertible-notes.md) Convertible Bonds now remain as the primary source of liquidity growth for the protocol.&#x20;
+{% endhint %}
 
-This mechanism converts speculative demand into hard reserves without relying on secondary-market buying pressure. In doing so, bonds anchor every other monetary lever: higher β unlocks richer APR bands for stakers, fills the war-chest that defends [price hard floor](yield-mechanics/price-hard-floor.md) during draw-downs, and supplies the stable liquidity that fuels inverse-bond buy-backs.
+Bond sales are the protocol’s primary “asset on-ramp.” When users hand over stablecoins, BTC-RZR LP, or other whitelisted collateral, those dollars flow directly into the treasury, raising the [backing ratio β ](staking-rzr-srzr/yield-mechanics/backing-ratio-v.md)and, ultimately, the oracle floor price.
+
+This mechanism converts speculative demand into hard reserves without relying on secondary-market buying pressure. In doing so, bonds anchor every other monetary lever: higher β unlocks richer APR bands for stakers, fills the war-chest that defends [price hard floor](staking-rzr-srzr/yield-mechanics/price-hard-floor.md) during draw-downs, and supplies the stable liquidity that fuels inverse-bond buy-backs.
 
 ## Purchase and Vesting Flow
 

@@ -6,7 +6,6 @@
   * [The Rezerve Approach](how-to-capture-1-million-eth/the-rezerve-approach.md)
   * [Risks](how-to-capture-1-million-eth/risks.md)
 * [The Vision](the-vision.md)
-* [Community First Tokenomics](community-first-tokenomics.md)
 * [Roadmap: Path to 1 Billion FDV](roadmap-path-to-1-billion-fdv.md)
 * [Competitor Analysis](competitor-analysis/README.md)
   * [Rezerve vs MicroStrategy](competitor-analysis/rezerve-vs-microstrategy.md)
@@ -14,18 +13,28 @@
 
 ## Mechanics - RZR
 
+* [The Infinite Money Glitch](mechanics-rzr/the-infinite-money-glitch.md)
+* [Raising Debt & Acquiring ETH](mechanics-rzr/raising-debt-and-acquiring-eth/README.md)
+  * [Convertible Notes](mechanics-rzr/raising-debt-and-acquiring-eth/convertible-notes.md)
+  * [Leverage Logic](mechanics-rzr/raising-debt-and-acquiring-eth/leverage-logic.md)
+  * [The "Bank Run" Risk](mechanics-rzr/raising-debt-and-acquiring-eth/the-bank-run-risk/README.md)
+    * [Celcius Network Case Study](mechanics-rzr/raising-debt-and-acquiring-eth/the-bank-run-risk/celcius-network-case-study.md)
+    * [The FTX Case Study](mechanics-rzr/raising-debt-and-acquiring-eth/the-bank-run-risk/the-ftx-case-study.md)
+* [Protocol Driven Buybacks (PDS)](mechanics-rzr/protocol-driven-buybacks-pds/README.md)
+  * [Protocol Owned Supply](mechanics-rzr/protocol-driven-buybacks-pds/protocol-owned-supply.md)
+  * [Protocol Owned Liquidity](mechanics-rzr/protocol-driven-buybacks-pds/protocol-controlled-value-pcv.md)
 * [Revenue Sources](mechanics-rzr/revenue-sources.md)
 * [Staking RZR - sRZR](mechanics-rzr/staking-rzr-srzr/README.md)
   * [What is the Harberger Tax?](mechanics-rzr/staking-rzr-srzr/what-is-the-harberger-tax.md)
   * [Staking Ratio - ρ](mechanics-rzr/staking-rzr-srzr/staking-ratio-r.md)
   * [Liquid Staking - lstRZR](mechanics-rzr/staking-rzr-srzr/liquid-staking-lstrzr.md)
-* [Bonds](mechanics-rzr/bonds.md)
-* [Yield Mechanics](mechanics-rzr/yield-mechanics/README.md)
-  * [Protocol Controlled Value (PCV)](mechanics-rzr/yield-mechanics/protocol-controlled-value-pcv.md)
-  * [Backing Ratio - β](mechanics-rzr/yield-mechanics/backing-ratio-v.md)
-  * [Price Hard Floor](mechanics-rzr/yield-mechanics/price-hard-floor.md)
-  * [Capped Inflation Curve](mechanics-rzr/yield-mechanics/capped-inflation-curve.md)
+  * [Yield Mechanics](mechanics-rzr/staking-rzr-srzr/yield-mechanics/README.md)
+    * [Backing Ratio - β](mechanics-rzr/staking-rzr-srzr/yield-mechanics/backing-ratio-v.md)
+    * [Price Hard Floor](mechanics-rzr/staking-rzr-srzr/yield-mechanics/price-hard-floor.md)
+    * [Capped Inflation Curve](mechanics-rzr/staking-rzr-srzr/yield-mechanics/capped-inflation-curve.md)
 * [Game Theory Mechanics](mechanics-rzr/game-theory-mechanics.md)
+* [Community First Tokenomics](mechanics-rzr/community-first-tokenomics.md)
+* [Discounted Bonds](mechanics-rzr/bonds.md)
 
 ## Strategies
 

@@ -13,27 +13,28 @@ This dual strategy mirrors successful accumulation models from traditional finan
 
 Rezerve then uses this newly acquired ETH to provide liquidity to the RZR token, allowing investors to get enough liquidity to enter/exit from the ecosystem further increasing the loop.
 
+{% hint style="info" %}
+To dive deeper into the Rezerve feedback loop, see [Infinite Money Glitch](../mechanics-rzr/the-infinite-money-glitch.md).
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-### 1. On-Chain Bonds
+### 1. Convertible Bonds
 
-Rezerve issues on-chain bonds—tokenized instruments that vest in 5 days and are sold at a discount to the current market value of RZR.
+Rezerve issues on-chain convertible bonds—tokenized instruments that allows the protocol to raise debt and give lenders the option to convert their debt into RZR tokens at a later price.
 
-Investors purchase bonds with any liquid asset they have. In return, they receive RZR at a discounted rate. The RZR tokens are locked for a 5-day vesting period before becoming transferable. But can be instantly staked.
-
-Rezerve does bond sales on it's own interface over at [Rezerve.money](https://rezerve.money/).
+Investors purchase bonds with any liquid asset they have. In return, they receive RZR at a discounted rate. Rezerve does bond sales on it's own interface over at [Rezerve.money](https://rezerve.money/).
 
 #### **Benefits:**
 
 * **ETH Accumulation:** Every bond purchase increases Rezerve’s ETH treasury.
-* **Price Support:** Discounted RZR incentivizes participation without immediate sell pressure.
-* **Predictable Liquidity**: Short vesting ensures timely recycling of capital for growth.
+* **Price Support:** Lenders are given the option to convert to RZR at a higher price (reducing sell pressure to the protocol)
 
 ### 2. Lending Protocols
 
-In addition to bonds, Rezerve uses decentralized lending markets (such as Aave or Compound equivalents on supported chains) to borrow capital against its assets.
+In addition to bonds, Rezerve uses decentralized lending markets (such as Aave or Euler equivalents on supported chains) to borrow capital against its assets.
 
-RZR is first deposited into lending protocols as collateral. The Rezerve protocol then borrows stablecoins or other liquid assets at low interest rates. The Borrowed capital is used to purchase more ETH, increasing the reserve size.
+RZR is first deposited into lending protocols as collateral. The Rezerve protocol then borrows stablecoins or other liquid assets at low interest rates. The borrowed capital is used to purchase more ETH, increasing the reserve size.
 
 To enable this to happen, Rezerve needs to work with lending protocols that accept RZR as collateral and has lenders to lend USDC to it. Which is why the Rezerve protocol actively curates vaults on [Morpho](https://morpho.org/) and [Euler](https://euler.finance/).
 

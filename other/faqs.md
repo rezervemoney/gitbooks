@@ -1,5 +1,6 @@
 ---
 description: Some of the most commonly asked questions
+icon: comment-question
 ---
 
 # FAQs

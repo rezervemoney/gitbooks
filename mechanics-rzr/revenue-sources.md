@@ -6,7 +6,7 @@ description: >-
 
 # Revenue Sources
 
-Revenue is a crucial component for any protocol. In Rezerve, revenue is directly translated to newly minted RZR towards stakers and a [rising floor price for RZR](yield-mechanics/price-hard-floor.md).
+Revenue is a crucial component for any protocol. In Rezerve, revenue is directly translated to newly minted RZR towards stakers and a [rising floor price for RZR](staking-rzr-srzr/yield-mechanics/price-hard-floor.md).
 
 To this note, there are five independent sources of revenue that the protocol genreates fees from.
 
@@ -50,7 +50,7 @@ If inflows beat the previous epoch’s inflation cost, the oracle floor ticks on
 
 ## Performance Fees
 
-Unlike many protocols, Rezerve has [no founder-minted tokens](../community-first-tokenomics.md#bootstrapped-and-founder-fair). Instead, the core team is compensated through a performance-based model tied directly to protocol revenue and success:
+Unlike many protocols, Rezerve has [no founder-minted tokens](community-first-tokenomics.md#bootstrapped-and-founder-fair). Instead, the core team is compensated through a performance-based model tied directly to protocol revenue and success:
 
 The performance fee is set as 10% of all bond sales and staking emissions. Bond sales grow only if the protocol attracts new users and staking emissions become valuable only if the protocol backing grows. This fee can be waived off at any time either by the holders through a governance proposal or by the team themselves.
 

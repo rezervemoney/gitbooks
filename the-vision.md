@@ -35,7 +35,7 @@ That radical neutrality means there are zero unlock cliffs or discounted bags wa
 
 By removing privileged entry points and letting supply start at block zero in the open, Rezerve aligns incentives from day one and proves that a reserve currency can be built for the many, not the few.
 
-See [community first tokenomics](community-first-tokenomics.md).
+See [community first tokenomics](mechanics-rzr/community-first-tokenomics.md).
 
 ## Bear & Bull market aligned
 
