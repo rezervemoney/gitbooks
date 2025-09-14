@@ -28,10 +28,10 @@ These are the various address for the RZR and lstRZR token across various chains
 
 | Chain    | Address                                                                                                              |
 | -------- | -------------------------------------------------------------------------------------------------------------------- |
-| Sonic    | [0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5](https://sonicscan.org/token/0x67a298e5b65db2b4616e05c3b455e017275f53cb) |
-| Ethereum | [0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5](https://etherscan.io/token/0xb33f4b9c6f0624edeae8881c97381837760d52cb)  |
-| Base     | [0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5](https://basescan.org/token/0xb33f4b9c6f0624edeae8881c97381837760d52cb)  |
-| Arbitrum | [0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5](https://arbiscan.io/token/0xb33f4b9c6f0624edeae8881c97381837760d52cb)   |
+| Sonic    | [0x67a298e5b65db2b4616e05c3b455e017275f53cb](https://sonicscan.org/token/0x67a298e5b65db2b4616e05c3b455e017275f53cb) |
+| Ethereum | [0xb33f4b9c6f0624edeae8881c97381837760d52cb](https://etherscan.io/token/0xb33f4b9c6f0624edeae8881c97381837760d52cb)  |
+| Base     | [0xb33f4b9c6f0624edeae8881c97381837760d52cb](https://basescan.org/token/0xb33f4b9c6f0624edeae8881c97381837760d52cb)  |
+| Arbitrum | [0xb33f4b9c6f0624edeae8881c97381837760d52cb](https://arbiscan.io/token/0xb33f4b9c6f0624edeae8881c97381837760d52cb)   |
 
 {% endtab %}
 
