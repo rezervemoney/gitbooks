@@ -15,22 +15,31 @@ These are the various address for the RZR and lstRZR token across various chains
 
 | Chain       | Address                                                                                                                |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Sonic       | [0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5](https://sonicsan.org/token/0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5)    |
-| Etheruem    | [0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5](https://etherscan.io/token/0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5)    |
+| Sonic       | [0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5](https://sonicscan.org/token/0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5)   |
+| Ethereum    | [0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5](https://etherscan.io/token/0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5)    |
 | Base        | [0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5](https://basescan.org/token/0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5)    |
 | Arbitrum    | [0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5](https://arbiscan.io/token/0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5)     |
-| HyperEVM    | [0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5](https://hyperevmscan.io/token/0xd80bCABefca1334Ec0C2eE110cB9213D72DD3622) |
-| HyperLiquid | [0xb1Fd2da8914Dc200BC4effD71713594cAA88a2F8](https://etherscan.io/token/0xb1Fd2da8914Dc200BC4effD71713594cAA88a2F8)    |
-
-<table><thead><tr><th width="133.91015625">Network</th><th width="99.3828125">Token</th><th>Address</th></tr></thead><tbody><tr><td>Ethereum</td><td>RZR</td><td>0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5</td></tr><tr><td>Base</td><td>RZR</td><td>0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5</td></tr><tr><td>Arbitrum</td><td>RZR</td><td>0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5</td></tr><tr><td>Sonic</td><td>RZR</td><td>0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5</td></tr></tbody></table>
+| HyperEVM    | [0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5](https://hyperevmscan.io/token/0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5) |
+| HyperLiquid | [0x6492582d90449b9f8913fcbf85104cce](https://app.hyperliquid.xyz/explorer/token/0x6492582d90449b9f8913fcbf85104cce)    |
 
 {% endtab %}
 
 {% tab title="lstRZR" %}
-Aug-11-2025
+
+| Chain    | Address                                                                                                              |
+| -------- | -------------------------------------------------------------------------------------------------------------------- |
+| Sonic    | [0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5](https://sonicscan.org/token/0x67a298e5b65db2b4616e05c3b455e017275f53cb) |
+| Ethereum | [0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5](https://etherscan.io/token/0xb33f4b9c6f0624edeae8881c97381837760d52cb)  |
+| Base     | [0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5](https://basescan.org/token/0xb33f4b9c6f0624edeae8881c97381837760d52cb)  |
+| Arbitrum | [0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5](https://arbiscan.io/token/0xb33f4b9c6f0624edeae8881c97381837760d52cb)   |
+
 {% endtab %}
 
 {% tab title="USD69" %}
+
+| Chain    | Address                                                                                                             |
+| -------- | ------------------------------------------------------------------------------------------------------------------- |
+| Ethereum | [0x6900325739533b9a21f739248e1271ed3f959ae8](https://etherscan.io/token/0x6900325739533b9a21f739248e1271ed3f959ae8) |
 
 {% endtab %}
 {% endtabs %}
