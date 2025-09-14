@@ -39,7 +39,7 @@ These are the various address for the RZR and lstRZR token across various chains
 
 | Chain    | Address                                                                                                             |
 | -------- | ------------------------------------------------------------------------------------------------------------------- |
-| Ethereum | [0x6900325739533b9a21f739248e1271ed3f959ae8](https://etherscan.io/token/0x6900325739533b9a21f739248e1271ed3f959ae8) |
+| Ethereum | [0x6969c3ca5142b9eca6141de577c50454326265b1](https://etherscan.io/token/0x6969c3ca5142b9eca6141de577c50454326265b1) |
 
 {% endtab %}
 {% endtabs %}
