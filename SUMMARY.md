@@ -36,11 +36,11 @@
 * [Community First Tokenomics](mechanics-rzr/community-first-tokenomics.md)
 * [Discounted Bonds](mechanics-rzr/bonds.md)
 
-## Mechanics - USD69
+## Mechanics - USDr
 
-* [Overview](mechanics-usd69/overview.md)
-* [Minting & Redeeming](mechanics-usd69/minting-and-redeeming.md)
-* [Bonds](mechanics-usd69/bonds.md)
+* [Overview](mechanics-usdr/overview.md)
+* [Minting & Redeeming](mechanics-usdr/minting-and-redeeming.md)
+* [Bonds](mechanics-usdr/bonds.md)
 
 ## Strategies
 
