@@ -1,6 +1,6 @@
 # Protocol Owned Liquidity
 
-Protocol Owned Liquidity (POL) is all about the protocol taking control of its own liquidity instead of renting it from outsiders. In most DeFi systems, liquidity comes from external providers who chase incentives, but the moment rewards dry up, that liquidity can disappear overnight.&#x20;
+Protocol Owned Liquidity (POL) is all about the protocol taking control of its own liquidity instead of renting it from outsiders. In most DeFi systems, liquidity comes from external providers who chase incentives, but the moment rewards dry up, that liquidity can disappear overnight.
 
 With POL, the protocol itself owns the liquidity pools, meaning it doesn’t need to beg or bribe mercenary capital to stick around.
 

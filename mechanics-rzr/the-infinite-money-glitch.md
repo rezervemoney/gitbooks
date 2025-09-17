@@ -18,9 +18,9 @@ The bought out ETH is then added into RZR liquidity strengthening price and deep
 
 As ETH appreciates in value, the price of RZR also rises. This appreciation gives bond-holders the option to convert their bonds into RZR. When a conversion takes place, the stablecoins that were originally deposited by the user are transferred to the protocol. The protocol then uses these stablecoins to reduce or write off its outstanding debt.
 
-This mechanism creates a powerful cycle: the protocol maintains and grows its ETH exposure, users can exit the system seamlessly through conversion, and any debt on the protocol’s balance sheet gets cleared in the process.&#x20;
+This mechanism creates a powerful cycle: the protocol maintains and grows its ETH exposure, users can exit the system seamlessly through conversion, and any debt on the protocol’s balance sheet gets cleared in the process.
 
-In short, it’s a win-win structure that strengthens the protocol while rewarding participants.&#x20;
+In short, it’s a win-win structure that strengthens the protocol while rewarding participants.
 
 ## Why It’s Called the “Infinite Money Glitch”?
 

@@ -6,7 +6,7 @@ description: >-
 
 # Overview
 
-USDR is a decentralized stablecoin system designed to support a predictable and sustainable borrowing strategy for ETH.&#x20;
+USDR is a decentralized stablecoin system designed to support a predictable and sustainable borrowing strategy for ETH.
 
 It combines a collateralized stablecoin treasury with tokenized bond vaults, allowing the protocol to steadily accumulate ETH while rewarding users who participate.
 

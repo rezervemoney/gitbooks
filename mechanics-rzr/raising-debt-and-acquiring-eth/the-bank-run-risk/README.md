@@ -26,8 +26,8 @@ If lenders believe their funds could face losses, they may rush to withdraw simu
 
 The most infamous bank runs that have happened in the crypto-sphere have been the following.
 
-* **FTX Collapse (2022):** Once one of the largest crypto exchanges, FTX imploded after revelations of misused customer deposits and overexposure to illiquid assets like FTT. When confidence evaporated, mass withdrawals overwhelmed the exchange’s reserves, triggering insolvency ([FTX timeline, CoinDesk](https://www.coindesk.com/learn/ftx-collapse-a-timeline-of-the-exchanges-fall/?)). Also see the [FTX case study](the-ftx-case-study.md).
-* **Celsius Network Collapse (2022):** Celsius promised outsized yields on deposits but was overexposed to risky loans and leveraged strategies. When markets turned bearish, users rushed to withdraw, only to find withdrawals frozen. The imbalance between liquid liabilities and illiquid assets led to bankruptcy ([Celsius case summary, Reuters](https://www.reuters.com/technology/crypto-lender-celsius-files-bankruptcy-protection-us-2022-07-13/?)). Also see the [Celsius Network case study](celcius-network-case-study.md).
+- **FTX Collapse (2022):** Once one of the largest crypto exchanges, FTX imploded after revelations of misused customer deposits and overexposure to illiquid assets like FTT. When confidence evaporated, mass withdrawals overwhelmed the exchange’s reserves, triggering insolvency ([FTX timeline, CoinDesk](https://www.coindesk.com/learn/ftx-collapse-a-timeline-of-the-exchanges-fall/?)). Also see the [FTX case study](the-ftx-case-study.md).
+- **Celsius Network Collapse (2022):** Celsius promised outsized yields on deposits but was overexposed to risky loans and leveraged strategies. When markets turned bearish, users rushed to withdraw, only to find withdrawals frozen. The imbalance between liquid liabilities and illiquid assets led to bankruptcy ([Celsius case summary, Reuters](https://www.reuters.com/technology/crypto-lender-celsius-files-bankruptcy-protection-us-2022-07-13/?)). Also see the [Celsius Network case study](celcius-network-case-study.md).
 
 These examples highlight how fragile systems can become when liquidity mismatches meet collapsing confidence.
 
@@ -45,7 +45,7 @@ See [Convertible Notes](../convertible-notes.md) for more information.
 
 ### 2/ Continuous and Open Source Risk Simulations
 
-The protocol continuous risk simulations taking into account worst-case scenarios and doomsday mechanics.&#x20;
+The protocol continuous risk simulations taking into account worst-case scenarios and doomsday mechanics.
 
 Based on the risk simulations the protocol effectively makes decisions on how much leverage it can take over. The risk simulation evaluate dooms day scenarios so that the protocol can make the least riskiest decision.
 

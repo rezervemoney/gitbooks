@@ -1,12 +1,12 @@
 # Bonds
 
-USDR's Bond system is an innovative ERC4626-compliant tokenized vault that allows users to stake USDR stablecoins and earn rewards over time, similar to traditional US Treasury bonds.&#x20;
+USDR's Bond system is an innovative ERC4626-compliant tokenized vault that allows users to stake USDR stablecoins and earn rewards over time, similar to traditional US Treasury bonds.
 
 Built on the Ethereum-based smart contracts, it provides a decentralized alternative to government-issued debt securities while maintaining the security and yield characteristics that make Treasury bonds attractive to investors.
 
 ## How Does It Work?
 
-Users can deposit USDR tokens into the USDRBond vault, which automatically converts their deposits into bond shares.&#x20;
+Users can deposit USDR tokens into the USDRBond vault, which automatically converts their deposits into bond shares.
 
 There are two pre-defined bonds that users can stake their USDR tokens into:
 
@@ -17,9 +17,9 @@ The longer bonds their users chooser to staker their assets into, the more rewar
 
 ## Why Bonds?
 
-USDR Bonds exist to give users a simple, stable way to earn rewards while helping the protocol grow its reserves.&#x20;
+USDR Bonds exist to give users a simple, stable way to earn rewards while helping the protocol grow its reserves.
 
-When users lock their USDR tokens into a bond, they are essentially providing the protocol with stable, predictable liquidity for a set period of time.&#x20;
+When users lock their USDR tokens into a bond, they are essentially providing the protocol with stable, predictable liquidity for a set period of time.
 
 This locked capital allows the protocol to safely borrow USDC from lending markets and use it to purchase ETH. This mechanism serves two purposes:
 
