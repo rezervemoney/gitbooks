@@ -5,7 +5,7 @@ description: How the protocol uses convertible notes to raise debt to buy ETH
 # Convertible Notes
 
 {% hint style="success" %}
-[Convertible bonds](https://en.wikipedia.org/wiki/Convertible_bond?) is an improvement over the previously implemented [Discounted Bonds](../bonds.md) and is now the primary source of new liquidity for the protocol.
+[Convertible bonds](https://en.wikipedia.org/wiki/Convertible_bond?) is an improvement over the previously implemented [Discounted Bonds](../../archived/bonds.md) and is now the primary source of new liquidity for the protocol.
 {% endhint %}
 
 Rezerve’s convertible bonds are structured financial instruments that combine the stability of debt with the potential upside of equity. Investors purchasing these bonds are essentially lending to Rezerve, receiving periodic coupon payments like traditional bonds. However, what distinguishes them is the embedded option: holders can convert their bonds into Rezerve’s native token RZR under predefined conditions.
@@ -29,8 +29,8 @@ For mature corporations, convertible notes provide a more flexible financing str
 
 See:
 
-- [Convertible bond - Wikipedia](https://en.wikipedia.org/wiki/Convertible_bond?)
-- [Convertible note by Thomson Reuters](https://legal.thomsonreuters.com/blog/convertible-note-legal-glossary/)
+* [Convertible bond - Wikipedia](https://en.wikipedia.org/wiki/Convertible_bond?)
+* [Convertible note by Thomson Reuters](https://legal.thomsonreuters.com/blog/convertible-note-legal-glossary/)
 
 ### MicroStrategy’s Use of Convertible Notes
 
@@ -44,8 +44,8 @@ What truly distinguished this issuance was the use of proceeds: rather than rein
 
 See:
 
-- [How MicroStrategy leverages debt to accumulate Bitcoin (BTC)](https://cointelegraph.com/learn/articles/how-microstrategy-leverages-debt-to-accumulate-bitcoin?)
-- [MicroStrategy proposes $500 million convertible note offering to acquire more bitcoin](https://www.theblock.co/post/299943/microstrategy-proposes-500-million-convertible-note-offering-to-acquire-more-bitcoin?)
+* [How MicroStrategy leverages debt to accumulate Bitcoin (BTC)](https://cointelegraph.com/learn/articles/how-microstrategy-leverages-debt-to-accumulate-bitcoin?)
+* [MicroStrategy proposes $500 million convertible note offering to acquire more bitcoin](https://www.theblock.co/post/299943/microstrategy-proposes-500-million-convertible-note-offering-to-acquire-more-bitcoin?)
 
 ## The Rezerve Method to Convertible Bonds
 
@@ -59,9 +59,9 @@ Visit [https://rezerve.money/lend](https://rezerve.money/lend) to see more infor
 
 When users deposit stablecoins into Rezerve, they gain access to three distinct tranches of yield.
 
-- A fixed yield in stablecoins
-- A dynamic yield from lending markets paid in stablecoins.
-- A dynamic incentive yield paid in RZR
+* A fixed yield in stablecoins
+* A dynamic yield from lending markets paid in stablecoins.
+* A dynamic incentive yield paid in RZR
 
 The longer users choose to lock their stablecoins, the more favourable the yield becomes and the lower the conversion price becomes.
 

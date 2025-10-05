@@ -34,7 +34,6 @@
     * [Capped Inflation Curve](mechanics-rzr/staking-rzr-srzr/yield-mechanics/capped-inflation-curve.md)
 * [Game Theory Mechanics](mechanics-rzr/game-theory-mechanics.md)
 * [Community First Tokenomics](mechanics-rzr/community-first-tokenomics.md)
-* [Discounted Bonds](mechanics-rzr/bonds.md)
 
 ## Mechanics - USDr
 
@@ -54,7 +53,16 @@
 * [Deployed Addresses](security/deployed-addresses.md)
 * [Timelocked Multisig Admin](security/timelocked-multisig-admin.md)
 
+## Governance
+
+* [RZR-2: LST rewards, 6-month veStaking & RZR deflation](governance/rzr-2-lst-rewards-6-month-vestaking-and-rzr-deflation.md)
+* [RZR-1: Update in the staking dynamics](governance/rzr-1-update-in-the-staking-dynamics.md)
+
 ## Other
 
 * [FAQs](other/faqs.md)
 * [Glossary](other/glossary.md)
+
+## Archived
+
+* [Discounted Bonds](archived/bonds.md)
