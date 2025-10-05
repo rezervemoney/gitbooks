@@ -55,7 +55,7 @@
 
 ## Governance
 
-* [RZR-2: LST rewards, 6-month veStaking & RZR deflation](governance/rzr-2-lst-rewards-6-month-vestaking-and-rzr-deflation.md)
+* [RZR-2: ETH rewards, 6-month veStaking & RZR deflation](governance/rzr-2-eth-rewards-6-month-vestaking-and-rzr-deflation.md)
 * [RZR-1: Update in the staking dynamics](governance/rzr-1-update-in-the-staking-dynamics.md)
 
 ## Other
