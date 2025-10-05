@@ -8,13 +8,13 @@ description: >-
 
 This is the first governance post that addresses a very crucial part about the protocol’s growth. Voting for this proposal will be made live on SnapShot and users can vote with your lstRZR or sRZR balance.
 
-### TL;DR
+## TL;DR
 
 * Replace the upfront Harberger tax with a continuous (streamed) tax plus a small prepaid buffer.
 * Introduce clear economic incentives to buy mis-priced stakes.
 * Migrate fairly and convert already-paid upfront taxes into tax credits so early users are treated fairly.
 
-### Pain Points Identified
+## Pain Points Identified
 
 1. **Upfront tax kills UX & composability.** Integrations must swallow a large one-time cost.
 2. **No strong reason to buy stakes** because RZR is liquid; buyers prefer the market unless a stake is underpriced by >5%.
@@ -22,7 +22,7 @@ This is the first governance post that addresses a very crucial part about the p
 
 With this in mind we propose the following changes.
 
-### Changes Proposed
+## Changes Proposed
 
 1. Convert taxes from being paid upfront to instead be streamed over time.
 2. Introduce a dynamic deposit fee for staking mechanism that changes based on demand.
