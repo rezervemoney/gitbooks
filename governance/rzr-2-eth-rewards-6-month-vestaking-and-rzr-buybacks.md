@@ -5,7 +5,7 @@ description: >-
   ETH/SOL/BNB rewards to RZR stakers.
 ---
 
-# RZR-2: ETH rewards, 6-month veStaking & RZR deflation
+# RZR-2: ETH rewards, 6-month veStaking & RZR buybacks
 
 After taking feedback from many different liquid funds, exchanges and economists; We are excited to share RZR-2, a proposal aimed to make RZR way more scarce in the short/long term, drive more momentum to the price and drive more value to stakers.
 
@@ -23,7 +23,7 @@ RZR-1 improved staking UX and tax mechanics, but the protocol still relies heavi
 
 As the protocol matures and begins accumulating network tokens (ETH, SOL, BNB, HYPE, etc.), we can evolve to a much better and safer yield model. And this is the "proof of stake" rewards from staking these network tokens.&#x20;
 
-If the amount of ETH/SOL etc.. that the protocol holds, is worth a lot more than the value of the staked RZR, then the real yield gets magnified. We are aiming to give out 30% real yield (ETH/SOL/BNB etc..) to RZR stakers.&#x20;
+If the amount of ETH/SOL etc.. that the protocol holds, is worth a lot more than the value of the staked RZR, then the real yield gets magnified. We are aiming to give out 10-30% real yield (ETH/SOL/BNB etc..) to RZR stakers.&#x20;
 
 With the below proposal, our goal is to make RZR stronger in terms of price, still give out high yields (so that we can  get eyeballs into the protocol).
 
