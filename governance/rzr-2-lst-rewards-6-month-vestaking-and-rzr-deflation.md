@@ -14,9 +14,8 @@ We also propose dropping the harberger tax mechanics thereby simplifying the ent
 ## TL;DR
 
 * Move from inflation-based rebasing yield to proof of stake yield backed by staked ETH, SOL, BNB, HYPE, and other network assets.
+* Using yield from staking ETH/SOL/BNB to buyback RZR.
 * Replace fixed 3-day staking with flexible staking durations: minimum 1 day, maximum 6 months
-* Gradually phase out RZR inflation, replacing it with ETH yield and airdrop rewards.
-* Strengthen long-term protocol health and reward loyalty with higher yields for longer stakes.
 
 ## Motivation
 
@@ -32,19 +31,19 @@ With the below proposal, our goal is to make RZR stronger in terms of price, sti
 
 With the above in mind, we propose the following changes keeping in mind existing and future stakers.
 
-### 1. Transition from Inflationary to Real Yield
+### 1. Transition from Inflationary to ETH Yield
 
 The protocol treasury holds 2mn$ of ETH and will continue to accumulate SOL, HYPE, BNB and other network tokens that generate yield (e.g., ETH via staking, SOL via restaking, or BNB via validators).
 
-Further more RZR price since the time of launch has increased by over XXX%. Giving holders an average XXX% monthly RoR or over an average of XXX% APR.
+Further more RZR price since the time of launch has increased by over 50-100% month on month. Giving holders an average an average of 300%+ APR since inception.
 
 Going forward:
 
 * Stakers will earn a blend of real ETH-based yield and reduced RZR emission yield.
 * Over time, the RZR component will decrease linearly until yield is fully sourced from real assets.
-* The protocol may also distribute airdrop rewards from these staked positions directly to stakers.
+* The protocol will also distribute airdrop rewards from these staked positions directly to stakers.
 
-> **Example:** If the treasury holds more ETH (by USD value) than the total value of RZR staked, staking RZR becomes naturally deflationary — yield is backed by real assets rather than token inflation.
+> **Example:** If the treasury holds more ETH (by USD value) than the total value of RZR staked, staking RZR becomes naturally deflationary, yield is backed by real assets rather than token inflation.
 
 ### 2. Introduce Flexible Staking Durations
 
@@ -54,13 +53,16 @@ We enhance the existing sRZR model to introduce variable lock durations.&#x20;
 * Unstaking before maturity is allowed but incurs a penalty that’s redistributed to remaining stakers.
 * Longer locks amplify real yield share, encouraging loyalty without overcommitting users.
 
-<table><thead><tr><th width="135.4921875">Duration</th><th>Description</th><th>Reward Multiplier</th></tr></thead><tbody><tr><td>3 days</td><td>Minimum stake</td><td>Base yield</td></tr><tr><td>1 month</td><td>Short-term</td><td>Base yield x 2</td></tr><tr><td>3 months</td><td>Medium-term</td><td>Base yield x 4</td></tr><tr><td>6 months</td><td>Long-term</td><td>Base yield x 8</td></tr></tbody></table>
+<table><thead><tr><th width="135.4921875">Duration</th><th>Description</th><th>Reward Multiplier</th></tr></thead><tbody><tr><td>1 day</td><td>Minimum stake</td><td>Base yield</td></tr><tr><td>1 month</td><td>Short-term</td><td>Base yield x 2</td></tr><tr><td>3 months</td><td>Medium-term</td><td>Base yield x 4</td></tr><tr><td>6 months</td><td>Long-term</td><td>Base yield x 8</td></tr></tbody></table>
 
 ## Expected Outcome
 
-The transition outlined in RZR-2 is designed not just to make staking sustainable, but to realign RZR’s incentives with long-term value creation.
+The transition outlined in RZR-2 is designed to not just make staking sustainable, but to realign RZR’s incentives with long-term value creation.
 
-Through this proposal, we aim to either deliver a consistent \~30% APR in ETH/SOL/HYPE or drive RZR price appreciation strong enough to offset the reduced token yield — achieving real, lasting value for stakers.
+Through this proposal, we aim to either
+
+* Deliver a consistent \~10-30% APR in ETH/SOL/HYPE or&#x20;
+* Drive RZR price appreciation (strong enough to offset the previous rebasing yield)
 
 ### Deflationary Token Pressure & Price Improvement
 
