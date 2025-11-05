@@ -6,9 +6,9 @@ description: >-
 
 # Community First Tokenomics
 
-We launched Rezerve as a pure fair-mint because every shortcut that typical projects take—seed-round vesting, bonus founder allocations, headline-grabbing airdrops, stealth snipes—creates structural sell pressure that strangles long-term upside.
+We launched Rezerve as a pure fair-mint because every shortcut that typical projects take seed-round vesting, bonus founder allocations, headline-grabbing airdrops, stealth snipes that creates structural sell pressure that strangles long-term upside.
 
-Rezerve’s launch mechanics embody the original crypto ethos of open, permissionless ownership—and that credibility is exactly what gives it room to grow into something genuinely big.
+Rezerve’s launch mechanics embody the original crypto ethos of open, permissionless ownership and that credibility is exactly what gives it room to grow into something genuinely big.
 
 In this document we detail all the design decisions we took when trying to launch Rezerve.
 
@@ -41,11 +41,11 @@ An investigate thread on Moonrock captial by zachxbt on how they extracted milli
 
 Hyperliquid offers a living proof-point that you don’t have to sell a slice of the cap table to build something huge. [Its founders bank-rolled the entire L1](https://www.coinlive.com/news/hyperliquid-the-path-to-financial-aggregation) and order-book DEX out of their own pockets after the 2022 FTX implosion, “refusing to accept any outside funding from venture capitalists” so that ownership could flow straight to users ￼. In less than two years that self-funded stance has snowballed into a top-three on-chain venue.
 
-Analysts credit this “VC-free hyper-growth” model—bootstrapped capital, real fee revenue, and broad community ownership—as a template [for sustainable scale](https://getblock.io/blog/cn/what-is-hyperliquid-full-guide/).
+Analysts credit this “VC-free hyper-growth” model—bootstrapped capital, real fee revenue, and broad community ownership as a template [for sustainable scale](https://getblock.io/blog/cn/what-is-hyperliquid-full-guide/).
 
 **Rezerve follows the very same playbook**: founder-funded, community-driven, and structurally immune to the dump dynamics that plague VC-backed launches.
 
-## No Airdrops — Real Demand Only
+## No Airdrops. Real Demand Only
 
 Free-token giveaways create short-lived buzz but long-lived sell pressure:
 
@@ -68,4 +68,4 @@ On-chain forensics show many meme launches are cornered from block zero:
 
 ## Conclusion
 
-By eliminating hidden unlocks, freebie dumps and insider allocations, Rezerve is intentionally _boring_ — in the best possible sense. Every token in circulation required real skin-in-the-game capital, aligning founders and community from day one.
+By eliminating hidden unlocks, freebie dumps and insider allocations, Rezerve is intentionally _boring_ in the best possible sense. Every token in circulation required real skin-in-the-game capital, aligning founders and community from day one.

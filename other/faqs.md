@@ -19,6 +19,6 @@ Each RZR token is backed by real assets in the treasury—USDC, ETH, LP tokens, 
 
 ## What happens if RZR trades below the floor?
 
-If RZR ever trades below 97% of its floor price, the protocol uses treasury funds to buy back and burn tokens until the price recovers. This gives RZR holders a tangible, on-chain redemption path and reinforces the integrity of the floor.
+If RZR ever trades below 97% of its floor price, the protocol uses treasury funds to buy back and burn tokens until the price recovers. This gives RZR holders a tangible, onchain redemption path and reinforces the integrity of the floor.
 
 ***

@@ -12,11 +12,11 @@ We integrate DIA at three distinct tiers:
 
 1. **Treasury Mark-to-Market:** Each epoch the Rebase Controller calls DIA's price feeds for USDC, BTC, and tokenised T-Bills; it also requests a _virtual price_ feed for Curve and Balancer LPs. The sum sets the stable-asset numerator in the backing-ratio β.
 2. **LP Token Accounting:** For volatile-stable pairs (e.g., RZR/USDC Uni-v3 0.05 %), DIA publishes a bound-checked TWAP with an adaptive window: 30 minutes by default, expanding to 2 h if intra-block variance is high. This mitigates the sandwich vector that required custom keepers in Olympus.
-3. **RZR Reference Price:** A dedicated RZR/USD feed—sourced from at least four exchange venues and re-weighted every block with liquidity score—sets the reference used by external money markets like Aave forks. Lenders can therefore calculate LTV against a floor that only ratchets upward _and_ a spot oracle.
+3. **RZR Reference Price:** A dedicated RZR/USD feed sourced from at least four exchange venues and re-weighted every block with liquidity score sets the reference used by external money markets like Aave forks. Lenders can therefore calculate LTV against a floor that only ratchets upward _and_ a spot oracle.
 
 ## Why Oracles Matter
 
-Every moving part in a reserve-currency protocol—how many tokens to mint, how high to set collateral ratios, how much a bond should cost—depends on unbiased, real-time asset values. An oracle is the bridge between on-chain logic and those off-chain truths.
+Every moving part in a reserve-currency protocol: how many tokens to mint, how high to set collateral ratios, how much a bond should cost depends on unbiased, real-time asset values. An oracle is the bridge between onchain logic and those off-chain truths.
 
 If that bridge is slow, fragile, or manipulable, the protocol can mint unbacked tokens, mis-price bonds, or even hand out free liquidations. A robust oracle mesh is therefore as critical to solvency as the treasury itself.
 

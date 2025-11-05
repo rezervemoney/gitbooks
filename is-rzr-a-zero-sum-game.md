@@ -21,7 +21,7 @@ Crypto has always been a battlefield of zero-sum games. For every trader who win
 
 The money doesn’t magically appear; rather it shifts from one pocket to another. That’s the essence of a zero-sum system. Someone wins, someone loses, and the cycle repeats.
 
-See: [https://www.reddit.com/r/CryptoCurrency/comments/1aljc83/memecoins_are_a_pvp_arena/](https://www.reddit.com/r/CryptoCurrency/comments/1aljc83/memecoins_are_a_pvp_arena/)
+See: [https://www.reddit.com/r/CryptoCurrency/comments/1aljc83/memecoins\_are\_a\_pvp\_arena/](https://www.reddit.com/r/CryptoCurrency/comments/1aljc83/memecoins_are_a_pvp_arena/)
 
 ## How is Rezerve Different?
 
@@ -31,13 +31,13 @@ In the Rezerve system, instead of users fighting each other for scraps, the prot
 
 Through Rezerve’s core mechanics of [raising debt](mechanics-rzr/raising-debt-and-acquiring-eth/), executing [protocol-driven buybacks](mechanics-rzr/protocol-driven-buybacks-pds/), and [redistributing value to stakers](mechanics-rzr/staking-rzr-srzr/); the system continually channels gains toward RZR stakers and long-term holders.
 
-Every cycle strengthens protocol-owned supply and liquidity, which increases control and resilience. Those who believe in the mission and commit capital are directly rewarded as the protocol captures more ETH and grows stronger.
+Every cycle strengthens protocol-owned supply and liquidity, which increases control and resilience. Those who believe in the mission and commit capital are directly rewarded as the protocol captures more network tokens like ETH, SOL, HYPE, CAKE, and BNB and grows stronger.
 
 ### The Losers - Fiat & External Systems
 
 On the other side, the “losing” party isn’t individual users, but rather the US dollar and the system behind it.
 
-When users stake stablecoins into Rezerve, those dollars are effectively converted into ETH exposure and absorbed into the protocol. Over time, this reduces reliance on fiat, shifting value from the traditional financial system into a decentralized, community-owned reserve.
+When users stake stablecoins into Rezerve, those dollars are effectively converted into ETH and other tokens mentioned above and are absorbed into the protocol. Over time, this reduces reliance on fiat, shifting value from the traditional financial system into a decentralized, community-owned reserve.
 
 See: [Raising Debt & Acquiring ETH](mechanics-rzr/raising-debt-and-acquiring-eth/).
 

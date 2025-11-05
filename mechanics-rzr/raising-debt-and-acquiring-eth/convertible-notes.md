@@ -1,5 +1,7 @@
 ---
-description: How the protocol uses convertible notes to raise debt to buy ETH
+description: >-
+  How the protocol uses convertible notes to raise debt to buy network tokens
+  like ETH
 ---
 
 # Convertible Notes

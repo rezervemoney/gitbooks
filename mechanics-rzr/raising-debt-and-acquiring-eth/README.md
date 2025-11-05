@@ -18,17 +18,31 @@ In an environment where the dollar depreciates over time, raising debt denominat
 
 Corporations and governments alike have long exploited this, locking in low interest rates while inflation erodes their liabilities. If a borrower can access USD debt at favorable terms and allocate it into appreciating or scarce assets, they transform a liability into an asymmetric bet.
 
-## Why Acquire ETH Instead of Holding USD?
+## Why Acquire Network Tokens Instead of Holding USD?
 
 <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Ethereum Deflation Hits Record High Six Months After Merge from <a href="https://ultrasound.money/">ultrasound.money</a></p></figcaption></figure>
 
-Ethereum represents the opposite side of this trade: a scarce, programmable asset with increasing utility in decentralized finance (DeFi). With a fixed issuance schedule post-merge and structural deflationary pressures from EIP-1559’s fee burns, ETH is emerging as a store of value with productive yield properties.
+Holding USD or even stablecoins may offer short-term price stability, but it’s fundamentally flawed as a reserve asset. Stablecoins are pegged to fiat currencies that inflate by design, lose purchasing power over time, and offer no native yield. Worse, they introduce centralized risk, regulatory exposure, and no participation in the growth of the crypto economy.
 
-Unlike dollars, which inflate, ETH supply contracts when network activity rises. This makes ETH an attractive hedge against fiat debasement and a cornerstone asset for protocols seeking long-term resilience.
+Rezerve rejects the idea of idle, depreciating capital. Instead, it builds its treasury around the productive assets that power the internet of value: ETH, BNB, SOL, HYPE, and other native network tokens. These aren’t just speculative bets but also they’re structurally scarce, yield-generating, and economically essential.
+
+#### Here’s why:
+
+* **Scarcity by Design:**\
+  Most network tokens like ETH (post-merge), BNB (burn-based model), SOL (fee-burning roadmap), and HYPE have explicit supply constraints or deflationary mechanisms. This contrasts with fiat, which expands uncontrollably.
+*   **Native Yield Generation:**
+
+    These assets produce organic staking yield via validator rewards no inflation games, no need for artificial APYs. By holding and staking them, Rezerve earns real, protocol-level income.
+*   **Monetary Premium in Crypto:**
+
+    ETH secures DeFi, BNB powers Binance Chain, SOL fuels Solana’s high-throughput ecosystem, and HYPE connects to emerging alt-L1 markets. These tokens represent monetary layers of their respective ecosystems, giving them increasing demand as those chains grow.
+*   **Composable Capital:**
+
+    Unlike BTC (which mostly sits idle), these assets plug directly into DeFi from lending markets and LPs to restaking layers and cross-chain DAOs. That means they’re always active, not locked in cold storage.
 
 ## The Rezerve Trade
 
-Rezerve mirrors a classic macroeconomic play: issue debt in inflation-prone dollars, then deploy into appreciating crypto assets like ETH.
+Rezerve executes a modern version of the classic macro trade: borrow in fiat-pegged stablecoins, and convert into scarce, yield-producing crypto assets. But instead of concentrating everything into a single chain or asset, we build a multichain, yield-optimized treasury across the top Layer 1s.
 
 By doing so, the protocol is positioned to benefit from two structural trends:
 
@@ -37,12 +51,18 @@ By doing so, the protocol is positioned to benefit from two structural trends:
 
 Through its [leverage design](leverage-logic.md) and [convertible note](convertible-notes.md) system, Rezerve ensures that borrowed capital is backed not only by ETH but also by USD-denominated locked positions.
 
+#### Here’s how it works:
+
+* Users stake stablecoins via convertible notes, giving Rezerve working capital.
+* That capital is deployed to acquire network tokens like ETH, BNB, SOL, and HYPE.
+* These tokens are then staked, looped into RZR liquidity, or used to back bond issuance—producing yield and reinforcing RZR’s price and supply base.
+
 This dual-layered structure cushions volatility while preserving the upside of the long ETH bet.
 
 The result is a system that mirrors what sophisticated corporates like MicroStrategy did with Bitcoin using cheap fiat debt to accumulate scarce digital assets but tailored for Ethereum’s unique monetary policy and liquidity ecosystem.
 
 ## Conclusion
 
-The dollar is designed to inflate; ETH is designed to be scarce. By raising debt in the former and acquiring the latter, Rezerve is executing a trade that aligns with fundamental macroeconomic realities.
+Where MicroStrategy bought BTC and parked it in cold storage, Rezerve acquires active, composable assets that work for the protocol. We actively participate in its economic engine.
 
-Over time, this strategy positions the protocol not only as a yield engine but also as a treasury manager for a new kind of decentralized reserve asset.
+By accumulating the most productive tokens across chains and converting stablecoins into yield and liquidity, Rezerve isn’t building a passive treasury. It’s building DeFi’s most dynamic, decentralized reserve balance sheet.

@@ -22,17 +22,15 @@ Idle reserves are deployed into reputable lending markets (e.g., Aave, Morpho, S
 
 For example, with billions in USDC under management, even low-risk lending at 3–6% APY provides a meaningful baseline revenue stream to cover operating costs and strengthen the protocol’s floor price.
 
-### 3/ Staking Incentives from ETH
+### 3/ ETH Staking Yield as Core Protocol Income
 
-ETH is at the core of Rezerve’s strategy. By holding and staking ETH, the protocol earns validator rewards and staking yield.
+ETH remains a foundational asset in Rezerve’s treasury strategy. By staking ETH through validator networks, the protocol earns consistent, protocol-level rewards real yield, not inflationary incentives. As the treasury grows, this ETH-denominated yield becomes a powerful and scalable source of recurring income.
 
-With scale, this becomes a major source of recurring income: for example, a treasury holding of $3 billion in ETH could generate $120 million annually at a 4% APR.
-
-This ETH-denominated revenue is especially powerful, since it aligns with Rezerve’s long-term thesis of being structurally long ETH.
+For example, a $3 billion ETH position earning 4% APR would generate over $120 million annually without selling a single token. This form of revenue is especially valuable because it reinforces Rezerve’s core thesis: being structurally long on productive, scarce network assets like ETH, while turning them into ongoing cash flow for buybacks, bonding, and growth.
 
 ### **4/ Harberger-tax stream**
 
-All staked positions self-declare a valuation and prepay a 5 % annual “ownership tax.” The tax drips into the treasury block-by-block, giving the protocol a bond-independent income floor even when trading volumes are thin.
+All staked positions self-declare a valuation and prepay a 5% annual “ownership tax.” The tax drips into the treasury block-by-block, giving the protocol a bond-independent income floor even when trading volumes are thin.
 
 Because users can be bought out if they understate, the mechanism stays honest while producing a predictable cash trickle.
 
@@ -46,8 +44,8 @@ Every unit of revenue is routed into RZR buybacks and burns. As trading fees, le
 
 This creates:
 
-- A rising floor price backed by real protocol earnings.
-- A direct and transparent link between protocol success and tokenholder value.
+* A rising floor price backed by real protocol earnings.
+* A direct and transparent link between protocol success and tokenholder value.
 
 By design, Rezerve avoids inflationary emissions or arbitrary dilution. Instead, it recycles genuine economic activity into demand for its native token, making RZR one of the few DeFi assets with a real, protocol-driven value capture mechanism.
 

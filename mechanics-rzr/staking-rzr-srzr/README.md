@@ -2,14 +2,14 @@
 
 Staking RZR is the foundational way for participants to align with the RZR Protocol’s mission of efficient asset allocation and continuous value growth. When you stake RZR, you lock your tokens into the protocol and receive sRZR in return, representing your share of both ongoing Harberger-tax revenue and bond-driven treasury growth.
 
-Unlike simply holding RZR, staking transforms passive balances into an active yield-bearing position—and grants you governance influence via your sRZR balance.
+Unlike simply holding RZR, staking transforms passive balances into an active yield-bearing position and grants you governance influence via your sRZR balance.
 
-OlympusDAO pioneered the idea of rebasing tokens—automatically minting new tokens for stakers when the treasury grows through bond sales—to convert speculative inflows into yield. ￼ Rezerve Money augments that by adding Harberger-tax receipts as a second, steady revenue stream into PCV, ensuring rebases persist even if bond demand cools.
+OlympusDAO pioneered the idea of rebasing tokens which means automatically minting new tokens for stakers when the treasury grows through bond sales i.e. to convert speculative inflows into yield. ￼ Rezerve Money augments that by adding Harberger-tax receipts as a second, steady revenue stream into PCV, ensuring rebases persist even if bond demand cools.
 
 Here are a few benefits of staking RZR
 
 * **Predictable Yield** - You earn a share of every Harberger-tax dollar and every bond-sale dollar entering the treasury, creating a baseline APY that persists even if speculative bond demand cools.
-* **Auto-Compounding** - Rebases are applied directly to your balance each epoch—no claim or restake steps required—so you capture every increment of yield effortlessly.
+* **Auto-Compounding** - Rebases are applied directly to your balance each epoch—no claim or restake steps required so you capture every increment of yield effortlessly.
 * **Governance Alignment** - By converting RZR into sRZR, you lock tokens into active protocol use, ensuring that those with the greatest stake also have the strongest voice in steering the system.
 * **Capital Efficiency** - Staked RZR backs new bond emissions, reinforcing the protocol-controlled value (PCV) per token and helping maintain the 1 RZR ≥ $1 backing rule.
 
@@ -34,4 +34,4 @@ When you stake RZR:
 
 When you stake RZR (converting it into sRZR), you become both a beneficiary and a contributor to the protocol’s Harberger-tax revenue stream—and that dual role can seem confusing at first. Fundamentally, every sRZR holder declares a value for their staked position and pays a small, continuous tax on that declared value; those tax payments flow straight into the Protocol-Controlled Value (PCV), which then underwrites the periodic rebase rewards that all stakers receive.
 
-In other words, while each staker remits Harberger tax on their own self-assessment, every staker also shares pro-rata in the aggregate PCV-backed rebases—so tax outflows from some positions become yield inflows for the collective staking pool. The mechanism balances incentives: if you undervalue your position to minimize tax, someone else can “snipe” it at that low price; if you overvalue it, you pay more tax but strengthen PCV, which boosts everyone’s future rebases.
+In other words, while each staker remits Harberger tax on their own self-assessment, every staker also shares pro-rata in the aggregate PCV-backed rebases so tax outflows from some positions become yield inflows for the collective staking pool. The mechanism balances incentives: if you undervalue your position to minimize tax, someone else can “snipe” it at that low price; if you overvalue it, you pay more tax but strengthen PCV, which boosts everyone’s future rebases.

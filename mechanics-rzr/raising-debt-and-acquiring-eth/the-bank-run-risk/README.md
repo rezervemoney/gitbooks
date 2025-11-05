@@ -8,7 +8,15 @@ coverY: -92.45393786127168
 
 # The "Bank Run" Risk
 
-Essentially, Rezerve is a protocol that is leveraged long on ETH with its own internal leverage design that allows it to maintain exposure to ETH while minimizing the effects of short-term volatility and liquidation risks. However, the most critical factor that determines the solvency of the protocol is the possibility of a [“Bank run.”](https://en.wikipedia.org/wiki/Bank_run)
+Rezerve builds leveraged, long-term exposure to onchain network tokens with not just ETH, but also BNB, SOL, HYPE, and other high-quality, yield-bearing assets across major chains.
+
+This exposure is acquired through stablecoin-denominated debt (via [convertible notes](../convertible-notes.md)), which is then used to acquire these scarce tokens and integrate them directly into the DeFi economy.
+
+However, the most critical factor that determines the solvency of the protocol is the possibility of a [“Bank run.”](https://en.wikipedia.org/wiki/Bank_run)
+
+{% hint style="info" %}
+While Rezerve accumulates multiple network tokens like ETH, BNB, SOL, and HYPE, we’ll use ETH as the primary example throughout this section for simplicity.
+{% endhint %}
 
 If at any point the total USD value of ETH held as collateral drops below the total outstanding debt of the protocol, it becomes under-collateralized. This can occur due to sharp declines in ETH price, cascading sell pressure on RZR (which is paired with ETH liquidity), or sudden lender withdrawals.
 
@@ -26,8 +34,8 @@ If lenders believe their funds could face losses, they may rush to withdraw simu
 
 The most infamous bank runs that have happened in the crypto-sphere have been the following.
 
-- **FTX Collapse (2022):** Once one of the largest crypto exchanges, FTX imploded after revelations of misused customer deposits and overexposure to illiquid assets like FTT. When confidence evaporated, mass withdrawals overwhelmed the exchange’s reserves, triggering insolvency ([FTX timeline, CoinDesk](https://www.coindesk.com/learn/ftx-collapse-a-timeline-of-the-exchanges-fall/?)). Also see the [FTX case study](the-ftx-case-study.md).
-- **Celsius Network Collapse (2022):** Celsius promised outsized yields on deposits but was overexposed to risky loans and leveraged strategies. When markets turned bearish, users rushed to withdraw, only to find withdrawals frozen. The imbalance between liquid liabilities and illiquid assets led to bankruptcy ([Celsius case summary, Reuters](https://www.reuters.com/technology/crypto-lender-celsius-files-bankruptcy-protection-us-2022-07-13/?)). Also see the [Celsius Network case study](celcius-network-case-study.md).
+* **FTX Collapse (2022):** Once one of the largest crypto exchanges, FTX imploded after revelations of misused customer deposits and overexposure to illiquid assets like FTT. When confidence evaporated, mass withdrawals overwhelmed the exchange’s reserves, triggering insolvency ([FTX timeline, CoinDesk](https://www.coindesk.com/learn/ftx-collapse-a-timeline-of-the-exchanges-fall/?)). Also see the [FTX case study](the-ftx-case-study.md).
+* **Celsius Network Collapse (2022):** Celsius promised outsized yields on deposits but was overexposed to risky loans and leveraged strategies. When markets turned bearish, users rushed to withdraw, only to find withdrawals frozen. The imbalance between liquid liabilities and illiquid assets led to bankruptcy ([Celsius case summary, Reuters](https://www.reuters.com/technology/crypto-lender-celsius-files-bankruptcy-protection-us-2022-07-13/?)). Also see the [Celsius Network case study](celcius-network-case-study.md).
 
 These examples highlight how fragile systems can become when liquidity mismatches meet collapsing confidence.
 

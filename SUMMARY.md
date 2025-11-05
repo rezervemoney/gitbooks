@@ -4,12 +4,15 @@
 * [How To Capture 1 Million ETH?](how-to-capture-1-million-eth/README.md)
   * [The MicroStrategy Approach](how-to-capture-1-million-eth/the-microstrategy-approach.md)
   * [The Rezerve Approach](how-to-capture-1-million-eth/the-rezerve-approach.md)
+* [How To Capture Multi-Chain Network Tokens?](how-to-capture-1-million-eth-1/README.md)
+  * [The MicroStrategy Approach](how-to-capture-1-million-eth-1/the-microstrategy-approach.md)
+  * [The Rezerve Approach](how-to-capture-1-million-eth-1/the-rezerve-approach.md)
 * [The Vision](the-vision.md)
 * [Roadmap: Path to 1 Billion FDV](roadmap-path-to-1-billion-fdv.md)
 * [Is RZR a Zero-Sum Game?](is-rzr-a-zero-sum-game.md)
 * [Competitor Analysis](competitor-analysis/README.md)
-  * [Rezerve vs MicroStrategy](competitor-analysis/rezerve-vs-microstrategy.md)
   * [Rezerve vs OlympusDAO](competitor-analysis/rzr-vs-ohm.md)
+  * [Rezerve vs MicroStrategy](competitor-analysis/rezerve-vs-microstrategy.md)
 
 ## Mechanics - RZR
 
